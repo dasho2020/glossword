@@ -24,7 +24,8 @@ There are some PHP-variables which could be used in PHP-code with a custom page.
 = Where are code examples for custom page? = 
 
 The following example adds new variable `block:dict_updated` to HTML-templates with the list of recently updated dictionaries: 
-{{{ $oTpl->addVal( 'block:dict_updated', 
+{{{
+$oTpl->addVal( 'block:dict_updated', 
    gw_html_block_small( $oL->m('r_dict_updated'), 
      getTop10('DICT_UPDATED', $sys['max_dict_top'], 0)
    ) 
