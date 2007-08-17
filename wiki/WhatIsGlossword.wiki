@@ -1,0 +1,3 @@
+#labels FAQ
+Glossword is the software for creating online multilingual dictionaries, glossaries, encyclopedias.
+
