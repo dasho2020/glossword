@@ -1,5 +1,7 @@
-#summary How to back-up?
+#summary How to make a back-up?
 #labels FAQ
+
+== How to make a back-up? ==
 
 Since 1.8.3, there is a special maintenance task: System -> Maintenance -> Backup
 
