@@ -10,7 +10,10 @@ have a broadband Internet connection. But in the most cases, a hosting provider
 just not allows you to upload such big files into his database administration
 tool (phpMyAdmin or custom). The general purpose of SQL-dump is to import
 it using the command line:
-{{{# mysql database_name -u username -p < dumpfile.sql}}}
+
+{{{
+# mysql database_name -u username -p < dumpfile.sql
+}}}
 
 The most of hosting companies provides information about how to use
 a command line interface (via SSH) for their clients. 
