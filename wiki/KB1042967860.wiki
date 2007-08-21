@@ -1,5 +1,5 @@
 #summary How to edit an unsearchable term?
-#labels FAQ
+#labels FAQ,Phase-Usage,eng
 
 === How to edit an unsearchable term? ===
 
