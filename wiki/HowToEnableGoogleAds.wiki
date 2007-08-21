@@ -1,8 +1,0 @@
-#summary How to enable Google Ads?
-#labels FAQ
-
- # Configure `google_ad_client` in file `/glossword/templates/common/google_ads.txt`.
- # Uncomment the line 213 in `/glossword/custom_vars.php`:
-{{{
-$oTpl->addVal( 'block:google_ads', $oFunc->file_get_contents($sys['path_tpl'].'/common/google_ads.txt') );
-}}}
