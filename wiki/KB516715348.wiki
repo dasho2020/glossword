@@ -1,0 +1,6 @@
+#summary Does Glossword run under Windows?
+#labels FAQ
+
+=== Does Glossword run under Windows? ===
+
+Glossword is PHP-script and it runs under any operating system supported by PHP. Yes, Glossword runs under Windows 2000, Windows XP and Windows Vista also.
