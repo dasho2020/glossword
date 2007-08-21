@@ -1,5 +1,5 @@
 #summary How to enable Google Ads?
-#labels FAQ
+#labels FAQ,Phase-Implementation,eng
 
 === How to enable Google Ads? ===
 
