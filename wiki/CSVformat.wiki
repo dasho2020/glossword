@@ -68,7 +68,7 @@ Examples for:
 The contents of CSV-file per line:
 
 {{{
-1. \tNTSC Format\t\t\t\t\tA color television format [skipped] fps.\t\t\t\tNTSC, PAL format
+1. \tNTSC Format\t\t\t\t\tA color television format [ skipped ] fps.\t\t\t\tNTSC, PAL format
 2. \tatanerk\t\t\t\t\t\t(Okk.)\tboss, lord, master\t\t
 3. \t80\t\t\t\t\tWorld Wide Web HTTP\t\thttp\t\t
 4. \t80\t\t\t\t\tWorld Wide Web HTTP\t\twww\t\t
@@ -86,7 +86,7 @@ _Since 1.8.4_ If you wish to change the order of columns, see file `/inc/constan
 || *A*	|| *B*	|| *C*	|| *D*	|| *E*	|| *F* ||
 || *0*	|| *1*	|| *2*	|| *3*	|| *4*	|| *5* ||
 || *id*	|| *term* 	|| *defn*	|| *abbr*	|| *trns*	|| *see* ||
-||	||NTSC Format	||A color television format [skipped] fps.	||	||	||NTSC, PAL format||
+||	||NTSC Format	||A color television format [ skipped ] fps.	||	||	||NTSC, PAL format||
 
 Change `$arFields` as follows:
 
@@ -114,7 +114,8 @@ Change `$arFields` as follows:
 The contents of modified CSV-file:
 
 {{{
-   1. \tNTSC Format\tA color television format having 525 scan lines (rows) of resolution at thirty frames per second (30 Hz). Found in American and Japanese DVD, VHS video, television and video games. 29.97 fps.\t\tNTSC, PAL format
+   1. \tNTSC Format\tA color television format [ skipped ] fps.\t\tNTSC, PAL format
 }}}
 
 The customizing of file format allows to import terms previously created in different software with different set of columns.
+
