@@ -3,10 +3,10 @@
 
 The installation of Glossword 1.x requires:
 
-* Web server (Apache or IIS or other).
-* PHP version 4.3.3 or newer (5.2.x recommended).
-* Database MySQL version 3.23.5x or newer (5.0.x recommended).
-* 2.5 MBytes of disk storage.
+ * Web server (Apache or IIS or other).
+ * PHP version 4.3.3 or newer (5.2.x recommended).
+ * Database MySQL version 3.23.5x or newer (5.0.x recommended).
+ * 2.5 MBytes of disk storage.
 
 Installation Wizard automatically detects current PHP settings and reports if any problems were found.
 
