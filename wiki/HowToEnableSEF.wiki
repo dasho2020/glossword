@@ -25,12 +25,12 @@ Possible values for `$sys['pages_link_mode']`:
 
 These settings applies for both SEF-enabled or disabled modes.
 
-By enabling SEF and changing `$sys['pages_link_mode']` to `GW_PAGE_LINK_NAME` it is possible to have links like 
+Finally, by enabling SEF and changing `$sys['pages_link_mode']` it is possible to have links like 
 `http://domain.tld/index.php/viewpage/Feedback.xhtml`
 and 
 `http://domain.tld/index.php/term/Tourism,Air broker.xhtml`.
 
 {{{
-$sys['is_mod_rewrite'] = 1
+$sys['is_mod_rewrite'] = 1;
 $sys['pages_link_mode'] = GW_PAGE_LINK_NAME;
 }}}
