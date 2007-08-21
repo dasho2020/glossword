@@ -1,0 +1,11 @@
+#summary How to update Glossword?
+#labels FAQ
+
+The common way to update Glossword version:
+
+ * Download new Glossword package.
+ * Extract and overwrite all files. Check for changes in file `/custom_vars.php` if you have made them before.
+ * Open in browser `/gw_install/` and follow screen instructions.
+ * Once updated, log in to administrative interface and follow System -> Maintenance -> Recount the number of terms for each dictionary.
+
+Be sure you have a backup copy of your database tables before running update.
