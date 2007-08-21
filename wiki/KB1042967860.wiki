@@ -1,0 +1,6 @@
+#summary How to edit an unsearchable term?
+#labels FAQ
+
+=== How to edit an unsearchable term? ===
+
+Type `*` in the search form, select a dictionary, and press "Search". You'll get all terms in a dictionary.
