@@ -1,0 +1,43 @@
+#summary How to install Glossword?
+
+== From the local computer to a remote hosting ==
+
+ * Unpack the package `glossword-1.x.x.tar.bz2` to local machine. Use a tool like 7-Zip [1] to extract file `tar.bz2` or `.7z`.
+ * Upload the contents of ‘/glossword’ directory to your web server.
+ * Set writing permissions for directory ‘glossword/gw_temp’. It can be done with any FTP-client software or by command line: 
+{{{
+# cd /usr/local/apache/htdocs/glossword 
+# chmod 0777 gw_temp (permissions are drwxrwxrwx)
+}}}
+
+  _Note: It is possible to use another temporary directory, but it must be readable by web-server and it must be additionaly defined in file `/inc/config.inc.php`._
+
+ * Set writing permissions for file `/glossword/db_config.php`:
+{{{
+# chmod 0666 db_config.php (permissions are -rw-rw-rw-).
+}}}
+{{{
+Index of /usr/local/apache/htdocs/glossword
+* File/Folder Name         Required CHMOD Value
+*    [DIR] gw_addon        -
+*    [DIR] gw_admin        -
+*    [DIR] gw_install      -
+*    [DIR] gw_locale       -
+*    [DIR] gw_temp         0777
+*    [DIR] gw_xml          -
+*    [DIR] img             -
+*    [DIR] inc             -
+*    [DIR] lib             -
+*    [DIR] templates       -
+*          .htaccess       -
+*          favicon.ico     -
+*          css.php         -
+*          custom_vars.php -
+*          db_config.php   0666
+*          gw_admin.php    -
+*          index.php       -
+*          robots.txt      -
+}}}
+ Please note that chmod levels 0666 and 0777 are required unless your system uses another permissions. For example, if you are using CGIWrap that runs PHP scripts under the UID of the owner of the file, rather than under the UID of the web server, then chmod to 0644 and 0755.
+
+ * Now open in browser `gw_install/install.php` to start the installation process. If your site is www.domain.tld and Glossword is installed into root directory then the URL will be http://www.domain.tld/gw_install/install.php.
