@@ -1,0 +1,15 @@
+#summary Things to do
+#labels Phase-Design
+
+The list of features:
+
+ * 1.8.5 The ability to export just one or several custom pages at a time.
+ * 1.8.x Allow to authors edit the list of search keywords assigned for selected term.
+ * 1.8.x Random term.
+ * 1.8.x The ability to include images in the definitions (partially done).
+ * 1.9.x Bibliography.
+ * 1.9.x RSS capability.
+ * 1.9.x Social bookmarking.
+
+ * [http://wwwguru.net/glossword/demo/index.php/viewpage/Feedback.xhtml Other suggestions are welcome].
+
