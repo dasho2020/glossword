@@ -1,7 +1,7 @@
 #summary How to add a new field?
 #labels FAQ
 
-The adding of a field is not so easy. There are many transformation rules 
+It is not so easy to add a field. There are many transformation rules 
 for each field. HTML-forms are defined in `/inc/class.gw_htmlforms.php`.
 Front-end rendering is defined in `/lib/class.render.php`. This file is also used
 to construct XML-code for storing a dictionary entry. 
@@ -15,4 +15,3 @@ To disable some fields, you can open `/inc/constants.php`, scroll down to
 }}}
 
 It will disable fields `Address` and `Phone`. 
-
