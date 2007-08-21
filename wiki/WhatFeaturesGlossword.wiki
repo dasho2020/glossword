@@ -1,5 +1,5 @@
+#summary What features Glossword?
 #labels FAQ
-#What features Glossword?
 
 = Basic features =
 
