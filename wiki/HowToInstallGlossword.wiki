@@ -5,12 +5,15 @@
 
  * Unpack the package `glossword-1.x.x.zip` to local machine. Use a tool like [http://7-zip.org/ 7-Zip] to extract archive files.
  * Upload the contents of `/glossword` directory to your web server.
- * Set writing permissions for directory `glossword/gw_temp`. It can be done with any FTP-client software or by command line: 
+ * Set writing permissions for directory `glossword/gw_temp` and several subdirectories. It can be done with any FTP-client software or by command line: 
 {{{
 # cd /usr/local/apache/htdocs/glossword 
-# chmod 0777 gw_temp _(permissions are drwxrwxrwx)_
+# chmod 0777 gw_temp               _(permissions are drwxrwxrwx)_
+# chmod 0777 gw_temp/t             _(permissions are drwxrwxrwx)_
+# chmod 0777 gw_temp/a             _(permissions are drwxrwxrwx)_
+# chmod 0777 gw_temp/gw_cache_sql  _(permissions are drwxrwxrwx)_
+# chmod 0777 gw_temp/gw_export     _(permissions are drwxrwxrwx)_
 }}}
-  _Note: It is possible to use another temporary directory, but it must be readable by web server and it must be additionally defined in file `/inc/config.inc.php`._
 
  * Set writing permissions for file `/db_config.php`:
 {{{
@@ -38,9 +41,14 @@ Index of /usr/local/apache/htdocs/glossword
 *          index.php       -
 *          robots.txt      -
 }}}
- _Note: chmod levels 0666 and 0777 are required unless your system uses another permissions. For example, if you are using CGIWrap that runs PHP scripts under the UID of the owner of the file, rather than under the UID of the web server, then chmod to 0644 and 0755._
 
  * Open in browser `gw_install/install.php` to start the installation process. If your site is www.domain.tld and Glossword is installed into root directory then the URL will be http://www.domain.tld/gw_install/install.php.
+
+Notes:
+
+ * It is possible to use another temporary directory, but it must be readable by web server and it must be additionally defined in file `/inc/config.inc.php`.
+
+ * chmod levels 0666 and 0777 are required unless your system uses another permissions. For example, if you are using CGIWrap that runs PHP scripts under the UID of the owner of the file, rather than under the UID of the web server, then chmod to 0644 and 0755.
 
 
 == From the local computer to the local computer ==
