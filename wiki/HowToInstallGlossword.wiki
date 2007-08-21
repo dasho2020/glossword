@@ -8,16 +8,16 @@
  * Set writing permissions for directory `glossword/gw_temp` and several subdirectories. It can be done with any FTP-client software or by command line: 
 {{{
 # cd /usr/local/apache/htdocs/glossword 
-# chmod 0777 gw_temp               _(permissions are drwxrwxrwx)_
-# chmod 0777 gw_temp/t             _(permissions are drwxrwxrwx)_
-# chmod 0777 gw_temp/a             _(permissions are drwxrwxrwx)_
-# chmod 0777 gw_temp/gw_cache_sql  _(permissions are drwxrwxrwx)_
-# chmod 0777 gw_temp/gw_export     _(permissions are drwxrwxrwx)_
+# chmod 0777 gw_temp               (permissions are drwxrwxrwx)
+# chmod 0777 gw_temp/t             (permissions are drwxrwxrwx)
+# chmod 0777 gw_temp/a             (permissions are drwxrwxrwx)
+# chmod 0777 gw_temp/gw_cache_sql  (permissions are drwxrwxrwx)
+# chmod 0777 gw_temp/gw_export     (permissions are drwxrwxrwx)
 }}}
 
  * Set writing permissions for file `/db_config.php`:
 {{{
-# chmod 0666 db_config.php _(permissions are -rw-rw-rw-)_
+# chmod 0666 db_config.php         (permissions are -rw-rw-rw-)
 }}}
 {{{
 Index of /usr/local/apache/htdocs/glossword
