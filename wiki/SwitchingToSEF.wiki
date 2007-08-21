@@ -15,9 +15,4 @@ Location: http://domain.tld/index.php/index/19.xhtml
 It applies to Glossword versions since 1.4.x.
 
 
-
-
-
-
-
-
+[HowToEnableSEF]
