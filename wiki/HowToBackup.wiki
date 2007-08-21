@@ -13,7 +13,7 @@ It is divided into four steps:
 
 Directories with SQL-dumps are named so that it is easy
 to track changes. For example, files for the current date will
-be saved into `sql_backup_2007-08Aug-15`.
+be saved into `sql_backup_2007-08Aug-21`.
 
 
 [HowToUseBackupFiles]
