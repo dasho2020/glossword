@@ -1,0 +1,10 @@
+#summary Why the number of terms did not changed?
+#labels FAQ
+
+=== Why the number of terms did not changed? ===
+
+The number of terms is automatically updated on this events:
+
+ * After editing dictionary settings.
+ * After removing a term.
+ * With internal system maintenance tasks. The probability of running maintenance tasks is defined in `/inc/config.inc.php`, variable `$sys['prbblty_tasks']`. Default value is 3, it means 3 times per 100 page requests.
