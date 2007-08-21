@@ -1,4 +1,6 @@
+#summary Introduction into custom pages
 #labels Phase-Implementation,1.8.x
+
 = What is custom page? =
 
 "Custom page" feature allows administrator to create and modify new pages for Glossword, in addition to pages "Top 10" and "Feedback". Pages are nested, and they have a tree structure. It means some pages (childs) could be placed under another pages (parents).
@@ -55,7 +57,6 @@ chdir('../glossword');
  * `$arV['page_content']` - pre-defined variable.
  * `$oFunc->file_exe_contents()` - function to execute PHP-script and read it's contents.
  * `$oTpl->addVal()` - function to add a variable into HTML-templates.
-
 
 
 
