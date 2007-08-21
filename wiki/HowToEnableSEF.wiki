@@ -1,0 +1,27 @@
+#summary How to enable SEF?
+#labels FAQ
+
+To enable SEF (Search Engine Friendly URLs):
+
+Edit file `/inc/config.inc.php` and set `$sys['is_mod_rewrite'] = 1`;
+
+By enabling SEF (Search Engine Friendly URLs), 
+Glossword will change all links as follows:
+
+A dictionary title page: `/index.php?a=list&d=1` => `/index.php/list/1.xhtml`
+
+A term page: `/index.php?a=term&d=1&t=123` => `/index.php/term/1,123.xhtml`
+
+Since 1.8.4, Apache module `mod_rewrite` is no more needed. 
+You don't have to edit .htaccess file.
+
+
+Since 1.8.4, there is additional mode for the way of creating links.
+Edit file `/inc/config.inc.php`, search for `$sys['pages_link_mode'] = GW_PAGE_LINK_ID;`
+
+Possible values for `$sys['pages_link_mode']`:
+ * `GW_PAGE_LINK_ID` uses Item IDs for dictionary, term, and custom page, i.e. `&d=1`.
+ * `GW_PAGE_LINK_URI` uses Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary Name`, `a=viewpage&id=page_uri`
+ * `GW_PAGE_LINK_NAME` uses Item Names for dictionary, term, and custom page, i.e. `&d=Dictionary`, `a=viewpage&id=Page Name`
+
+These settings applies for both SEF-enabled or disabled modes.
