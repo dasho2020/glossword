@@ -1,5 +1,5 @@
 #summary Why the number of terms did not changed?
-#labels FAQ
+#labels FAQ,Phase-Usage,eng
 
 === Why the number of terms did not changed? ===
 
