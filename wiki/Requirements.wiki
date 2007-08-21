@@ -1,7 +1,9 @@
 #summary What is required to run Glossword?
 #labels FAQ
 
-The installation of Glossword 1.x requires:
+=== What is required to run Glossword? ===
+
+The installation of Glossword 1.8.x requires:
 
  * Web server (Apache or IIS or other).
  * PHP version 4.3.3 or newer (5.2.x recommended).
