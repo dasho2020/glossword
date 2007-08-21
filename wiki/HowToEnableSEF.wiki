@@ -1,5 +1,5 @@
 #summary How to enable SEF?
-#labels FAQ
+#labels FAQ,SEF
 
 To enable SEF (Search Engine Friendly URLs):
 
@@ -34,3 +34,5 @@ and
 $sys['is_mod_rewrite'] = 1;
 $sys['pages_link_mode'] = GW_PAGE_LINK_NAME;
 }}}
+
+[SwitchingToSEF]
