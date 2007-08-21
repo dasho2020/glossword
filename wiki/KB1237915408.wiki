@@ -1,4 +1,4 @@
-#summary Solutions.
+#summary How to synchronize dictionary content
 #labels FAQ
 
 > How to synchronize dictionary content between local and remote installations?
@@ -12,5 +12,4 @@
 #mysql database -u username -p < dumpfile.sql
 }}}
  Since version 1.6.2, Glossword allows to create very large SQL-dumps (more that 100 000 terms) in very nice and suitable way because one file is splitted into small parts. The number of lines in each part is configurable.
-
 
