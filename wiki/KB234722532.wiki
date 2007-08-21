@@ -1,6 +1,6 @@
 #summary Does Glossword run with `magic_quotes_gpc = Off`?
 #labels FAQ
 
-=== Does Glossword run with `magic_quotes_gpc = Off`? ===
+=== Does Glossword run with magic_quotes_gpc = Off? ===
 
 Glossword works with any possible value of `magic_quotes_runtime`, `magic_quotes_gpc`, `magic_quotes_sybase` and `safe_mode`.
