@@ -1,7 +1,7 @@
-#summary One-sentence summary of this page.
+#summary How to enable SEF?
 #labels FAQ
 
-#summary How to enable SEF?
+=== How to enable SEF? ===
 
 To enable SEF (Search Engine Friendly URLs):
 
