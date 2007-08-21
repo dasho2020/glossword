@@ -16,7 +16,7 @@ You don't have to edit .htaccess file.
 
 
 Since 1.8.4, there is additional mode for the way of creating links.
-Edit file `/inc/config.inc.php`, search for `$sys['pages_link_mode'] = GW_PAGE_LINK_ID;`
+Edit file `/inc/config.inc.php`, search for `$sys['pages_link_mode']`.
 
 Possible values for `$sys['pages_link_mode']`:
  * `GW_PAGE_LINK_ID` uses Item IDs for dictionary, term, and custom page, i.e. `&d=1`.
