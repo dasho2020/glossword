@@ -1,5 +1,5 @@
 #summary How to synchronize dictionary content?
-#labels FAQ
+#labels FAQ,eng
 
 === How to synchronize dictionary content between local and remote installations? ===
 

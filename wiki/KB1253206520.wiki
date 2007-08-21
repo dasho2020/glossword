@@ -1,5 +1,5 @@
 #summary How to enable SEF?
-#labels FAQ
+#labels FAQ,eng
 
 === How to enable SEF? ===
 

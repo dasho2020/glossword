@@ -1,5 +1,7 @@
 #summary How to update Glossword?
-#labels FAQ
+#labels FAQ,eng
+
+=== How to update Glossword? ===
 
 The common way to update Glossword version:
 

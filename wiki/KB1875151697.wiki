@@ -1,5 +1,5 @@
 #summary CSV-file format
-#labels FAQ
+#labels FAQ,eng
 
 == Abstract ==
 

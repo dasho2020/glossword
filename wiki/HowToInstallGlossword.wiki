@@ -1,5 +1,5 @@
 #summary How to install Glossword?
-#labels FAQ
+#labels FAQ,eng
 
 == From the local computer to a remote hosting ==
 

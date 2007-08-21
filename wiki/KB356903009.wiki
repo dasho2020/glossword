@@ -1,7 +1,7 @@
 #summary How to use back-up files?
-#labels FAQ
+#labels FAQ,eng
 
-== How to use back-up files? ==
+=== How to use back-up files? ===
 
 Let me give you a short introduction into database administration course.
 
@@ -22,4 +22,4 @@ a command line interface (via SSH) for their clients.
 A cheap hosting does not have command line interface at all, usually.
 
 
-: [KB2098102373]
+: [KB2098102373 How to make a back-up?]

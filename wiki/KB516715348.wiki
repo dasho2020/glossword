@@ -1,5 +1,5 @@
 #summary Does Glossword run under Windows?
-#labels FAQ
+#labels FAQ,eng
 
 === Does Glossword run under Windows? ===
 

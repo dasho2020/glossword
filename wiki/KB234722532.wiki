@@ -1,5 +1,5 @@
 #summary Does Glossword run with `magic_quotes_gpc = Off`?
-#labels FAQ
+#labels FAQ,eng
 
 === Does Glossword run with magic_quotes_gpc switched off? ===
 

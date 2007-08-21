@@ -1,5 +1,5 @@
 #summary How to add a lot of terms at once?
-#labels FAQ,Phase-Usage
+#labels FAQ,Phase-Usage,eng
 
 === How to add a lot of terms at once? ===
 

@@ -1,5 +1,5 @@
 #summary What is unsearchable?
-#labels FAQ
+#labels FAQ,eng
 
 === What is unsearchable? ===
 

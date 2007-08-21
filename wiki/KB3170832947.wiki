@@ -1,5 +1,5 @@
 #summary Is it possible to change charset encoding?
-#labels FAQ
+#labels FAQ,eng
 
 === Is it possible to change charset encoding? ===
 

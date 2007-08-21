@@ -1,5 +1,5 @@
 #summary Will SQL-table names conflict with existent tables?
-#labels FAQ
+#labels FAQ,eng
 
 === Will SQL-table names conflict with existent tables after installation? I have only one database ===
 

@@ -1,5 +1,5 @@
 #summary SEF-related questions and answers
-#labels FAQ
+#labels FAQ,eng
 
 > What will happen when search engines look for old pages?
 

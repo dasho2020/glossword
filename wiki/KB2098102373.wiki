@@ -1,7 +1,7 @@
 #summary How to make a back-up?
-#labels FAQ
+#labels FAQ,eng
 
-== How to make a back-up? ==
+=== How to make a back-up? ===
 
 Since 1.8.3, there is a special maintenance task: System -> Maintenance -> Backup
 
@@ -17,4 +17,4 @@ to track changes. For example, files for the current date will
 be saved into `sql_backup_2007-08Aug-21`.
 
 
-: [KB356903009]
+: [KB356903009 How to use back-up files?]
