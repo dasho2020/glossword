@@ -32,3 +32,6 @@
  * Invisible links to e-mails against mail robots.
  * Internal logging system.
  * Every comprehensive task such as recounting the number of added terms per user, runs separately and it helps to balance server load.
+
+
+:[Requirements What is required to run Glossword?]
