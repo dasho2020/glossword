@@ -14,4 +14,4 @@ Installation Wizard automatically detects current PHP settings and reports if an
 
 To install Glossword on a computer with operating system Windows 2000/XP/2003 it is recommended to use the program [http://sourceforge.net/project/showfiles.php?group_id=44374 Glossword WAMP], which installs all required applications (Apache, MySQL, PHP).
 
-: [HowToInstallGlossword How to install Glossword?]
+: [HowToInstall How to install Glossword?]
