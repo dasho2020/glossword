@@ -5,8 +5,7 @@ To enable SEF (Search Engine Friendly URLs):
 
 Edit file `/inc/config.inc.php` and set `$sys['is_mod_rewrite'] = 1`;
 
-By enabling SEF (Search Engine Friendly URLs), 
-Glossword will change all links as follows:
+After enabling SEF, Glossword will change all links as follows:
 
 A dictionary title page: `/index.php?a=list&d=1` => `/index.php/list/1.xhtml`
 
@@ -25,3 +24,13 @@ Possible values for `$sys['pages_link_mode']`:
  * `GW_PAGE_LINK_NAME` uses Item Names for dictionary, term, and custom page, i.e. `&d=Dictionary`, `a=viewpage&id=Page Name`
 
 These settings applies for both SEF-enabled or disabled modes.
+
+By enabling SEF and changing `$sys['pages_link_mode']` to `GW_PAGE_LINK_NAME` it is possible to have links like 
+`http://domain.tld/index.php/viewpage/Feedback.xhtml`
+and 
+`http://domain.tld/index.php/term/Tourism,Air broker.xhtml`.
+
+{{{
+$sys['is_mod_rewrite'] = 1
+$sys['pages_link_mode'] = GW_PAGE_LINK_NAME;
+}}}
