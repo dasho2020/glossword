@@ -79,6 +79,14 @@ The contents of CSV-file per line:
 
 \t is a `tab` symbol, used in this document to show a tab character.
 
+_Since 1.8.4_ It is possible to import worlists -- terms without definitions:
+{{{
+Term 1
+Term 2
+Term 3
+...
+}}}
+
 == Customizing CSV format ==
 
 _Since 1.8.4_ If you wish to change the order of columns, see file `/inc/constants.php`. Scroll down to `$arFields = array(`. The last parameter in the array defines ordering. For example, to make a CSV-file look like:
