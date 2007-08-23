@@ -8,25 +8,25 @@
  * Set writing permissions for directory `glossword/gw_temp` and several subdirectories. It can be done with any FTP-client software or by command line: 
 {{{
 # cd /usr/local/apache/htdocs/glossword 
-# chmod 0777 gw_temp               (permissions are drwxrwxrwx)
-# chmod 0777 gw_temp/t             (permissions are drwxrwxrwx)
-# chmod 0777 gw_temp/a             (permissions are drwxrwxrwx)
-# chmod 0777 gw_temp/gw_cache_sql  (permissions are drwxrwxrwx)
-# chmod 0777 gw_temp/gw_export     (permissions are drwxrwxrwx)
+# chmod 0777 gw_temp
+# chmod 0777 gw_temp/t
+# chmod 0777 gw_temp/a
+# chmod 0777 gw_temp/gw_cache_sql
+# chmod 0777 gw_temp/gw_export
 }}}
 
  * Set writing permissions for file `/db_config.php`:
 {{{
-# chmod 0666 db_config.php         (permissions are -rw-rw-rw-)
+# chmod 0666 db_config.php
 }}}
 {{{
 Index of /usr/local/apache/htdocs/glossword
-* File/Folder Name         Required CHMOD Value
+* File/Folder Name         CHMOD value  Permissions
 *    [DIR] gw_addon        -
 *    [DIR] gw_admin        -
 *    [DIR] gw_install      -
 *    [DIR] gw_locale       -
-*    [DIR] gw_temp         0777
+*    [DIR] gw_temp         0777         drwxrwxrwx
 *    [DIR] gw_xml          -
 *    [DIR] img             -
 *    [DIR] inc             -
@@ -36,7 +36,7 @@ Index of /usr/local/apache/htdocs/glossword
 *          favicon.ico     -
 *          css.php         -
 *          custom_vars.php -
-*          db_config.php   0666
+*          db_config.php   0666         -rw-rw-rw-
 *          gw_admin.php    -
 *          index.php       -
 *          robots.txt      -
