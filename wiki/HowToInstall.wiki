@@ -21,28 +21,28 @@
 }}}
 {{{
 Index of /usr/local/apache/htdocs/glossword
-* File/Folder Name         CHMOD value  Permissions
-*    [DIR] gw_addon        -
-*    [DIR] gw_admin        -
-*    [DIR] gw_install      -
-*    [DIR] gw_locale       -
-*    [DIR] gw_temp         0777         drwxrwxrwx
-*    [DIR] gw_xml          -
-*    [DIR] img             -
-*    [DIR] inc             -
-*    [DIR] lib             -
-*    [DIR] templates       -
-*          .htaccess       -
-*          favicon.ico     -
-*          css.php         -
-*          custom_vars.php -
-*          db_config.php   0666         -rw-rw-rw-
-*          gw_admin.php    -
-*          index.php       -
-*          robots.txt      -
+File/Folder Name            chmod value  Permissions
+*     [DIR] gw_addon        -
+*     [DIR] gw_admin        -
+*     [DIR] gw_install      -
+*     [DIR] gw_locale       -
+*     [DIR] gw_temp         0777         drwxrwxrwx
+*     [DIR] gw_xml          -
+*     [DIR] img             -
+*     [DIR] inc             -
+*     [DIR] lib             -
+*     [DIR] templates       -
+*           .htaccess       -
+*           favicon.ico     -
+*           css.php         -
+*           custom_vars.php -
+*           db_config.php   0666         -rw-rw-rw-
+*           gw_admin.php    -
+*           index.php       -
+*           robots.txt      -
 }}}
 
- * Open in browser `gw_install/install.php` to start the installation process. If your site is www.domain.tld and Glossword is installed into root directory then the URL will be http://www.domain.tld/gw_install/install.php.
+ * Open in browser `gw_install/install.php` to start the installation process. If your site is www.domain.tld and Glossword is installed into root directory then the URL will be `http://www.domain.tld/gw_install/install.php`.
 
 Notes:
 
