@@ -24,7 +24,7 @@ Here is the fragment of `global.xls`:
 || 1277 || An interesting page ||  ||
 || select_off || Uncheck all ||  ||
 
-To translate phrase `Phone number` into, for example, Spanish, make this section looks like:
+To translate it, for example, to Spanish, make this section looks like:
 
 || ID || Source || Target ||
 || 1277 || An interesting page || Una página interesante ||
