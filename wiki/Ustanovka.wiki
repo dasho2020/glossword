@@ -42,7 +42,7 @@
 *           robots.txt      -
 }}}
 
- * Теперь, если ваш сайт www.domain.tld и Glossword устанавливается в главный каталог, тогда ссылка на программу установки будет `http://www.domain.tld/gw_install/install.php`.
+ * Теперь, если ваш сайт `www.domain.tld` и Glossword устанавливается в главный каталог, тогда ссылка на программу установки будет `http://www.domain.tld/gw_install/install.php`.
 
 Замечания:
 
