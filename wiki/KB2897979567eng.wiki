@@ -1,5 +1,5 @@
 #summary How to create a translation?
-#labels FAQ,eng
+#labels FAQ,eng,Featured
 
 === How to create a translation? ===
 
@@ -32,6 +32,7 @@ To translate phrase `Phone number` into, for example, Spanish, make this section
 
 Save the file and translation is complete.
 
-
 _Hopefully, the next Glossword version 1.8.5 will not have translation files at all. 
 Everything will be stored in database._
+
+: [KB2558745973eng How to install a new translation?]
