@@ -1,10 +1,10 @@
 #summary How to create a translation?
-#labels FAQ,eng,Featured
+#labels FAQ,eng
 
 === How to create a translation? ===
 
 To create your translation variant for Glossword 
-please do not try to edit translation PHP-files directly. 
+please do not try to edit PHP-files with translation directly. 
 Because there are a lot of technical questions you need to resolve. 
 
 Instead, download archive with source phrases in MS Excel format:
@@ -12,7 +12,8 @@ http://sourceforge.net/project/showfiles.php?group_id=44374
 
 It is easy to edit. You have two columns - "Source" and "Target".  
 Write your translation variant into the "Target". 
-Save and send MS Excel file to my email dev at glossword dot info. 
+Save and send MS Excel file to my email dev at glossword dot info.
+Later than I will send you working PHP-files with translation.
 If you will have a questions during translation process, please ask them to me. 
 
 
