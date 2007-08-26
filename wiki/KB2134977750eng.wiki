@@ -1,0 +1,8 @@
+#summary How to edit a term
+#labels FAQ,eng
+
+=== How to edit a term ===
+
+ # Open "Control Panel Home".
+ # Type a term to edit in the search form. You may type `*` to get all terms from the dictionary. 
+ # Click on a term from the search results.
