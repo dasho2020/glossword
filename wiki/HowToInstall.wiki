@@ -5,7 +5,7 @@
 
  * Unpack the package `glossword-1.x.x.zip` to local machine. Use a tool like [http://7-zip.org/ 7-Zip] to extract archive files.
  * Upload the contents of folder `/glossword` to a remote hosting.
- * Set writing permissions for folder `glossword/gw_temp` and several subfolders. It can be done with any FTP-client software or by the command line: 
+ * Set writing permissions for folder `/glossword/gw_temp` and several subfolders. It can be done with any FTP-client software or by the command line: 
 {{{
 # cd /usr/local/apache/htdocs/glossword 
 # chmod 0777 gw_temp
@@ -46,7 +46,7 @@ File/Folder  Name            chmod value  Permissions
 
 Notes:
 
- * It is possible to use another temporary folder, but it must be readable by web server and it must be additionally defined in file `/inc/config.inc.php`.
+ * It is possible to use another temporary folder, but it must be readable by web server and it must be additionally set in file `/inc/config.inc.php`.
 
  * chmod levels 0666 and 0777 are required unless your system uses another permissions. For example, if you are using CGIWrap that runs PHP scripts under the UID of the owner of the file, rather than under the UID of the web server, then chmod to 0644 and 0755.
 
@@ -56,11 +56,10 @@ Notes:
 The installation of Glossword to the local computer with operating systems MS Windows 2000/XP/2003:
 
  * Install [http://sourceforge.net/project/showfiles.php?group_id=44374 Glossword-WAMP].
- * Unpack the contents of file `glossword-1.x.x.zip` into directory `С:\Program Files\Glossword-WAMP\htdocs`.
+ * Unpack the contents of file `glossword-1.x.x.zip` to folder `С:\Program Files\Glossword-WAMP\htdocs`.
  * Open in a browser the link `http://localhost:81/glossword/gw_install/`.
 
 
-Follow instructions in the installation script. 
-The installer will create all required database tables and administration account.
+Follow instructions in the installation script. It will create all required database tables and administration account.
 
 Now you should be able to start using your Glossword site immediately.
