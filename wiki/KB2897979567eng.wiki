@@ -22,13 +22,13 @@ Here is the fragment of `global.xls`:
 
 || ID || Source || Target ||
 || 1277 || An interesting page ||  ||
-|| phone || Phone number ||  ||
+|| select_off || Uncheck all ||  ||
 
 To translate phrase `Phone number` into, for example, Spanish, make this section looks like:
 
 || ID || Source || Target ||
 || 1277 || An interesting page || Una página interesante ||
-|| phone || Phone number || Número Teléfono ||
+|| select_off || Uncheck all || Desmarcar todos ||
 
 Save the file and translation is complete.
 
