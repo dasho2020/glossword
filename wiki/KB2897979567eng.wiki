@@ -1,0 +1,37 @@
+#summary How to create a translation?
+#labels FAQ,eng
+
+=== How to create a translation? ===
+
+To create your translation variant for Glossword 
+please do not try to edit translation PHP-files directly. 
+Because there are a lot of technical questions you need to resolve. 
+
+Instead, download archive with source phrases in MS Excel format:
+http://sourceforge.net/project/showfiles.php?group_id=44374
+
+It is easy to edit. You have two columns - "Source" and "Target".  
+Write your translation variant into the "Target". 
+Save and send MS Excel file to my email dev at glossword dot info. 
+If you will have a questions during translation process, please ask them to me. 
+
+
+=== Translation example ===
+
+Here is the fragment of `global.xls`:
+
+|| ID || Source || Target ||
+|| 1277 || An interesting page ||  ||
+|| phone || Phone number ||  ||
+
+To translate phrase `Phone number` into, for example, Spanish, make this section looks like:
+
+|| ID || Source || Target ||
+|| 1277 || An interesting page || Una página interesante ||
+|| phone || Phone number || Número Teléfono ||
+
+Save the file and translation is complete.
+
+
+_The next Glossword version 1.8.5 will not have translation files at all. 
+Everything will be stored in database._
