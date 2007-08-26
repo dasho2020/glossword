@@ -35,4 +35,4 @@ Save the file and translation is complete.
 _Hopefully, the next Glossword version 1.8.5 will not have translation files at all. 
 Everything will be stored in database._
 
-: [KB2558745973eng How to install a new translation?]
+: [KB2558745973eng How to install a translation?]
