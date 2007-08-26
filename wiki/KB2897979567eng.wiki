@@ -32,7 +32,7 @@ To translate it, for example, to Spanish, make this section looks like:
 
 Save the file and translation is complete.
 
-_Hopefully, the next Glossword version 1.8.5 will not have translation files at all. 
-Everything will be stored in database._
+_Hope, in the next Glossword version 1.8.5 there are will be no translation files at all. 
+Everything will be stored in database. It will allow to create translations faster and easier._
 
 : [KB2558745973eng How to install a translation?]
