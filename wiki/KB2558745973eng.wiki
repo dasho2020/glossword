@@ -1,7 +1,7 @@
-#summary How to install a new translation
+#summary How to install a translation
 #labels FAQ,eng
 
-=== How to install a new translation ===
+=== How to install a translation ===
 
  # [http://sourceforge.net/project/showfiles.php?group_id=44374 Download] a translation variant.
  # Extract archive into folder `/gw_locale'. Use a tool like [http://7-zip.org/ 7-Zip] to extract archive files.
