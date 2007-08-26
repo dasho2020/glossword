@@ -1,5 +1,5 @@
 #summary How to install a translation
-#labels FAQ,eng,Featured
+#labels FAQ,eng
 
 === How to install a translation ===
 
