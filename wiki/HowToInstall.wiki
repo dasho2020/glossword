@@ -4,8 +4,8 @@
 == From the local computer to a remote hosting ==
 
  * Unpack the package `glossword-1.x.x.zip` to local machine. Use a tool like [http://7-zip.org/ 7-Zip] to extract archive files.
- * Upload the contents of `/glossword` directory to your web server.
- * Set writing permissions for directory `glossword/gw_temp` and several subdirectories. It can be done with any FTP-client software or by command line: 
+ * Upload the contents of folder `/glossword` to a remote hosting.
+ * Set writing permissions for folder `glossword/gw_temp` and several subfolders. It can be done with any FTP-client software or by the command line: 
 {{{
 # cd /usr/local/apache/htdocs/glossword 
 # chmod 0777 gw_temp
@@ -21,45 +21,46 @@
 }}}
 {{{
 Index of /usr/local/apache/htdocs/glossword
-File/Folder Name            chmod value  Permissions
-*     [DIR] gw_addon        -
-*     [DIR] gw_admin        -
-*     [DIR] gw_install      -
-*     [DIR] gw_locale       -
-*     [DIR] gw_temp         0777         drwxrwxrwx
-*     [DIR] gw_xml          -
-*     [DIR] img             -
-*     [DIR] inc             -
-*     [DIR] lib             -
-*     [DIR] templates       -
-*           .htaccess       -
-*           favicon.ico     -
-*           css.php         -
-*           custom_vars.php -
-*           db_config.php   0666         -rw-rw-rw-
-*           gw_admin.php    -
-*           index.php       -
-*           robots.txt      -
+File/Folder  Name            chmod value  Permissions
+*      [DIR] gw_addon        -
+*      [DIR] gw_admin        -
+*      [DIR] gw_install      -
+*      [DIR] gw_locale       -
+*      [DIR] gw_temp         0777         drwxrwxrwx
+*      [DIR] gw_xml          -
+*      [DIR] img             -
+*      [DIR] inc             -
+*      [DIR] lib             -
+*      [DIR] templates       -
+*            .htaccess       -
+*            favicon.ico     -
+*            css.php         -
+*            custom_vars.php -
+*            db_config.php   0666         -rw-rw-rw-
+*            gw_admin.php    -
+*            index.php       -
+*            robots.txt      -
 }}}
 
- * Open in browser `gw_install/install.php` to start the installation process. If your site is www.domain.tld and Glossword is installed into root directory then the URL will be `http://www.domain.tld/gw_install/install.php`.
+ * Now, if your site is `www.domain.tld` and Glossword is installing into root directory then the link to installation will be `http://www.domain.tld/gw_install/install.php`.
 
 Notes:
 
- * It is possible to use another temporary directory, but it must be readable by web server and it must be additionally defined in file `/inc/config.inc.php`.
+ * It is possible to use another temporary folder, but it must be readable by web server and it must be additionally defined in file `/inc/config.inc.php`.
 
  * chmod levels 0666 and 0777 are required unless your system uses another permissions. For example, if you are using CGIWrap that runs PHP scripts under the UID of the owner of the file, rather than under the UID of the web server, then chmod to 0644 and 0755.
 
 
 == From the local computer to the local computer ==
 
-The installation of software on the local computer with operating system MS Windows 2000/XP/2003:
+The installation of Glossword to the local computer with operating systems MS Windows 2000/XP/2003:
 
  * Install [http://sourceforge.net/project/showfiles.php?group_id=44374 Glossword-WAMP].
  * Unpack the contents of file `glossword-1.x.x.zip` into directory `С:\Program Files\Glossword-WAMP\htdocs`.
- * Open in a browser the link http://localhost:81/glossword/gw_install/.
- * Follow instructions in the installation script. 
-The installer will create all required database tables and administration account.
+ * Open in a browser the link `http://localhost:81/glossword/gw_install/`.
 
+
+Follow instructions in the installation script. 
+The installer will create all required database tables and administration account.
 
 Now you should be able to start using your Glossword site immediately.
