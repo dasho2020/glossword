@@ -33,5 +33,5 @@ To translate phrase `Phone number` into, for example, Spanish, make this section
 Save the file and translation is complete.
 
 
-_The next Glossword version 1.8.5 will not have translation files at all. 
+_Hopefully, the next Glossword version 1.8.5 will not have translation files at all. 
 Everything will be stored in database._
