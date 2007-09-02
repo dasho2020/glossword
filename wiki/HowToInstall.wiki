@@ -4,7 +4,7 @@
 == From the local computer to a remote hosting ==
 
  * Unpack the package `glossword-1.x.x.zip` to local machine. Use a tool like [http://7-zip.org/ 7-Zip] to extract archive files.
- * Upload the contents of folder `/glossword` to a remote hosting.
+ * Upload the contents of folder `/glossword/1.x` to a remote hosting.
  * Set writing permissions for folder `/glossword/gw_temp` and several subfolders. It can be done with any FTP-client software or by the command line: 
 {{{
 # cd /usr/local/apache/htdocs/glossword 
@@ -42,7 +42,7 @@ File/Folder  Name            chmod value  Permissions
 *            robots.txt      -
 }}}
 
- * Now, if your site is `www.domain.tld` and Glossword is installing into root directory then the link to installation will be `http://www.domain.tld/gw_install/install.php`.
+ * Now, if your site is `www.domain.tld` and Glossword is installing into root directory then the link to installation will be `http://www.domain.tld/gw_install/`.
 
 Notes:
 
