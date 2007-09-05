@@ -5,6 +5,8 @@
 
  * You could make a translation for Glossword interface and (as desirable) to support translation in future.
 
+ * Glossword needs more testing.
+
  * Glossword needs an advertiser who can help Glossword with promotion on web, in scientific and business environments.
 
  * Send donations (details below).
