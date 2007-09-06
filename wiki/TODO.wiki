@@ -3,8 +3,8 @@
 
 The list of features:
 
- * 1.8.5 Implementation of new interface translation engine.
- * 1.8.5 The ability to export just one or several custom pages at a time.
+ * 1.8.x Implementation of new interface translation engine.
+ * 1.8.x The ability to export just one or several custom pages at a time.
  * 1.8.x Allow authors to edit the list of search keywords assigned for a selected term.
  * 1.8.x Random term.
  * 1.8.x The ability to include images in the definition (partially done).
