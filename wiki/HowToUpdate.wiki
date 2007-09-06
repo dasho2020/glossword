@@ -7,7 +7,7 @@ The common way to update Glossword version:
 
  * Download the latest Glossword package.
  * Extract and overwrite all files. 
- * Open in browser `gw_install/install.php` and follow screen instructions. If your site is `www.domain.tld` and Glossword is installed into root directory then the URL will be `http://www.domain.tld/gw_install/install.php`.
+ * Open in browser `gw_install/` and follow screen instructions. If your site is `www.domain.tld` and Glossword is installed into root directory then the URL will be `http://www.domain.tld/gw_install/`.
  * Once updated, log in to administrative interface and follow "System -> Maintenance -> Recount the number of terms for each dictionary".
 
 Be sure you have a backup copy of your database tables before running update.
