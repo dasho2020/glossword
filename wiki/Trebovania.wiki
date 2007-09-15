@@ -1,5 +1,5 @@
 #summary Что необходимо для запуска Glossword?
-#labels вопрос.ответ,rus
+#labels вопрос.ответ,rus,Featured
 
 === Что необходимо для запуска Glossword? ===
 
@@ -18,3 +18,4 @@
 которая устанавливает все необходимые приложения (Apache, MySQL, PHP).
 
 : [Ustanovka Как установить Glossword?]
+ 
