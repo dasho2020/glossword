@@ -3,7 +3,7 @@
 
 === How to update Glossword? ===
 
-_Note:_ Be sure you have a backup copy of your database tables before running update.
+_Note:_ Be sure you have a backup copy of your database tables before running update. Follow System -> System maintenance -> Backup. Complete all steps.
 
 The common way to update Glossword version:
 
@@ -16,3 +16,4 @@ If you have made any changes in Glossword, check the following first:
  * file `/custom_vars.php`.
  * files in `/templates/common`.
  * HTML-code and settings for visual themes.
+ 
