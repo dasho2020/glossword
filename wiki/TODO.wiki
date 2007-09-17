@@ -17,4 +17,15 @@ The list of features:
  * 1.9.x Social bookmarking.
  * 1.9.x Support for MySQLi.
 
+Application design:
+
+ * Extend User management.
+ * Create a "normal" HTML-editor.
+ * RSS for almost any updated data. 
+ * Remove "Clean cache" from interface. All caching schemes should be transparent.
+ * Replace the text of database queries with dynamically created queries. Use [http://en.wikipedia.org/wiki/Active_record_pattern ActiveRecord], for example.
+ * Get rid of XML in stored data. All dictionary entries should be stored as database relations. Better if it would be InnoDB.
+
+
 [http://wwwguru.net/glossword/demo/index.php/viewpage/Feedback.xhtml Other suggestions are welcome].
+ 
