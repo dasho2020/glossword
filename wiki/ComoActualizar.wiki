@@ -16,4 +16,6 @@ Si ha hecho algún cambio en Glossword, compruebe primero lo siguiente:
  * el fichero `/custom_vars.php`.
  * los ficheros de la carpeta `/templates/common`.
  * el código HTML y la configuración de los temas visuales.  
- 
+
+
+: [HowToUpdate eng], [Obnovlenie rus], [ComoActualizar spa]

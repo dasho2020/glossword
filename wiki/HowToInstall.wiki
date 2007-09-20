@@ -63,4 +63,5 @@ The installation of Glossword to the local computer with operating systems MS Wi
 Follow instructions in the installation script. It will create all required database tables and administration account.
 
 Now you should be able to start using your Glossword site immediately.
- 
+
+: [HowToInstall eng], [Ustanovka rus], [ComoInstalar spa]

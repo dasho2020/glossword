@@ -63,3 +63,5 @@ Siga las instrucciones del script de instalación. Éste creará todas las tabla
 
 Ahora debería poder empezar a usar Glossword en su sitio inmediatamente.
 
+
+: [HowToInstall eng], [Ustanovka rus], [ComoInstalar spa]

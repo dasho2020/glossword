@@ -17,5 +17,5 @@ If you have made any changes in Glossword, check the following first:
  * files in folder `/templates/common`.
  * HTML-code and settings for visual themes.
  
- 
- 
+
+: [HowToUpdate eng], [Obnovlenie rus], [ComoActualizar spa]
