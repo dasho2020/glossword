@@ -15,3 +15,5 @@ El asistente de instalación detecta automáticamente la configuración actual d
 Para instalar Glossword en un ordenador con sistemas operativos Windows 2000/XP/2003 se recomienda usar el programa [http://sourceforge.net/project/showfiles.php?group_id=44374 Glossword WAMP]. Éste instala todas las aplicaciones necesarias (Apache, MySQL, PHP). 
 
 : [ComoInstalar ¿Cómo instalar Glossword?]
+
+: [Requirements eng], [Trebovania rus]
