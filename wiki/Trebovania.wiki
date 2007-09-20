@@ -18,4 +18,5 @@
 которая устанавливает все необходимые приложения (Apache, MySQL, PHP).
 
 : [Ustanovka Как установить Glossword?]
- 
+
+: [Requirements eng], [Trebovania rus], [Requisitos spa]

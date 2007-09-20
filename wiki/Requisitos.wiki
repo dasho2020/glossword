@@ -16,4 +16,4 @@ Para instalar Glossword en un ordenador con sistemas operativos Windows 2000/XP/
 
 : [ComoInstalar ¿Cómo instalar Glossword?]
 
-: [Requirements eng], [Trebovania rus]
+: [Requirements eng], [Trebovania rus], [Requisitos spa]
