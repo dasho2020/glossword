@@ -17,5 +17,6 @@ Si ha hecho algún cambio en Glossword, compruebe primero lo siguiente:
  * los ficheros de la carpeta `/templates/common`.
  * el código HTML y la configuración de los temas visuales.  
 
+: [ComoInstalar ¿Cómo instalar Glossword?]
 
 : [HowToUpdate eng], [Obnovlenie rus], [ComoActualizar spa]
