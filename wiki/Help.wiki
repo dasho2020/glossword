@@ -3,7 +3,7 @@
 
 === How can I help to Glossword? ===
 
- * Glossword needs more testing.
+ * Glossword needs a lot more testing. It consists of many complicated parts and it's hard  to check all of them at once alone.
 
  * You could make a translation for Glossword interface and (as desirable) to support translation in future.
 
