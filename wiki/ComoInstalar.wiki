@@ -3,7 +3,7 @@
 
 == Desde el ordenador local a un alojamiento remoto ==
 
- * Descomprima el paquete `glossword-1.x.x.zip` to local machine. en la máquina local. Use una herramienta como [http://7-zip.org/ 7-Zip] para extraer los ficheros.
+ * Descomprima el paquete `glossword-1.x.x.zip` en la máquina local. Use una herramienta como [http://7-zip.org/ 7-Zip] para extraer los ficheros.
  * Suba el contenido de la carpeta `/glossword/1.x` al alojamiento remoto.
  * Establezca permisos de escritura para la carpeta `/glossword/gw_temp` y varias subcarpetas. Se puede hacer con cualquier software cliente de FTP o desde la línea de comandos:
 {{{
