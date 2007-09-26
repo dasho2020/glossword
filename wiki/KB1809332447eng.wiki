@@ -7,7 +7,7 @@ The scheme works this way:
 
  * Default visual theme (and interface language) is set in system settings.
  * A dictionary could have "the same as system" visual theme and interface language.
- * A dictionary could have it's own default visual theme and interface language separately from system settings.
+ * A dictionary could have its own default visual theme and interface language separately from system settings.
  * System settings will be used when a user searches in all dictionaries.
 
 Examples:
@@ -22,4 +22,4 @@ Examples:
    * System settings: Theme A
    * "Dictionary 1": As system
 
-If a visual theme allows to user select another visual theme and another interface language (other than the default), the new settings will be applied for the whole site.
+If a visual theme allows the user to select another visual theme and another interface language (other than the default), the new settings will be applied for the whole site.
