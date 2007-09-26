@@ -1,0 +1,25 @@
+#summary How settings for visual theme and interface language work?
+#labels FAQ,eng
+
+=== How settings for visual theme and interface language work? ===
+
+The scheme works this way:
+
+ * Default visual theme (and interface language) is set in system settings.
+ * A dictionary could have "the same as system" visual theme and interface language.
+ * A dictionary could have it's own default visual theme and interface language separately from system settings.
+ * System settings will be used when a user searches in all dictionaries.
+
+Examples:
+
+ * I need "Theme A" for the site and "Theme B" for "Dictionary 1" only.
+   * System settings: Theme A
+   * "Dictionary 1": Theme B
+   * "Dictionary 2": As system
+   * "Dictionary 3": As system
+
+ * I have one dictionary and it is assigned as main page. I need one theme.
+   * System settings: Theme A
+   * "Dictionary 1": As system
+
+If a visual theme allows to user select another visual theme and another interface language (other than the default), the new settings will be applied for the whole site.
