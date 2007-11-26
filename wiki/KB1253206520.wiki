@@ -16,14 +16,13 @@ A term page: `/index.php?a=term&d=1&t=123` => `/index.php/term/1,123.xhtml`
 Since 1.8.4, Apache module `mod_rewrite` is no more needed. 
 You don't have to edit .htaccess file.
 
-
 Since 1.8.4, there is additional mode for the way of creating links.
 Edit file `/inc/config.inc.php`, search for `$sys['pages_link_mode']`.
 
 Possible values for `$sys['pages_link_mode']`:
- * `GW_PAGE_LINK_ID` uses Item IDs for dictionary, term, and custom page, i.e. `&d=1`.
- * `GW_PAGE_LINK_URI` uses Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary Name`, `a=viewpage&id=page_uri`
- * `GW_PAGE_LINK_NAME` uses Item Names for dictionary, term, and custom page, i.e. `&d=Dictionary`, `a=viewpage&id=Page Name`
+ * `GW_PAGE_LINK_ID` uses numeric-only Item IDs for dictionary, term, and custom page, i.e. `&d=1`, `&t=2345`.
+ * `GW_PAGE_LINK_URI` uses ASCII-only Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary-Name`, `a=viewpage&id=page_uri`
+ * `GW_PAGE_LINK_NAME` uses url-encoded Item Names for dictionary, term, and custom page, i.e. `&d=Dictionary+Name`, `a=viewpage&id=Page Name`
 
 These settings applies for both SEF-enabled or disabled modes.
 
