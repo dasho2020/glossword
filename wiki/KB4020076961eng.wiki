@@ -2,7 +2,7 @@
 
 == The list of changes ==
 
-=== Glossword 1.8.6 (Released on December 2, 2007) ===
+=== Changes in Glossword 1.8.6 (Released on December 2, 2007) ===
 
 new features or major changes
     * added custom alphabetic order.
@@ -12,8 +12,8 @@ new features or major changes
 updates
     * changed term editing page.
     * changes in database indexes.
-    * changes in alphabetic orders.
     * minor changes in visual themes editor.
+    * changes in alphabetic orders (`A, B, C` instead of `A, AB, ABC`).
 
 bug fixes
     * fixes for CSV import/export.
@@ -21,3 +21,33 @@ bug fixes
     * fixed an incorrect page number (zero).
     * fixed path names to images in visual themes.
     * fixed error with saving the selection of visual theme or interface language.
+
+
+=== Changes in 1.8.5 (released on September 22, 2007) ===
+
+new features or major changes
+
+    * added new visual theme.
+    * search results are ordered by the number of search characters found in them, then alphabetically.
+    * added Uniform resource identifier (URI) for terms and dictionaries. Any term or dictionary could be located under a custom URL. The identifier included into XML-format.
+
+updates
+
+    * cosmetic changes in installation wizard.
+    * changes in HTML-code for Opera and Safari.
+    * added the "title" attribute for external links.
+    * added a tooltip to the Transcription field, like the one for Usage of term.
+    * added the ability to check or uncheck all user permissions or assigned dictionaries at once.
+    * added new option for dictionary. The list of recently added terms can be displayed as a table or in a one string.
+
+bug fixes
+
+    * fixed `css_style` warning on editing a CSS.
+    * fixed error with redirecting a search engine.
+    * fixed javascript error on editing abbreviations.
+    * fixed the displaying of the HTML-entities in abbreviations.
+    * fixed several errors when a dictionary assigned as main page.
+    * fixed error with selecting last dictionary in the search form.
+    * fixed `gmt_offset` warning on editing a topic and on adding a user.
+    * fixed switching interface language for the entrance to control panel.
+    * fixed errors related to accessing dictionary database tables with a custom prefix.
