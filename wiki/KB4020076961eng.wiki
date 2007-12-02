@@ -1,9 +1,9 @@
 #summary The list of changes
 #labels eng
 
-== The list of changes ==
+== The list of changes in Glossword ==
 
-=== Changes in Glossword 1.8.6 (Released on December 2, 2007) ===
+=== Changes in 1.8.6 (released on December 2, 2007) ===
 
 new features or major changes
     * added custom alphabetic order.
