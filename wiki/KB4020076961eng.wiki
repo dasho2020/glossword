@@ -1,0 +1,23 @@
+#summary The list of changes
+
+== The list of changes ==
+
+=== Glossword 1.8.6 (Released on December 2, 2007) ===
+
+new features or major changes
+    * added custom alphabetic order.
+    * added CTRL+Enter to submit a form.
+    * added the history of changes for terms.
+
+updates
+    * changed term editing page.
+    * changes in database indexes.
+    * changes in alphabetic orders.
+    * minor changes in visual themes editor.
+
+bug fixes
+    * fixes for CSV import/export.
+    * fixes for `xref` and `stress` tags.
+    * fixed an incorrect page number (zero).
+    * fixed path names to images in visual themes.
+    * fixed error with saving the selection of visual theme or interface language.
