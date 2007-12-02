@@ -1,4 +1,5 @@
 #summary The list of changes
+#labels eng
 
 == The list of changes ==
 
@@ -19,9 +20,9 @@ bug fixes
     * fixes for CSV import/export.
     * fixes for `xref` and `stress` tags.
     * fixed an incorrect page number (zero).
+    * fixes for a search engine (redirects).
     * fixed path names to images in visual themes.
     * fixed error with saving the selection of visual theme or interface language.
-
 
 === Changes in 1.8.5 (released on September 22, 2007) ===
 
