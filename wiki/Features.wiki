@@ -19,7 +19,7 @@
 == For authors and editors ==
 
  * Installation wizard. Installs, updates and even uninstalls the software.
- * SEF support and SEO enhancements.
+ * The history of editing for terms
  * Delayed postings.
  * Highly customized visual themes with HTML-templates, CSS style sheets and additional multicolumn rendering mode for the list of terms.
  * Visual themes editor.
