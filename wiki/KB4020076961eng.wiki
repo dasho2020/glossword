@@ -13,15 +13,22 @@ new features or major changes
 updates
     * changed term editing page.
     * changes in database indexes.
+    * minor changes in abbreviations.
+    * changes for xref tag in HTML-editor.
     * minor changes in visual themes editor.
+    * added different HTML-page titles in different feedback forms.
     * changes in alphabetic orders (`A, B, C` instead of `A, AB, ABC`).
+    * changed creation dates for a custom pages and dictionaries on install.
+
 
 bug fixes
     * fixes for CSV import/export.
+    * fixed error warnings on backup.
     * fixes for `xref` and `stress` tags.
     * fixed an incorrect page number (zero).
     * fixes for a search engine (redirects).
     * fixed path names to images in visual themes.
+    * fixed error with highlighting search results.
     * fixed error with saving the selection of visual theme or interface language.
 
 === Changes in 1.8.5 (released on September 22, 2007) ===
