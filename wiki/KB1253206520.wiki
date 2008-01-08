@@ -24,7 +24,7 @@ Possible values for `$sys['pages_link_mode']`:
  * `GW_PAGE_LINK_URI` uses ASCII-only Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary-Name`, `a=viewpage&id=page_uri`
  * `GW_PAGE_LINK_NAME` uses url-encoded Item Names for dictionary, term, and custom page, i.e. `&d=Dictionary+Name`, `a=viewpage&id=Page Name`
 
-These settings applies for both SEF-enabled or disabled modes.
+These settings apply for both SEF-enabled or disabled modes.
 
 Finally, by enabling SEF and changing `$sys['pages_link_mode']` it is possible to have links like 
 `http://domain.tld/index.php/viewpage/Feedback.xhtml`
