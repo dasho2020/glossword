@@ -1,5 +1,5 @@
 #summary How can I help to Glossword?
-#labels FAQ,eng
+#labels FAQ,eng,Featured
 
 === How can I help to Glossword? ===
 
