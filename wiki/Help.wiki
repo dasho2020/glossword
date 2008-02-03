@@ -29,7 +29,7 @@
  * Use Western Union. To send money, [http://www.westernunion.com/info/agentLocatorLookup.asp find the nearest Western Union department] located in your city.
  {{{
       Receiver
-      First name: Nickolay Vladimirovich
+      First name: Dmitry Nickolaevich
       Last name: Shilnikov
       Town/City: Noginsk, Moscow region
       Country: Russian Federation
