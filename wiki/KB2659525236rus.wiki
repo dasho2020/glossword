@@ -1,0 +1,10 @@
+#summary Как включить Google Ads?
+#labels FAQ,Phase-Implementation,rus
+
+=== Как включить Google Ads? ===
+
+ # Настройте `google_ad_client` в файле`/glossword/templates/common/google_ads.txt`.
+ # Раскомментируйте строку 215 в `/glossword/custom_vars.php`:
+{{{
+$oTpl->addVal( 'block:google_ads', $oFunc->file_get_contents($sys['path_tpl'].'/common/google_ads.txt') );
+}}} 
