@@ -6,5 +6,8 @@
 You can type `http://www.domain.tld/` anywhere in the text, then check "Automatically parse hyperlinks" and "Save". 
 
 The link `http://www.domain.tld/` will be converted to HTML-code:
-{{{<a href="http://www.domain.tld/" title="domain.tld" 
-onclick="nw(this);return false;">www.domain.tld</a>}}}
+
+{{{
+<a href="http://www.domain.tld/" title="domain.tld" 
+onclick="nw(this);return false;">www.domain.tld</a>
+}}}
