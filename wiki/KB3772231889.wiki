@@ -3,7 +3,7 @@
 
 === Why I'm receiving message "403 Permission Denied"? ===
 
-*Q:* When I start with : http://mydomain/glossword/gw_install, 
+*Q:* When I start with `http://mydomain/glossword/gw_install`, 
 I have the following message:
 
 {{{
@@ -12,4 +12,5 @@ You do not have permission for this request
 }}}
 
 *A:* Try to rename or remove file `/glossword/.htaccess`.
+
 Also, there is shortcut to installation: `/glossword/install.php`.
