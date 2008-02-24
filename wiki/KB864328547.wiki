@@ -9,5 +9,5 @@ The link `http://www.domain.tld/` will be converted to HTML-code:
 
 {{{
 <a href="http://www.domain.tld/" title="domain.tld" 
-onclick="nw(this);return false;">www.domain.tld</a>
+onclick="window.open(this);return false;">http://www.domain.tld/</a>
 }}}
