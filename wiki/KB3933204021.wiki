@@ -1,0 +1,29 @@
+#labels FAQ,Phase-Implementation,eng
+How to update from 1.7.0 to 1.8.4
+
+=== How to update from 1.7.0 to 1.8.4 ===
+
+You can export terms into XML format in version 1.7.0, install 1.8.4 and import XML-file into 1.8.4.
+
+For 1.7.0 it is possible to update to 1.8.3. The script to update from such old versions exists prior to 1.8.3. 
+
+=== Updating ===
+
+ # use version 1.8.3
+  * run `/gw_install/install.php`
+  * select "update to 1.8.0"
+  * remove `/gw_term/gw_install.lock`
+  * run /gw_install/install.php
+  * select "update to 1.8.1"
+  * remove `/gw_term/gw_install.lock`
+  * run `/gw_install/install.php`
+  * select "update to 1.8.2"
+  * remove `/gw_term/gw_install.lock`
+  * run /gw_install/install.php
+  * select "update to 1.8.3"
+  * remove `/gw_term/gw_install.lock`
+ # And finally, use version 1.8.4,
+  * run `/gw_install/install.php`
+  * select "update to 1.8.4" 
+
+:[KB1642090376 Release dates]
