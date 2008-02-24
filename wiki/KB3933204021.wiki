@@ -1,5 +1,5 @@
+#summary How to update from 1.7.0 to 1.8.4
 #labels FAQ,Phase-Implementation,eng
-How to update from 1.7.0 to 1.8.4
 
 === How to update from 1.7.0 to 1.8.4 ===
 
