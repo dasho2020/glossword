@@ -8,6 +8,7 @@ The list of features:
  * 1.8.x Allow authors to edit the list of search keywords assigned for a selected term.
  * 1.8.x Random term.
  * 1.8.x The ability to include images in the definition (partially done).
+ * 1.8.x The ability to include audio in the definition (partially done).
 
 
  * 1.9.x Topics inside dictionaries (also called as "tags", "subdictionaries")
