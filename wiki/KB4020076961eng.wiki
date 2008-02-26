@@ -76,3 +76,5 @@ bug fixes
     * fixed `gmt_offset` warning on editing a topic and on adding a user.
     * fixed switching interface language for the entrance to control panel.
     * fixed errors related to accessing dictionary database tables with a custom prefix.
+
+:[TODO Things to do]
