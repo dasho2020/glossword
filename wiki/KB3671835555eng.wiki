@@ -52,8 +52,7 @@ When set to 5, the process of downloading by software will never end. "Anti-leec
 
 Do not set it too high. As there are several links to the same term, it produces "duplicate content" problem with search engines.
 
+
 The feature "Anti-leecher" is available since Glossword version 1.3.3 (July 25, 2002).
+
 The ability use a custom URLs for terms available since version 1.8.5 (September 22, 2007).
-
-
-
