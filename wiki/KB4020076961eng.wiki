@@ -77,4 +77,73 @@ bug fixes
     * fixed switching interface language for the entrance to control panel.
     * fixed errors related to accessing dictionary database tables with a custom prefix.
 
+
+=== Changes in 1.8.4 (released on August 23, 2007) ===
+
+new features or major changes
+    * added `Send the page`.
+    * added `auto-asterisks` for 27647 hieroglyphs.
+    * added support for incorrectly formed XML-files.
+    * changed algorithm for CAPTCHA. Now it is much stronger.
+    * added customization for the list of recently added terms.
+    * added [http://opensearch.org/ OpenSearch] support. New page option `Add to search`.
+    * added customization for page options on a per dictionary basis.
+    * new SEF-mode. Apache module `mod_rewrite` is no more needed to have `clean` URLs.
+    * added delayed postings. A user can specify the date when a term will be published.
+    * added new dictionary option `As in the system settings` for the selection of languages and visual themes.
+    * added the time limit handling when importing terms. The script fits into the `max_execution_time` value instead of trying to increase it.
+    * added extended support for SEF вЂ” now real names are used not only for custom pages, but also for dictionaries and terms (term: /term/Tourism,Air broker.xhtml, dictionary: /index/Tourism.xhtml).
+    * added text filter for incoming HTML вЂ” terms, dictionary descriptions, visual themes etc. Handles incorrectly entered tags, attributes, entities. Transforms &amp;& into &amp;&amp;, alt="quote"" into alt="quote&quot;" and many more.
+
+updates
+    * changed page titles for better SEO.
+    * added customizable prefix for e-mail subject.
+    * translation files were moved to one directory.
+    * added over 10 configurable visual settings for a dictionary.
+    * added the ability to view search keywords assigned to a term.
+    * added automatic window scroll to previously edited abbreviation.
+    * added the ability to change columns ordering in CSV-file format.
+    * changes in attributes and names for HTML-variables in all visual themes.
+    * option `the number of terms per page` moved from system settings to dictionary settings.
+    * added link to add a term from the list of recently updated dictionaries in control panel.
+    * symbol (arrow) that indicates internal or external links moved from system settings to visual theme settings.
+    * changed default sorting order for abbreviations. Now ordered by abbreviation ID for easier editing abbreviations written in two or more languages.
+    * added to the configuration file: the maximum number of terms listed in the search results (default 1000), the maximum number of lines for imported CSV-files (default 5000).
+
+bug fixes
+    * fixes for SQL-export.
+    * fixed `ampersand` issue.
+    * fixed `dictionary dates` issue.
+    * fixed `last page results` issue.
+    * removed annoying `0` from meta keywords.
+    * fixed incorrect link to `Top 10` page in SEF mode.
+    * fixed incorrect link to main page from print view.
+    * removed links to empty terms from the search results.
+
+
+=== Changes in 1.8.3 (released on June 21, 2007) ===
+
+new features or major changes
+
+    * changed layout for administrative menu.
+    * added `Backup` option to maintenance section.
+    * added new option `Term is complete` for a term editing page.
+
+updates
+
+    * added checksum for terms.
+    * added `captcha` for feedback form.
+    * added the ability to search in uncompleted terms only.
+    * added an extra time range for pages with exportable data.
+    * added an indicator for uncompleted terms (marked with `?`).
+
+bug fixes
+
+    * fixed `server time` issue.
+    * fixed CSS-styles for IE7.
+    * fixes for installation wizard.
+    * fixed translation for HTML-toolbar.
+    * fixed `DEFAULT CHARSET` issue for MySQL versions below 4.1.x.
+
+
 :[TODO Things to do]
