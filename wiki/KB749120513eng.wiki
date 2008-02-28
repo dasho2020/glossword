@@ -1,4 +1,4 @@
-#summary Colorful abbreviations
+#summary Modification: Colorful abbreviations
 #labels Phase-Implementation,eng
 
 === Colorful abbreviations ===
@@ -123,8 +123,6 @@ The end.
 
 ----
 http://glossword.googlecode.com/svn/wiki/mod-abbr-colors.png
-
-
 
 
 
