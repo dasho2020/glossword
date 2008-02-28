@@ -92,8 +92,8 @@ new features or major changes
     * added delayed postings. A user can specify the date when a term will be published.
     * added new dictionary option `As in the system settings` for the selection of languages and visual themes.
     * added the time limit handling when importing terms. The script fits into the `max_execution_time` value instead of trying to increase it.
-    * added extended support for SEF вЂ” now real names are used not only for custom pages, but also for dictionaries and terms (term: /term/Tourism,Air broker.xhtml, dictionary: /index/Tourism.xhtml).
-    * added text filter for incoming HTML -- terms, dictionary descriptions, visual themes etc. Handles incorrectly entered tags, attributes, entities. Transforms &amp;& into &amp;&amp;, alt="quote"" into alt="quote&quot;" and many more.
+    * added extended support for SEF -- now real names are used not only for custom pages, but also for dictionaries and terms (term: `/term/Tourism,Air broker.xhtml`, dictionary: `/index/Tourism.xhtml`).
+    * added text filter for incoming HTML -- terms, dictionary descriptions, visual themes etc. Handles incorrectly entered tags, attributes, entities. Transforms `&amp;&` into `&amp;&amp;`, `alt="quote""` into `alt="quote&quot;"` and many more.
 
 updates
     * changed page titles for better SEO.
