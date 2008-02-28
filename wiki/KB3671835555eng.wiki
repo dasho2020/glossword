@@ -48,7 +48,7 @@ When "Anti-leecher" is turned on, the dictionary is protected against an automat
 $sys['leech_factor'] = 2;
 }}}
 
-When set to 5, the process of downloading by software will never end. "Anti-leecher" generates 5 variants of links to term per each dictionary page.
+When set to 5, the process of downloading by software will never end. "Anti-leecher" generates 5 different variants of links to term per each dictionary page request.
 
 Do not set it too high. As there are several links to the same term, it produces "duplicate content" problem with search engines.
 
