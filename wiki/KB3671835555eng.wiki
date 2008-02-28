@@ -11,7 +11,7 @@ By default, an URL to the term looks as follows:
 /index.php?a=term&d=1&t=123
 }}}
 
-Where `1` is Dictionary ID and `123` is Term ID. The user (leecher) can automatically generate links to download all your dictionary.
+Where `1` is Dictionary ID and `123` is Term ID. The user (leecher) can automatically generate links to download all your dictionary:
 
 {{{
 /index.php?a=term&d=1&t=1
@@ -26,21 +26,20 @@ To prevent that, Glossword generates a random number for Term ID:
 /index.php?a=term&d=1&t=1
 /index.php?a=term&d=1&t=3
 /index.php?a=term&d=1&t=7
-etc.
 }}}
 
 It makes an automatic download longer.
 
 ===  Why one should activate that? === 
 
-With enabled `anti-leacher` it is impossible to generate the Term IDs, because links are constructed by this way:
+With enabled "Anti-leacher" it is impossible to generate Term IDs because links are constructed by another way:
 {{{
 /index.php?a=term&d=1&t=a3a25ea7539e5671a39b6ba559a3575b
 }}}
 
 === How does it work? ===
 
-When `anti-leecher` is turned on, the dictionary is protected against an automatic downloaders. Glossword increases the amount of pages in 2 times. This parameter is configurable in `/inc/config.inc.php`:
+When "Anti-leecher" is turned on, the dictionary is protected against an automatic downloaders. Glossword increases the amount of pages in 2 times. This parameter is configurable in `/inc/config.inc.php`:
 {{{
 $sys['leech_factor'] = 2;
 }}}
