@@ -112,7 +112,7 @@ if (($tmp['str'] != '') || $tmp['attributes'][$chK] != '--')
 }}}
 	Replace with
 {{{
-.abbr-1,.abbr-2, .abbr-3,.abbr-5  { margin: 0; padding: 0; background: transparent; font: bold 100% sans-serif; }
+.abbr-1,.abbr-2,.abbr-3,.abbr-5  { margin: 0; padding: 0; font: bold 100% sans-serif; }
 .abbr-1 { color: #e30700; }
 .abbr-2 { color: #9b67c7; }
 .abbr-3 { color: #5bbf3f; }
@@ -123,8 +123,6 @@ The end.
 
 ----
 http://glossword.googlecode.com/svn/wiki/mod-abbr-colors.png
-
-
 
 
 
