@@ -57,4 +57,4 @@ The feature "Anti-leecher" is available since version 1.3.3 (July 25, 2002).
 
 The ability use a custom URLs for terms is available since version 1.8.5 (September 22, 2007).
 
-:[KB1642090376 Release Dates] [KB4020076961eng The list of changes]
+:[KB1642090376 Release dates] [KB4020076961eng The list of changes]
