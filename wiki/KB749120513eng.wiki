@@ -50,7 +50,7 @@ while (list($k, $arV) = each($arSql))
 	if ($arDictParam['is_abbr_long'])
 	{
 		$tmp['abbr0'][sprintf('%03d', $arV['id_abbr'])] = $arV['abbr_long'];
-			$tmp['abbr1'][sprintf('%03d', $arV['id_abbr'])] = $arV['abbr_short'];
+		$tmp['abbr1'][sprintf('%03d', $arV['id_abbr'])] = $arV['abbr_short'];
 	}
 	else
 	{
@@ -123,8 +123,6 @@ The end.
 
 ----
 http://glossword.googlecode.com/svn/wiki/mod-abbr-colors.png
-
-
 
 
 
