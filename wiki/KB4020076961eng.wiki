@@ -146,4 +146,4 @@ bug fixes
     * fixed `DEFAULT CHARSET` issue for MySQL versions below 4.1.x.
 
 
-:[TODO Things to do]
+:[KB1642090376 Release dates] [TODO Things to do]
