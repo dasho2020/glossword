@@ -3,7 +3,7 @@
 
 === What is "anti-leecher"? === 
 
-Anti-leecher in Glossword is the way how links to terms are generated. It is available in a dictionary settings.
+Anti-leecher in Glossword is the way how links to terms are generated. It is available in the dictionary settings.
 
 By default, an URL to the term looks as follows:
 
