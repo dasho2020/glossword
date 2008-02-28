@@ -121,9 +121,8 @@ if (($tmp['str'] != '') || $tmp['attributes'][$chK] != '--')
 
 The end.
 
+----
 http://glossword.googlecode.com/svn/wiki/mod-abbr-colors.png
-
-
 
 
 
