@@ -22,4 +22,4 @@ Examples:
    * System settings: Theme A
    * "Dictionary 1": As system
 
-If a visual theme allows the user to select another visual theme and another interface language (other than the default), the new settings will be applied for the whole site.
+If a visual theme allows the user to select another visual theme and another interface language (other than the default), the new settings will be applied for the entire site.
