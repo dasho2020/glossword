@@ -5,7 +5,7 @@
 
 To enable SEF (Search Engine Friendly URLs):
 
-_Since 1.8.7:_  This option is available in `System` -> `Configuration`.
+_Since 1.8.7:_  This option is available in "System" -> "Configuration".
 
 _Before 1.8.7:_ Edit file `/inc/config.inc.php` and set `$sys['is_mod_rewrite'] = 1`;
 
@@ -18,21 +18,23 @@ A term page: `/index.php?a=term&d=1&t=123` => `/index.php/term/1,123.xhtml`
 Since 1.8.4, Apache module `mod_rewrite` is no more needed. 
 You don't have to edit .htaccess file.
 
-There is an additional mode for the way of creating links.
+There is an additional modes for the way of creating links:
+ # Numeric only. Uses numeric-only Item IDs for dictionary, term, and custom page, i.e. `&d=1`, `&t=2345`.
+ # Alphanumeric. Uses ASCII-only Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary-Name`, `a=viewpage&id=page_uri`
+ # Text. Uses url-encoded item names for dictionary, term, and custom page, i.e. `&d=Dictionary+Name`, `a=viewpage&id=Page Name`.
 
 _Since 1.8.7:_ 
 
-Available in System -> Configuration.
-`Link creation mode: Numeric only | Alphanumeric | Text`
+Available in "System" -> "Configuration". Link creation mode: Numeric only | Alphanumeric | Text.
 
 _Since 1.8.4:_ 
 
 Edit file `/inc/config.inc.php`, search for `$sys['pages_link_mode']`.
 
 Possible values for `$sys['pages_link_mode']`:
- * `GW_PAGE_LINK_ID` uses numeric-only Item IDs for dictionary, term, and custom page, i.e. `&d=1`, `&t=2345`.
- * `GW_PAGE_LINK_URI` uses ASCII-only Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary-Name`, `a=viewpage&id=page_uri`
- * `GW_PAGE_LINK_NAME` uses url-encoded Item Names for dictionary, term, and custom page, i.e. `&d=Dictionary+Name`, `a=viewpage&id=Page Name`
+ * `GW_PAGE_LINK_ID` = Numeric only.
+ * `GW_PAGE_LINK_URI` = Alphanumeric.
+ * `GW_PAGE_LINK_NAME` = Text.
 
 These settings apply for both SEF-enabled or disabled modes.
 
