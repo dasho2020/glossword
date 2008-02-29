@@ -43,6 +43,6 @@ To translate it, for example, to Spanish, make this section looks like:
 
 Save the file and translation is complete.
 
-_Perhaps, there are will be no translation files at all in the next Glossword version 1.8.6. Everything will be stored in database. It will allow to create translations faster and easier._
+_Perhaps, there are will be no translation files at all in the next Glossword version 1.8.x. Everything will be stored in database. It will allow to create translations faster and easier._
 
 : [KB2558745973eng How to install a translation?]
