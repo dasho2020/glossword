@@ -18,10 +18,12 @@ A term page: `/index.php?a=term&d=1&t=123` => `/index.php/term/1,123.xhtml`
 Since 1.8.4, Apache module `mod_rewrite` is no more needed. 
 You don't have to edit .htaccess file.
 
-There is an additional modes for the way of creating links:
- # Numeric only. Uses numeric-only Item IDs for dictionary, term, and custom page, i.e. `&d=1`, `&t=2345`.
- # Alphanumeric. Uses ASCII-only Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary-Name`, `a=viewpage&id=page_uri`
- # Text. Uses url-encoded item names for dictionary, term, and custom page, i.e. `&d=Dictionary+Name`, `a=viewpage&id=Page Name`.
+Since 1.8.4, there is an additional modes for the way of creating links:
+ # _Numeric only_. Uses numeric-only Item IDs for dictionary, term, and custom page, i.e. `&d=1`, `&t=2345`.
+ # _Alphanumeric_. Uses ASCII-only Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary-Name`, `a=viewpage&id=page_uri`
+ # _Text_. Uses url-encoded item names for dictionary, term, and custom page, i.e. `&d=Dictionary+Name`, `a=viewpage&id=Page Name`.
+
+*How to enable additional modes*
 
 _Since 1.8.7:_ 
 
