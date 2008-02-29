@@ -15,7 +15,7 @@ The most common errors:
 _However, it is possible to avoid some errors by using Unicode-compatible text editor. For example EmEditor, Notepad++, SC UniPad._
 
 
-Instead of that, download archive with source phrases in MS Excel format:
+Instead of editing PHP-files, download archive with source phrases in MS Excel format:
  * http://sourceforge.net/project/showfiles.php?group_id=44374
  * http://code.google.com/p/glossword/downloads/list
 
