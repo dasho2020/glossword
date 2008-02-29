@@ -5,8 +5,9 @@
 
 To enable SEF (Search Engine Friendly URLs):
 
-_before 1.8.7:_ Edit file `/inc/config.inc.php` and set `$sys['is_mod_rewrite'] = 1`;
-_since 1.8.7:_ This option is available in System -> Configuration.
+_Since 1.8.7:_  This option is available in `System` -> `Configuration`.
+
+_Before 1.8.7:_ Edit file `/inc/config.inc.php` and set `$sys['is_mod_rewrite'] = 1`;
 
 After enabling SEF, Glossword will change all links as follows:
 
@@ -17,7 +18,15 @@ A term page: `/index.php?a=term&d=1&t=123` => `/index.php/term/1,123.xhtml`
 Since 1.8.4, Apache module `mod_rewrite` is no more needed. 
 You don't have to edit .htaccess file.
 
-Since 1.8.4, there is additional mode for the way of creating links.
+There is an additional mode for the way of creating links.
+
+_Since 1.8.7:_ 
+
+Available in System -> Configuration.
+`Link creation mode: Numeric only | Alphanumeric | Text`
+
+_Since 1.8.4:_ 
+
 Edit file `/inc/config.inc.php`, search for `$sys['pages_link_mode']`.
 
 Possible values for `$sys['pages_link_mode']`:
@@ -36,9 +45,6 @@ and
 $sys['is_mod_rewrite'] = 1;
 $sys['pages_link_mode'] = GW_PAGE_LINK_NAME;
 }}}
-
-_since 1.8.7:_ Available in System -> Configuration.
-`Link creation mode: Numeric only | Alphanumeric | Text`
 
 
 : [KB515346419]
