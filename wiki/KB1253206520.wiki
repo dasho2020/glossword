@@ -9,6 +9,10 @@ _Since 1.8.7:_  This option is available in "System" -> "Configuration".
 
 _Before 1.8.7:_ Edit file `/inc/config.inc.php` and set `$sys['is_mod_rewrite'] = 1`;
 
+The ability to use SEF is available since version 1.4.1 (November 11, 2002).
+
+=== How it works === 
+
 After enabling SEF, Glossword will change all links as follows:
 
 A dictionary title page: `/index.php?a=list&d=1` => `/index.php/list/1.xhtml`
@@ -23,7 +27,7 @@ Since 1.8.4, there is an additional modes for the way of creating links:
  # _Alphanumeric_. Uses ASCII-only Item Names for dictionary, term, and Page URI for custom page, i.e. `&d=Dictionary-Name`, `a=viewpage&id=page_uri`
  # _Text_. Uses url-encoded item names for dictionary, term, and custom page, i.e. `&d=Dictionary+Name`, `a=viewpage&id=Page Name`.
 
-*How to enable additional modes*
+=== How to enable additional modes === 
 
 _Since 1.8.7:_ 
 
@@ -51,4 +55,4 @@ $sys['pages_link_mode'] = GW_PAGE_LINK_NAME;
 }}}
 
 
-: [KB515346419]
+: [KB515346419 SEF-related questions and answers] [KB1642090376 Release dates]
