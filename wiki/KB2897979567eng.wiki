@@ -3,12 +3,24 @@
 
 === How to create a translation? ===
 
+Note: DO NOT EDIT php-files manually. Alteration of files may cause the Glossword to malfunction. 
+
+The most common errors: 
+ * Incorrect encoding (must be UTF-8 without Byte Order Mark);
+ * HTML-entities instead of Unicode characters (ex. "Compatibilit&agrave;" instead of "Compatibilità");
+ * Missed characters (ex. "Termini inizianti con ?%s?'" instead of "Termini inizianti con ‘%s’");
+ * Incorrect markup (ex "`"<em>ab*</em>"`" instead of "`&quot;<em>ab*</em>&quot;`");
+ * Unnecessary "Line feed" character in the end of files (ex. "\x3F\x3E\x0D\x0A" instead of "\x3F\x3E", \x3F is hexademical value for `?` and \x3E is `>`).
+
+
 To create your translation variant for Glossword 
 please do not try to edit PHP-files with translation directly. 
 Because there are a lot of technical questions you need to resolve. 
 
 Instead, download archive with source phrases in MS Excel format:
-http://sourceforge.net/project/showfiles.php?group_id=44374
+ * http://sourceforge.net/project/showfiles.php?group_id=44374
+ * http://code.google.com/p/glossword/downloads/list
+
 
 It is easy to edit. You have two columns - "Source" and "Target".  
 Write your translation variant into the "Target". 
