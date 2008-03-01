@@ -15,8 +15,7 @@ The most common errors:
 
  * Incorrect markup (ex "`"<em>ab*</em>"`" instead of "`&quot;<em>ab*</em>&quot;`");
 
- * Unnecessary "Line feed" character in the end of files (ex. "\x3F\x3E\x0D\x0A" instead of "\x3F\x3E", \x3F is hexademical value for `?` and \x3E is `>`).
-http://glossword.googlecode.com/svn/wiki/correct-wrong-eof.png
+ * Unnecessary "Line feed" character in the end of files (ex. "\x3F\x3E\x0D\x0A" instead of "\x3F\x3E", \x3F is hexademical value for `?` and \x3E is `>`). http://glossword.googlecode.com/svn/wiki/correct-wrong-eof.png
 
 _However, it is possible to avoid some errors by using Unicode-compatible text editor. For example EmEditor, Notepad++, SC UniPad._
 
