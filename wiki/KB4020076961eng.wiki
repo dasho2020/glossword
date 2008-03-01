@@ -6,11 +6,14 @@
 === Changes in 1.8.7 (not released yet) ===
 
 new features or major changes
+    * added virtual keyboards manager.
     * added the ability to import/export a custom alphabetic order in XML-format.
-    * changed a custom alphabetic order - terms with a capital letters are first.
 
 updates
-    * changed dictionary editing page.
+    * added link "Add a term" to the Control Panel Home.
+    * added link to user profile from the Control Panel Home.
+    * added new option "virtual keyboard" for dictionary settings.
+    * changed a custom alphabetic order - terms with a capital letters are first.
     * the ability to jump to the history of changes from a search results in admin area.
 
 bug fixes
