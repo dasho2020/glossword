@@ -7,6 +7,7 @@
 
 new features or major changes
     * added virtual keyboards manager.
+    * added new maintenance task "Clear the history of changes".
     * added the ability to import/export a custom alphabetic order in XML-format.
 
 updates
