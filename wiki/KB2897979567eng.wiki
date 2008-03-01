@@ -7,7 +7,7 @@ DO NOT EDIT PHP-files manually. Because there are a lot of technical questions y
 
 The most common errors: 
 
- * Incorrect encoding (must be UTF-8 without Byte Order Mark);
+ * Incorrect encoding (must be UTF-8 without [http://en.wikipedia.org/wiki/Byte_Order_Mark Byte Order Mark]);
 
  * HTML-entities instead of Unicode characters (ex. "Compatibilit&agrave;" instead of "Compatibilità");
 
