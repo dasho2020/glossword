@@ -4,7 +4,7 @@
 === Colorful abbreviations ===
 
 mod-version
-  * 1.1
+  * 1.2
 
 mod-level:
   * easy
@@ -125,5 +125,3 @@ The end.
 
 ----
 http://glossword.googlecode.com/svn/wiki/mod-abbr-colors.png
-
-
