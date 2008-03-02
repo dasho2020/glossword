@@ -25,8 +25,8 @@ bug fixes
     * fixed external links to sites inside definitions.
     * fixed warning on uploading avatar (Bug #1866556).
     * fixed links to terms when anti-leacher is enabled.
-    * fixed links to dictionary from admin area when SEF is enabled.
     * fixed error with a user permission "allowed editing program settings".
+    * fixed links to dictionaries and terms from admin area when SEF is enabled.
 
 
 === Changes in 1.8.6 (released on December 2, 2007) ===
