@@ -109,6 +109,7 @@ if (($tmp['str'] != '') || $tmp['attributes'][$chK] != '--')
 	Find
 {{{
 .abbr  { margin: 0em; padding: 0; color: #777; background: transparent; font: bold 100% sans-serif; }
+.trns { color: #b9906e; background: transparent; font: bold 100% "arial unicode ms",arial,sans-serif; }
 }}}
 	Replace with
 {{{
@@ -117,13 +118,12 @@ if (($tmp['str'] != '') || $tmp['attributes'][$chK] != '--')
 .abbr-2 { color: #9b67c7; }
 .abbr-3 { color: #5bbf3f; }
 .abbr-5 { color: #47a7a3; }
+.trns-4 { color: #b9906e; background: transparent; font: bold 100% "arial unicode ms",arial,sans-serif; }
 }}}
 
 The end.
 
 ----
 http://glossword.googlecode.com/svn/wiki/mod-abbr-colors.png
-
-
 
 
