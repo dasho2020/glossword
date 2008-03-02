@@ -19,9 +19,11 @@
 == For authors and editors ==
 
  * Installation wizard. Installs, updates and even uninstalls the software.
- * The history of editing for terms
+ * The history of editing for terms.
+ * Virtual keyboards.
  * Delayed postings.
- * Highly customized visual themes with HTML-templates, CSS style sheets and additional multicolumn rendering mode for the list of terms.
+ * Customizable alphabetic sorting.
+ * Customizable visual themes with HTML-templates, CSS style sheets and additional multicolumn rendering mode for the list of terms.
  * Visual themes editor.
  * Automatically generated alphabetical index for dictionary.
  * Export/Import dictionaries in XML and CSV format.
