@@ -26,7 +26,7 @@
 
  After registration at [http://ikobo.com/ iKobo.com], select "Add A New Funding Source", fill the form, then "Add Recipients", where you will be asked to enter `SD291549RU`.
 
- * Use Western Union. To send money, [http://www.westernunion.com/info/agentLocatorLookup.asp find the nearest Western Union department] located in your city.
+ * Use Western Union. To send money, [http://locator.westernunion.com/AgentLocator/channelHtml/AgentLoc.do?method=load&localeCountry=global&language=en find the nearest Western Union department] located in your city.
  {{{
       Receiver
       First name: Nickolay
