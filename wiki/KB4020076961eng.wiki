@@ -9,6 +9,7 @@ new features or major changes
     * added virtual keyboards manager.
     * added new maintenance task "Clear the history of changes".
     * added the ability to import/export a custom alphabetic order in XML-format.
+    * major changes in a custom alphabetic order. Built-it orders: Azerbaijani, Danish, Dutch, Pushto پښتو, Russian, Spanish, Turkish.
 
 updates
     * added link "Add a term" to the Control Panel Home.
@@ -16,7 +17,6 @@ updates
     * added new option "virtual keyboard" for dictionary settings.
     * added the ability to download exported files without saving them on server.
     * the ability to jump to the history of changes from a search results in admin area.
-    * changed a custom alphabetic order - terms with a capital letters are first. Built-it orders: Azerbaijani, Danish, Dutch, Pushto پښتو, Russian, Spanish, Turkish.
 
 bug fixes
     * fixed issues related to removing terms.
