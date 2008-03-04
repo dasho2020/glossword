@@ -44,7 +44,8 @@
       MTCN:
       Amount sent (USD):
 }}}
-Using donation you may order specific options for your Glossword installation like "copyright removal" and more components. Please contact for more details.
+Using donation you may order specific options for your Glossword installation like "copyright removal" and more components. Please contact for more details. dev at glossword dot info
+
 
 No I don't have an account at !PayPal for several reasons. 
 
