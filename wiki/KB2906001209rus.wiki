@@ -1,0 +1,13 @@
+#summary Как переместить термин в другой словарь?
+#labels FAQ,Phase-Usage,rus
+
+=== Как переместить термин в другой словарь? === 
+
+ # Перейдя в область администирования, найдите термин, который вы бы хотели переместить. 
+   http://glossword.googlecode.com/svn/wiki/how-term-move-01-rus.png
+ # Используйте checkbox для выбора одного и нескольких терминов. 
+   http://glossword.googlecode.com/svn/wiki/how-term-move-02-rus.png
+ # Смотрите внизу страницы "Отмеченные". Нажмите "Переместить". 
+   http://glossword.googlecode.com/svn/wiki/how-term-move-03-rus.png
+
+Возможность перемещать термины между словарями доступна с версии 1.7.0 (9 июля 2005).
