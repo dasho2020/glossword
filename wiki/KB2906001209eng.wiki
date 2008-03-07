@@ -1,0 +1,8 @@
+#summary How to move a term to another dictionary?.
+#labels FAQ,Phase-Usage,eng
+
+=== How to move a term to another dictionary? === 
+
+ # In admin area, search for a term you'd like to move. http://glossword.googlecode.com/svn/wiki/how-term-move-01.png
+ # Use checkbox to select one or several terms. http://glossword.googlecode.com/svn/wiki/how-term-move-02.png
+ # See the bottom of page "With selected". Click on "Move to". http://glossword.googlecode.com/svn/wiki/how-term-move-03.png
