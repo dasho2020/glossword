@@ -44,7 +44,6 @@
       MTCN:
       Amount sent (USD):
 }}}
- * Use this link to make online donation: https://sourceforge.net/donate/index.php?group_id=44374
+ * PayPal users follow this link: https://sourceforge.net/donate/index.php?group_id=44374
 
 Using donation you may order specific options for your Glossword installation like "copyright removal" and more components. Please contact for more details. dev at glossword dot info
-
