@@ -1,4 +1,4 @@
-#summary How to move a term to another dictionary?.
+#summary How to move a term to another dictionary?
 #labels FAQ,Phase-Usage,eng
 
 === How to move a term to another dictionary? === 
