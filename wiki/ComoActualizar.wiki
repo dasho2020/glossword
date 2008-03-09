@@ -9,9 +9,16 @@ La forma normal de actualizar Glossword:
 
  * Descargue el último paquete de Glossword.
  * Extraiga y sobreescriba todos los ficheros excepto `db_config.php`.
- * Eliminar del fichero `/gw_temp/gw_install.lock`.
+ * Elimine el fichero `/gw_temp/gw_install.lock`.
  * Abra en un navegador `/gw_install/` y siga las instrucciones de la pantalla. Si su sitio es `www.dominio.tld` y Glossword está instalado en el directorio raíz, la URL será `http://www.dominio.tld/gw_install/`.
  * Una vez actualizado, acceda al panel de administración y vaya a "Sistema -> Mantenimiento -> Recontar el número de términos de cada diccionario". 
+
+Actualización a prueba de fallos:
+ # Exporte los diccionarios en formato XML.
+ # Limpie los diccionarios.
+ # Actualice el software.
+ # Importe los datos en formato XML.
+
 
 Si ha hecho algún cambio en Glossword, compruebe primero lo siguiente:
  * el fichero `/custom_vars.php`.
