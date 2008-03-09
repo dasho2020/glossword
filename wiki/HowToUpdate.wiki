@@ -14,7 +14,7 @@ The common way to update Glossword version:
  * Once updated, log in to administrative interface and follow "System -> Maintenance -> Recount the number of terms for each dictionary".
 
 Fail-safe update:
- # Export dictionares into XML.
+ # Export dictionaries into XML.
  # Clean dictionaries.
  # Update the software.
  # Import from XML.
