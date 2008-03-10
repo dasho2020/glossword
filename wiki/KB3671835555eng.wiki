@@ -35,10 +35,11 @@ It makes an automatic download longer.
 With enabled "Anti-leacher" it is impossible to generate Term IDs because links are constructed by another way:
 
 {{{
-/index.php?a=term&d=1&t=a3a25ea7539e5671a39b6ba559a3575b
+/index.php?a=term&t=a3a25ea7539e5671a39b6ba559a3575b
 }}}
 
 So the user (leecher) can't download your dictionary automatically.
+Dictionary ID is invisible also.
 
 
 === How does it work? ===
