@@ -4,7 +4,7 @@
 === Colorful abbreviations ===
 
 mod-version
-  * 1.2
+  * 1.3
 
 mod-level:
   * easy
@@ -62,7 +62,8 @@ while (list($k, $arV) = each($arSql))
 }}}
 	Replace with
 {{{
-$ar_abbr_groups = array();
+/* Color by default */
+$ar_abbr_groups = array('' => 1);
 while (list($k, $arV) = each($arSql))
 {
 	$id_abbr = sprintf('%03d', $arV['id_abbr']);
