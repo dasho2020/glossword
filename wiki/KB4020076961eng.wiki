@@ -28,6 +28,7 @@ bug fixes
     * fixed warning on uploading avatar (Bug #1866556).
     * fixed links to terms when anti-leacher is enabled.
     * fixed error with a user permission "allowed editing program settings".
+    * fixed link to suggest a term from dictionary page when SEF is enabled.
     * fixed links to dictionaries and terms from admin area when SEF is enabled.
 
 
