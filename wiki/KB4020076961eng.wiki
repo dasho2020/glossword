@@ -12,6 +12,7 @@ new features or major changes
     * major changes in a custom alphabetic order. Built-it orders: Azerbaijani, Danish, Dutch, Pushto, Russian, Spanish, Turkish.
 
 updates
+    * added link to term after editing or adding a term.
     * added link "Add a term" to the Control Panel Home.
     * added link to user profile from the Control Panel Home.
     * added new option "virtual keyboard" for dictionary settings.
@@ -22,6 +23,7 @@ updates
 bug fixes
     * fixed issues related to removing terms.
     * fixed error with the list of dictionaries.
+    * fixed error with searching for removed terms.
     * fixed issues related to removing visual themes.
     * fixed feedback form when integrated with Joomla.
     * fixed external links to sites inside definitions.
