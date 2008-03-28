@@ -7,4 +7,5 @@ The number of terms is automatically updated on these events:
 
  * After editing dictionary settings.
  * After removing a term.
+ * After adding a term when option "After posting… Update dictionary statistics" selected.
  * With internal system maintenance tasks. The probability of running maintenance tasks is defined in `/inc/config.inc.php`, variable `$sys['prbblty_tasks']`. Default value is 3, it means 3 times per 100 page requests.
