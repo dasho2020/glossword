@@ -3,7 +3,7 @@
 
 === Why the number of terms did not changed? ===
 
-The number of terms is automatically updated on this events:
+The number of terms is automatically updated on these events:
 
  * After editing dictionary settings.
  * After removing a term.
