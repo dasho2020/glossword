@@ -6,12 +6,15 @@
 === Changes in 1.8.7 (not released yet) ===
 
 new features or major changes
-    * added virtual keyboards manager.
+    * added new menu manager.
+    * added new permissions manager.
+    * added new virtual keyboards manager.
     * added new maintenance task "Clear the history of changes".
     * added the ability to import/export a custom alphabetic order in XML-format.
-    * major changes in a custom alphabetic order. Built-it orders: Azerbaijani, Danish, Dutch, Pushto, Russian, Spanish, Turkish.
+    * major changes in a custom alphabetic order. Built-it orders: Azerbaijani, Danish, Dutch, Kurmanji, Pushto, Russian, Spanish, Turkish.
 
 updates
+    * better compatibility with PHP 5.3.0.
     * added link to term after editing or adding a term.
     * added link "Add a term" to the Control Panel Home.
     * added link to user profile from the Control Panel Home.
@@ -19,6 +22,7 @@ updates
     * added the ability to download exported files without saving them on server.
     * added the ability to jump to the history of changes from a search results in admin area.
     * removed checkbox for better usability from the selection of visual themes and languages.
+
 
 bug fixes
     * fixed issues related to removing terms.
@@ -31,8 +35,8 @@ bug fixes
     * fixed links to terms when anti-leacher is enabled.
     * fixed error with a user permission "allowed editing program settings".
     * fixed link to suggest a term from dictionary page when SEF is enabled.
+    * fixed security issue with incoming variables (max_input_nesting_level).
     * fixed links to dictionaries and terms from admin area when SEF is enabled.
-
 
 === Changes in 1.8.6 (released on December 2, 2007) ===
 
