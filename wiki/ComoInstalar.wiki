@@ -38,6 +38,7 @@ Nombre de Fichero/Carpeta    valor chmod  Permisos
 *            custom_vars.php -
 *            db_config.php   0666         -rw-rw-rw-
 *            gw_admin.php    -
+*            gw_login.php    -
 *            index.php       -
 *            robots.txt      -
 }}}
