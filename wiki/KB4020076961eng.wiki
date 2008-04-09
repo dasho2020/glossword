@@ -3,7 +3,7 @@
 
 == The list of changes in Glossword ==
 
-=== Changes in 1.8.7 (not released yet) ===
+=== Changes in 1.8.7 (released 9 April, 2008) ===
 
 new features or major changes
     * added new menu manager.
