@@ -11,7 +11,7 @@ new features or major changes
     * added new virtual keyboards manager.
     * added new maintenance task "Clear the history of changes".
     * added the ability to import/export a custom alphabetic order in XML-format.
-    * major changes in a custom alphabetic order. Built-it orders: Azerbaijani, Danish, Dutch, Kurmanji, Pushto, Russian, Spanish, Turkish.
+    * major changes in a custom alphabetic order. Built-in orders: Azerbaijani, Danish, Dutch, Kurmanji, Pushto, Russian, Spanish, Turkish.
 
 updates
     * usability improvements.
