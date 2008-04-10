@@ -1,3 +1,4 @@
+#summary Glossword security announcement
 #labels eng
 ===Summary===
 Incorrectly filtered incoming URL parameters when `magic_quotes_gpc` is enabled.
