@@ -55,7 +55,7 @@ PHP 5.2.2 has a limiter that restricts depth of input arrays.
 
 At the default value it'll prevent creation of input arrays with >64 dimensions.
 
-The maximum nesting level of arrays in Glossword is 10 and it is not required to have 5.2.2 or above (while it is highly recommended).
+The maximum nesting level of arrays in Glossword is 10 and it is not required to have PHP 5.2.2 or above (while it is highly recommended).
 
 ===Severity===
 Serious.
