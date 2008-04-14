@@ -3,6 +3,11 @@
 
 == The list of changes in Glossword ==
 
+=== Changes in 1.8.8 (not released yet) ===
+
+updates
+    * added `intransitive verb` into abbreviations.
+
 === Changes in 1.8.7 (released on April 9, 2008) ===
 
 new features or major changes
