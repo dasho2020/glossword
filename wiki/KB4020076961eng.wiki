@@ -6,7 +6,7 @@
 === Changes in 1.8.8 (not released yet) ===
 
 new features or major changes
-    * added two reports for search queries.
+    * added two reports for the log search queries.
 
 updates
     * added icon for virtual keyboard.
@@ -16,7 +16,7 @@ updates
     * added automatic ignoring of circumflex on the âÂ / îÎ / ûÛ for Turkish custom alphabetic order.
 
 bug fixes
-    * fixed a minor issue of sending feedback.
+    * fixed a minor issue on sending feedback.
     * fixed issue on removing a virtual keyboard.
     * fixed issue on browsing dictionaries from admin panel.
 
