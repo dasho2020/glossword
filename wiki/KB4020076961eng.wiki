@@ -7,17 +7,23 @@
 
 new features or major changes
     * added two reports for the log search queries.
+    * added new option "Publish imported terms" for importing terms.
+    * added new option "Merge identical terms" for merging dictionaries.
+    * added new option "Allow simultaneous access" for the user account.
 
 updates
     * added icon for virtual keyboard.
     * added easier removing of a virtual keyboard.
     * added `intransitive verb` into abbreviations.
+    * added link to add a term from editing dictionary setting.
     * better automated generation for Term URI and Dictionary URI.
+    * added link to edit dictionary setting from term editing page.
     * added automatic ignoring of circumflex on the âÂ / îÎ / ûÛ for Turkish custom alphabetic order.
 
 bug fixes
     * fixed a minor issue on sending feedback.
     * fixed issue on removing a virtual keyboard.
+    * fixed link to the list of maintenance tasks.
     * fixed issue on browsing dictionaries from admin panel.
 
 === Changes in 1.8.7 (released on April 9, 2008) ===

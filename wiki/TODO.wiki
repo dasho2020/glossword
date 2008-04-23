@@ -2,9 +2,6 @@
 #labels Phase-Design,eng
 
 The list of features:
- * 1.8.x Add report to search history "most wanted but not found" (d.priskorn).
- * 1.8.x Import terms as non-published (d.priskorn).
- * 1.8.x An option to exclude identical terms on merging (d.priskorn).
  * 1.8.x Implementation of new interface translation engine.
  * 1.8.x The ability to export just one or several custom pages at a time.
  * 1.8.x Random term.
