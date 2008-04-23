@@ -2,6 +2,8 @@
 #labels Phase-Design,eng
 
 The list of features:
+
+ * 1.8.x Provide more information about the users (the last add/edit date, browser/OS, IP).
  * 1.8.x Implementation of new interface translation engine.
  * 1.8.x The ability to export just one or several custom pages at a time.
  * 1.8.x Random term.
