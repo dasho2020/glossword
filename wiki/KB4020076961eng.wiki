@@ -20,7 +20,7 @@ updates
     * added link to add a term from editing dictionary setting.
     * better automated generation for Term URI and Dictionary URI.
     * added link to edit dictionary setting from term editing page.
-	* added the ability to switch interface language at log-in page.
+    * added the ability to switch interface language at log-in page.
     * added link "My account" to access user settings instead of the link "Edit".
     * added automatic ignoring of circumflex on the âÂ / îÎ / ûÛ for Turkish custom alphabetic order.
 
