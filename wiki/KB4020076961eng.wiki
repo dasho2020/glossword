@@ -6,9 +6,10 @@
 === Changes in 1.8.8 (not released yet) ===
 
 new features or major changes
-    * added two reports for the log search queries.
+    * added two reports for the log of search queries.
     * added new option "Publish imported terms" for importing terms (d.priskorn).
     * added new option "Merge identical terms" for merging dictionaries (d.priskorn).
+    * added the ability to continue editing from where the user left (d.priskorn).
     * added new option "Allow simultaneous access" for the user account.
     * added multilingual transliteration for creating a link to term when SEF mode is on.
 
@@ -20,7 +21,7 @@ updates
     * added link to add a term from editing dictionary setting.
     * better automated generation for Term URI and Dictionary URI.
     * added link to edit dictionary setting from term editing page.
-    * added the ability to switch interface language at log-in page.
+    * added the ability to switch interface language at log-in page (Zdenko).
     * added link "My account" to access user settings instead of the link "Edit".
     * added automatic ignoring of circumflex on the âÂ / îÎ / ûÛ for Turkish custom alphabetic order.
 
