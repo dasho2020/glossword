@@ -58,7 +58,7 @@ Examples for:
 
 || *A*    || *B* 	|| *C* 	|| *D* 	|| *E* 	|| *F* 	|| *G* 	|| *H*	|| *I*	|| *J*	|| *K*	|| *L*   ||
 || *0*    || *1* 	|| *2* 	|| *3* 	|| *4* 	|| *5* 	|| *6* 	|| *7*	|| *8*	|| *9*	|| *10*	|| *11*  ||
-|| *id*   || *term*	|| *t1* 	|| *t2* 	|| *uri* 	|| *t3* 	|| *trsp* 	|| *defn*	|| *abbr*	|| *trns*	|| *usg*	|| *see* ||
+|| *id*   || *term*	|| *t1* 	|| *t2* 	|| *t3* 	|| *uri* 	|| *trsp* 	|| *defn*	|| *abbr*	|| *trns*	|| *usg*	|| *see* ||
 ||	||NTSC Format	  || 	||	||	||  	||  	|| A color television format having 525 scan lines (rows) of resolution at thirty frames per second (30 Hz). Found in American and Japanese DVD, VHS video, television and video games. 29.97 fps. 	||  	||  	||	|| NTSC, PAL format||
 ||	||atanerk 	||  	||  	||  	||  	||  	||  	||(Okk.) 	||boss, lord, master 	||  	||	||
 ||	||80 	||  	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||http 	 || 	|| 	||	
@@ -70,13 +70,13 @@ Examples for:
 The contents of CSV-file per line:
 
 {{{
-1. \tNTSC Format\t\t\t\t\tA color television format [ skipped ] fps.\t\t\t\tNTSC, PAL format
-2. \tatanerk\t\t\t\t\t\t(Okk.)\tboss, lord, master\t\t
-3. \t80\t\t\t\t\tWorld Wide Web HTTP\t\thttp\t\t
-4. \t80\t\t\t\t\tWorld Wide Web HTTP\t\twww\t\t
-5. \t80\t\t\t\t\tWorld Wide Web HTTP\t\twww-http\t\t
-6. \tΔημόσιo Δίκτυo Μεταγωγής Πακέτων\tΔ\tΔΗ\tΔΗΜ\t\t\tPSDN\t(Telecomm.) Public Switced Data Network\t\t
-7. \tsmall\t\t\t\t\t\t(adj.)\t(Chin.) 小, (pinyin) xiao3, (Latv.) mazs, (Russ.) маленький\t\t
+1. \tNTSC Format\t\t\t\t\t\tA color television format [ skipped ] fps.\t\t\t\tNTSC, PAL format
+2. \tatanerk\t\t\t\t\t\t\t(Okk.)\tboss, lord, master\t\t
+3. \t80\t\t\t\t\t\tWorld Wide Web HTTP\t\thttp\t\t
+4. \t80\t\t\t\t\t\tWorld Wide Web HTTP\t\twww\t\t
+5. \t80\t\t\t\t\t\tWorld Wide Web HTTP\t\twww-http\t\t
+6. \tΔημόσιo Δίκτυo Μεταγωγής Πακέτων\tΔ\tΔΗ\tΔΗΜ\t\t\t\tPSDN\t(Telecomm.) Public Switced Data Network\t\t
+7. \tsmall\t\t\t\t\t\t\t(adj.)\t(Chin.) 小, (pinyin) xiao3, (Latv.) mazs, (Russ.) маленький\t\t
 }}}
 
 \t is a `tab` symbol, used in this document to show a tab character.
