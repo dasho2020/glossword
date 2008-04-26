@@ -20,27 +20,29 @@ CSV includes the following columns:
 4
     Alphabetic toolbar 3 <term t3="{4}">...</term>
 5
-    Transcription or pronunciation guide for the term <trsp>{5}</trsp>
+    Term URI <term uri="{5}">...</term>
 6
-    The text of the definition for the term. <defn>{6}</defn>
+    Transcription or pronunciation guide for the term <trsp>{6}</trsp>
 7
-    Abbreviation. <abbr>{7}</abbr>
+    The text of the definition for the term. <defn>{7}</defn>
 8
-    Translation. <trns>{8}</trns>
+    Abbreviation. <abbr>{8}</abbr>
 9
-    Term usage. <usg>{9}</usg>
+    Translation. <trns>{9}</trns>
 10
-    See also. <see link="{10}">{10}</see>
+    Term usage. <usg>{10}</usg>
 11
-    Synonym. <syn link="{11}">{11}</syn>
+    See also. <see>{11}</see>
 12
-    Antonym. <antonym link="{12}">{12}</antonym>
+    Synonym. <syn>{12}</syn>
 13
-    Source. <src>{13}</src>
+    Antonym. <antonym>{13}</antonym>
 14
-    Address. <address>{14}</address>
+    Source. <src>{14}</src>
 15
-    Phone. <phone>{15}</phone>
+    Address. <address>{17}</address>
+16
+    Phone. <phone>{16}</phone>
 
 Column `term` is mandatory, others are optional.
 
@@ -54,16 +56,16 @@ Examples for:
  * Greek-English dictionary
  * English - (Chinese <-> Latvian <-> Russian) dictionary
 
-|| *A*    || *B* 	|| *C* 	|| *D* 	|| *E* 	|| *F* 	|| *G*	|| *H*	|| *I*	|| *J*	|| *K*   ||
-|| *0*    || *1* 	|| *2* 	|| *3* 	|| *4* 	|| *5* 	|| *6*	|| *7*	|| *8*	|| *9*	|| *10*  ||
-|| *id*   || *term*	|| *t1* 	|| *t2* 	|| *t3* 	|| *trsp* 	|| *defn*	|| *abbr*	|| *trns*	|| *usg*	|| *see* ||
-||	||NTSC Format	  || 	||	||	||   	|| A color television format having 525 scan lines (rows) of resolution at thirty frames per second (30 Hz). Found in American and Japanese DVD, VHS video, television and video games. 29.97 fps. 	||  	||  	||	|| NTSC, PAL format||
-||	||atanerk 	||  	||  	||  	||  	||  	||(Okk.) 	||boss, lord, master 	||  	||	||
-||	||80 	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||http 	 || 	|| 	||	
-||	||80 	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||www 	||  	|| 	||	
-||	||80 	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||www-http 	 || 	||	||
-||	||Δημόσιo Δίκτυo Μεταγωγής Πακέτων 	||Δ 	||ΔΗ 	||ΔΗΜ 	||  	||  	||PSDN 	||(Telecomm.) Public Switced Data Network 	||  	||	||
-||	||small ||	  	||  	||  	||  	||  	||(adj.) 	||(Chin.) 小, (pinyin) xiao3, (Latv.) mazs, (Russ.) маленький 	  	||	||	||
+|| *A*    || *B* 	|| *C* 	|| *D* 	|| *E* 	|| *F* 	|| *G* 	|| *H*	|| *I*	|| *J*	|| *K*	|| *L*   ||
+|| *0*    || *1* 	|| *2* 	|| *3* 	|| *4* 	|| *5* 	|| *6* 	|| *7*	|| *8*	|| *9*	|| *10*	|| *11*  ||
+|| *id*   || *term*	|| *t1* 	|| *t2* 	|| *uri* 	|| *t3* 	|| *trsp* 	|| *defn*	|| *abbr*	|| *trns*	|| *usg*	|| *see* ||
+||	||NTSC Format	  || 	||	||	||  	||  	|| A color television format having 525 scan lines (rows) of resolution at thirty frames per second (30 Hz). Found in American and Japanese DVD, VHS video, television and video games. 29.97 fps. 	||  	||  	||	|| NTSC, PAL format||
+||	||atanerk 	||  	||  	||  	||  	||  	||  	||(Okk.) 	||boss, lord, master 	||  	||	||
+||	||80 	||  	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||http 	 || 	|| 	||	
+||	||80 	||  	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||www 	||  	|| 	||	
+||	||80 	||  	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||www-http 	 || 	||	||
+||	||Δημόσιo Δίκτυo Μεταγωγής Πακέτων 	||Δ 	||ΔΗ 	||ΔΗΜ 	||  	||  	||  	||PSDN 	||(Telecomm.) Public Switced Data Network 	||  	||	||
+||	||small ||	  	||  	||  	||  	||  	||  	||(adj.) 	||(Chin.) 小, (pinyin) xiao3, (Latv.) mazs, (Russ.) маленький 	  	||	||	||
 
 The contents of CSV-file per line:
 
@@ -104,6 +106,7 @@ Change `$arFields` as follows:
                 -2  => array('t1',     'input',    'auto', 0,  0, -1),
                 -3  => array('t2',     'input',    'auto', 0,  0, -1),
                 -4  => array('t3',     'input',    'auto', 0,  0, -1),
+                -5  => array('term_uri', 'input',    'auto', 0,  0, -1),
                 1  => array('term',    'input',    'auto', 0,  1, 1),
                 2  => array('trsp',    'textarea', 'auto', 1,  0, 6),
                 3  => array('abbr',    '',         'auto', '', 0, 3),
