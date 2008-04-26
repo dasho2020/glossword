@@ -64,7 +64,7 @@ Examples for:
 ||	||80 	||  	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||http 	 || 	|| 	||	
 ||	||80 	||  	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||www 	||  	|| 	||	
 ||	||80 	||  	||  	||  	||  	||  	||World Wide Web HTTP 	||  	||www-http 	 || 	||	||
-||	||Δημόσιo Δίκτυo Μεταγωγής Πακέτων 	||Δ 	||ΔΗ 	||ΔΗΜ 	||  	||  	||  	||PSDN 	||(Telecomm.) Public Switced Data Network 	||  	||	||
+||	||Δημόσιo Δίκτυo Μεταγωγής Πακέτων 	||Δ 	||Η 	||Μ 	||  	||  	||  	||PSDN 	||(Telecomm.) Public Switced Data Network 	||  	||	||
 ||	||small ||	  	||  	||  	||  	||  	||  	||(adj.) 	||(Chin.) 小, (pinyin) xiao3, (Latv.) mazs, (Russ.) маленький 	  	||	||	||
 
 The contents of CSV-file per line:
@@ -75,7 +75,7 @@ The contents of CSV-file per line:
 3. \t80\t\t\t\t\t\tWorld Wide Web HTTP\t\thttp\t\t
 4. \t80\t\t\t\t\t\tWorld Wide Web HTTP\t\twww\t\t
 5. \t80\t\t\t\t\t\tWorld Wide Web HTTP\t\twww-http\t\t
-6. \tΔημόσιo Δίκτυo Μεταγωγής Πακέτων\tΔ\tΔΗ\tΔΗΜ\t\t\t\tPSDN\t(Telecomm.) Public Switced Data Network\t\t
+6. \tΔημόσιo Δίκτυo Μεταγωγής Πακέτων\tΔ\tΗ\tΜ\t\t\t\tPSDN\t(Telecomm.) Public Switced Data Network\t\t
 7. \tsmall\t\t\t\t\t\t\t(adj.)\t(Chin.) 小, (pinyin) xiao3, (Latv.) mazs, (Russ.) маленький\t\t
 }}}
 
@@ -106,7 +106,7 @@ Change `$arFields` as follows:
                 -2  => array('t1',     'input',    'auto', 0,  0, -1),
                 -3  => array('t2',     'input',    'auto', 0,  0, -1),
                 -4  => array('t3',     'input',    'auto', 0,  0, -1),
-                -5  => array('term_uri', 'input',    'auto', 0,  0, -1),
+                -5  => array('uri',    'input',    'auto', 0,  0, -1),
                 1  => array('term',    'input',    'auto', 0,  1, 1),
                 2  => array('trsp',    'textarea', 'auto', 1,  0, 6),
                 3  => array('abbr',    '',         'auto', '', 0, 3),
