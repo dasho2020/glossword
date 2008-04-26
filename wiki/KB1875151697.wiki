@@ -81,7 +81,7 @@ The contents of CSV-file per line:
 
 \t is a `tab` symbol, used in this document to show a tab character.
 
-_Since 1.8.4_ It is possible to import worlists -- terms without definitions:
+_Since 1.8.4_ It is possible to import worlists -- terms without definitions. Type in "CSV" field:
 {{{
 Term 1
 Term 2
