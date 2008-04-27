@@ -31,6 +31,8 @@ Save and send MS Excel file to my email dev at glossword dot info.
 Later than I will send you working PHP-files with translation.
 If you will have a questions during translation process, please ask them to me. 
 
+If you are using OpenOffice, open MS Excel files as *Microsoft Excel 2003 XML*. Save edited files in this file format.
+
 
 === Translation example ===
 
