@@ -28,7 +28,9 @@ updates
 bug fixes
     * fixed error when importing terms (#53, d.priskorn).
     * fixed a minor issue on sending feedback.
+    * fixed issue on retrieving a new password.
     * fixed issue on removing a virtual keyboard.
+    * fixed issue on switching interface language.
     * fixed link to the list of maintenance tasks.
     * fixed issue on browsing dictionaries from admin panel.
 
