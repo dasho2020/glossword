@@ -23,6 +23,7 @@ updates
     * added the ability to switch interface language at log-in page (Zdenko).
     * added link "My account" to access user settings instead of the link "Edit".
     * better automated generation for Term URI and Dictionary URI for better SEO.
+    * added Rwanda (Kinyarwanda) to the list of supported languages of interface.
     * added automatic ignoring of circumflex on the âÂ / îÎ / ûÛ for Turkish custom alphabetic order.
 
 bug fixes
