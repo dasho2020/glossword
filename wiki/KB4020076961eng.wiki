@@ -1,7 +1,7 @@
 #summary The list of changes
 #labels eng,Featured
 
-== The list of changes in Glossword ==
+== The list of changes in supported versions of Glossword ==
 
 === Changes in 1.8.8 (released on April 30, 2008) ===
 
@@ -172,29 +172,4 @@ bug fixes
     * removed links to empty terms from the search results.
 
 
-=== Changes in 1.8.3 (released on June 21, 2007) ===
-
-new features or major changes
-
-    * changed layout for administrative menu.
-    * added `Backup` option to maintenance section.
-    * added new option `Term is complete` for a term editing page.
-
-updates
-
-    * added checksum for terms.
-    * added `captcha` for feedback form.
-    * added the ability to search in uncompleted terms only.
-    * added an extra time range for pages with exportable data.
-    * added an indicator for uncompleted terms (marked with `?`).
-
-bug fixes
-
-    * fixed `server time` issue.
-    * fixed CSS-styles for IE7.
-    * fixes for installation wizard.
-    * fixed translation for HTML-toolbar.
-    * fixed `DEFAULT CHARSET` issue for MySQL versions below 4.1.x.
-
-
-:[KB1642090376 Release dates] [TODO Things to do]
+:[KB1642090376 Release dates] :[KB897558307eng The list of changes, archive] [TODO Things to do]
