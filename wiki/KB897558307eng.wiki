@@ -25,4 +25,4 @@ bug fixes
     * fixed translation for HTML-toolbar.
     * fixed `DEFAULT CHARSET` issue for MySQL versions below 4.1.x.
 
-:[KB1642090376 Release dates] :[KB4020076961eng The list of changes] [TODO Things to do]
+:[KB1642090376 Release dates] [KB4020076961eng The list of changes] [TODO Things to do]
