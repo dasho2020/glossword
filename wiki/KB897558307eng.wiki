@@ -1,6 +1,8 @@
 #summary The list of changes, archive
 #labels eng
 
+== The list of changes in Glossword == 
+
 === Changes in 1.8.3 (released on June 21, 2007) ===
 
 new features or major changes
