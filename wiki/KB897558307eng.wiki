@@ -1,0 +1,28 @@
+#summary The list of changes, archive
+#labels eng
+
+=== Changes in 1.8.3 (released on June 21, 2007) ===
+
+new features or major changes
+
+    * changed layout for administrative menu.
+    * added `Backup` option to maintenance section.
+    * added new option `Term is complete` for a term editing page.
+
+updates
+
+    * added checksum for terms.
+    * added `captcha` for feedback form.
+    * added the ability to search in uncompleted terms only.
+    * added an extra time range for pages with exportable data.
+    * added an indicator for uncompleted terms (marked with `?`).
+
+bug fixes
+
+    * fixed `server time` issue.
+    * fixed CSS-styles for IE7.
+    * fixes for installation wizard.
+    * fixed translation for HTML-toolbar.
+    * fixed `DEFAULT CHARSET` issue for MySQL versions below 4.1.x.
+
+:[KB1642090376 Release dates] :[KB4020076961eng The list of changes] [TODO Things to do]
