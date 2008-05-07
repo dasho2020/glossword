@@ -43,3 +43,6 @@ _Notes:_
      * Developer reserves the right to limit or terminate Standard or Enhanced Lifecycle support of its product used on unsupported configurations (where the Platform or Hardware or Operating System has been retired/obsoleted by the vendor).
 
      * Developer reserves the right to make further changes in this document at any time without a notice.
+
+
+:[KB1642090376 Release dates] [KB4020076961eng The list of changes] [KB897558307eng The list of changes, archive] [TODO Things to do]
