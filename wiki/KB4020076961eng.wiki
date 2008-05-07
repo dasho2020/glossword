@@ -3,7 +3,7 @@
 
 == The list of changes in Glossword ==
 
-=== Changes in 1.8.9 (not released yet) ===
+=== Changes in 1.8.9 (released on May 07, 2008) ===
 
 new features or major changes
     * changed Backup to make backup per dictionary.
