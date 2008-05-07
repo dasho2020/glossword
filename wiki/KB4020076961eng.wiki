@@ -6,7 +6,12 @@
 === Changes in 1.8.9 (not released yet) ===
 
 new features or major changes
-    * changed the Backup utility to backup per dictionary.
+    * changed the Backup to backup per dictionary.
+    * added auto-asterisks for searching Japanese and Korean characters, i.e. *あ*, *걙* (poophnom).
+
+updates
+    * added progress bar to the Backup.
+    * added page auto-refresh to the Backup.
 
 bug fixes
     * fixed PHP-warning on editing a dictionary when SEF is turned off (Zdenko)
