@@ -6,7 +6,7 @@
 === Changes in 1.8.9 (not released yet) ===
 
 new features or major changes
-    * changed the Backup to backup per dictionary.
+    * changed Backup to make backup per dictionary.
     * added auto-asterisks for searching Japanese and Korean characters, i.e. `*`あ`*`, `*`걙`*` (poophnom).
 
 updates
