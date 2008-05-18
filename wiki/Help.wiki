@@ -22,16 +22,12 @@
 
  * Use [http://money.yandex.ru/ Yandex.Money]. Wallet: `41001147962081`.
 
- * Use [http://ikobo.com/ iKobo.com] money transfers. It has very low tax rates. Account ID: `SD291549RU`.
-
- After registration at [http://ikobo.com/ iKobo.com], select "Add A New Funding Source", fill the form, then "Add Recipients", where you will be asked to enter `SD291549RU`.
-
  * Use Western Union. To send money, [http://locator.westernunion.com/AgentLocator/channelHtml/AgentLoc.do?method=load&localeCountry=global&language=en find the nearest Western Union department] located in your city.
  {{{
       Receiver
       First name: Nickolay
       Last name: Shilnikov
-      Town/City: Noginsk, Moscow region
+      Town/City: Moscow
       Country: Russian Federation
 }}}
  To get the money, I need to know from you:
@@ -44,6 +40,6 @@
       MTCN:
       Amount sent (USD):
 }}}
- * PayPal users follow this link: https://sourceforge.net/donate/index.php?group_id=44374
+ * PayPal: paypal at homedns dot com. Payment will be made to "Home Domain Name Services".
 
-Using donation you may order specific options for your Glossword installation like "copyright removal" and more components. Please contact for more details. dev at glossword dot info
+Using donation you may order specific options for your Glossword installation like "copyright removal" and more components. Please contact for more details. team at glossword dot biz.
