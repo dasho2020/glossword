@@ -23,7 +23,7 @@ A version specially designed to be included into other software products.
 Purpose: To site owners, who have a CMS already and who would like to add an advanced version of dictionary or dictionaries.
 
 || Version number || Release focus || Approx. release date ||
-|| 1.9.1 || Initial release. Under development. || No release date. [Help Need funds] ||
+|| 1.9.1 || Initial release. Modules for Joomla 1.5, WordPress 2.x. || No release date. [Help Need funds] ||
 
 
 : [KB1642090376 Release dates]
