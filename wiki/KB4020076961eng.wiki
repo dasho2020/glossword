@@ -3,6 +3,13 @@
 
 == The list of changes in Glossword ==
 
+=== Changes in 1.8.10 (not released yet) ===
+
+bug fixes
+    * fixed session issue with "ua".
+    * fixed the "a href" links on importing CSV.
+    * fixed issue with indexing definition text on importing CSV/XML.
+
 === Changes in 1.8.9 (released on May 07, 2008) ===
 
 new features or major changes
