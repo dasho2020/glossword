@@ -1,0 +1,29 @@
+#summary Overview of the current and future Glossword versions.
+#labels Phase-Design,eng
+
+=== Glossword 1.8 ===
+
+Stand-alone version of dictionary making script.
+
+Purpose: To owners of small sites which would like to add a dictionary or to construct a site on the basis of any dictionaries; creation of small sites (it is not necessary with dictionaries).
+
+A milestone plan:
+
+|| Version number || Release focus || Approx. release date ||
+|| 1.8.11 || Bugfixes. || July, 2008 ||
+|| 1.8.10 || Minor feature enhancements. Bugfixes. || June, 2008 ||
+|| 1.8.9 || Minor feature enhancements. Bugfixes. || Released on May 07, 2008 ||
+
+`*` _The plan can be modified_.
+
+=== Glossword 1.9 === 
+
+A version specially designed to be included into other software products.
+
+Purpose: To site owners, who have a CMS already and who would like to add an advanced version of dictionary or dictionaries.
+
+|| Version number || Release focus || Approx. release date ||
+|| 1.9.1 || Initial release. Under development. || No release date. [Help Need funds] ||
+
+
+: [KB1642090376 Release dates]
