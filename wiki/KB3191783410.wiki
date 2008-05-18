@@ -5,6 +5,7 @@
 
  # From title page: Browse for dictionaries "Dictionary -> Browse", select topic, then select "Import" opposite the dictionary name. 
  # From dictionary editing page: Select "Dictionary -> Import". Paste CVS- or XML-code into HTML-form on "Importing dictionary data" page, click on "Save".
+ # _Since 1.8.7:_ From title page: Select "Terms -> Import". Select a dictionary.
 
 Recommended number of terms which could be added at once is 500.
 It varies depending on server performance.
