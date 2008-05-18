@@ -9,5 +9,9 @@
 Recommended number of terms which could be added at once is 500.
 It varies depending on server performance.
 
+The process of importing terms is a complicated task. There are a lot of
+transformations with text during the process. You can import 10.000 terms on a local
+machine. But web-server, especially shared hosting, allows to import 500 terms or
+less at best results.
 
 : [KB1875151697 CSV-file format]
