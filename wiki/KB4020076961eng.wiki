@@ -12,6 +12,7 @@ bug fixes
     * fixed session issue with "ua".
     * fixed the "a href" links on importing CSV.
     * fixed issue with indexing definition text on importing CSV/XML.
+    * fixed error on editing multiply values for fields See also, Synonym, Antonym. (Marc).
 
 === Changes in 1.8.9 (released on May 07, 2008) ===
 
