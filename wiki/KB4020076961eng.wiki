@@ -5,6 +5,9 @@
 
 === Changes in 1.8.10 (not released yet) ===
 
+updates
+    * reduced file size of CAPTCHA image (from 15 KB to 2.5 KB).
+
 bug fixes
     * fixed session issue with "ua".
     * fixed the "a href" links on importing CSV.
