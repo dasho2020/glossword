@@ -7,12 +7,12 @@
 
 new features or major changes
     * added new maintenance task - change Dictionary ID. ([http://glossword.googlecode.com/svn/wiki/change_dictionary_id_eng.png img])
-    * extended the number of terms: published / unpublished / total. ([http://glossword.googlecode.com/svn/wiki/published_unapproved_total_eng.png img])
+    * extended the number of terms: published / unapproved / total. ([http://glossword.googlecode.com/svn/wiki/published_unapproved_total_eng.png img])
     * reduced memory requirements for XML-import (from ~9 MB to ~5 MB for 500 terms).
     * added the ability to search in published terms only, unpublished terms only or both.
 
 updates
-    * more statistics during XML-importing.
+    * more statistics during XML-importing ([http://glossword.googlecode.com/svn/wiki/import_statistics.png img]).
     * reduced file size of CAPTCHA image (from 15 KB to 2.5 KB).
 
 bug fixes
