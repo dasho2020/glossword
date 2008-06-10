@@ -7,8 +7,12 @@
 
 new features or major changes
     * added new maintenance task - change Dictionary ID.
+    * extended the number of terms: published / unpublished / total.
+    * reduced memory requirements for XML-import (from ~9 MB to ~5 MB for 500 terms).
+    * added the ability to search in published terms only, unpublished terms only or both.
 
 updates
+    * more statistics during XML-importing.
     * reduced file size of CAPTCHA image (from 15 KB to 2.5 KB).
 
 bug fixes
