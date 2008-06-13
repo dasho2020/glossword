@@ -20,6 +20,7 @@ updates
 
 bug fixes
     * fixed session issue with "ua".
+    * fixed HTML-markup for Menu manager.
     * fixed issue with saving settings when importing terms.
     * fixed issue with editing the list of assigned dictionaries.
     * fixed the link to "My settings" from editing the user profile.
