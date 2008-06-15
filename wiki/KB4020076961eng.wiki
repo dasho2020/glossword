@@ -8,7 +8,7 @@
 new features or major changes
     * new design for administrative interface.
     * added new maintenance task - change Dictionary ID. ([http://glossword.googlecode.com/svn/wiki/change_dictionary_id_eng.png img])
-    * The possibility to select all terms in a dictionary. ([http://glossword.googlecode.com/svn/wiki/adm_select_all_terms.png img]) (José Marcos)
+    * added the possibility to select all terms in a dictionary. ([http://glossword.googlecode.com/svn/wiki/adm_select_all_terms.png img]) (José Marcos)
     * added the ability to set maximum execution time for import. ([http://glossword.googlecode.com/svn/wiki/xml_import-maximum_execution_time_eng.png img])
     * extended the number of terms: published / unapproved / total. ([http://glossword.googlecode.com/svn/wiki/published_unapproved_total_eng.png img]) (Oleg Boldenkov)
     * reduced memory requirements for XML-import (from ~9 MB to ~5 MB for 500 terms).
