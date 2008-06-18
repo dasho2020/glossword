@@ -29,7 +29,7 @@ bug fixes
     * fixed issue with saving settings when importing terms.
     * fixed issue with editing the list of assigned dictionaries.
     * fixed the link to dictionary from editing the user profile.
-    * fixed PHP-warning on activating or deactivating a dictionary.
+    * fixed PHP-warning on activating or deactivating a dictionary. (Juergen Bartsch)
     * fixed the link to "My settings" from editing the user profile.
     * fixed issue with indexing definition text on importing CSV/XML.
     * fixed the "a href" links for terms imported by using CSV-format.
