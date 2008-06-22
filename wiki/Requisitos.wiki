@@ -5,6 +5,7 @@
 
 La instalación de Glossword 1.8.x requiere:
 
+ * Navegador (Internet Explorer 7+, Firefox 2+, Opera 9+). 
  * Servidor web (Apache, IIS u otro).
  * PHP versión 4.3.9 ó superior (recomendada 5.3.x).
  * Base de datos MySQL versión 4.1.x ó superior (recomendada 5.1.x).
