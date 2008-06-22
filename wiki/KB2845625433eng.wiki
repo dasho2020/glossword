@@ -1,0 +1,27 @@
+#summary What is Glossword WAMP?
+#labels FAQ,eng
+
+=== What is Glossword WAMP? ===
+
+Glossword WAMP is the package of the most popular programs which turns your desktop computer into web server. You need it if you wish to install Glossword or other PHP-scripts on MS Windows systems.
+
+WAMP stands for Windows, Apache, MySQL, PHP.
+
+Glossword WAMP includes phpMyAdmin, PHP extensions from PECL: php_memcache.dll, php_id3.dll, php_uploadprogress.dll.
+
+Other notable PHP modules: curl, gd2, json, mbstring, mysql, mysqli (mysqlnd), openssl, xmlrpc.
+
+Registered PHP Streams: php, file, glob, data, http, ftp, compress.zlib, https, ftps, zip.
+
+Glossword WAMP has been successfully tested with the following applications:
+
+  # Bitrix 5.9, 6.x
+  # Drupal 5, 6
+  # Eventum
+  # Invistion Power Board
+  # Joomla 1.x, 1.5.x
+  # mediawiki
+  # Moodle
+  # phpBB 2.x, 3.x
+  # VBulletin Board
+  # Wordpress
