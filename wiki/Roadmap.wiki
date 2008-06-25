@@ -9,9 +9,9 @@ Purpose: To owners of small sites which would like to add a dictionary or to con
 
 A milestone plan:
 
-|| *Version number* || *Release focus* || *Approx. release date* ||
+|| *Version number* || *Release overview* || *Approx. release date* ||
 || 1.8.11 || Bugfixes. || July, 2008 ||
-|| 1.8.10 || Minor feature enhancements. Bugfixes. || June, 2008 ||
+|| 1.8.10 || Major feature enhancements. New design for administrative interface. Bugfixes. || June, 2008 ||
 || ~~1.8.9~~ || Minor feature enhancements. Bugfixes. || Released on May 07, 2008 ||
 
 `*` _The plan can be modified_.
