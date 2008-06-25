@@ -25,3 +25,7 @@ Glossword WAMP has been successfully tested with the following applications:
   # phpBB 2.x, 3.x
   # VBulletin Board
   # Wordpress
+
+
+[http://sourceforge.net/project/showfiles.php?group_id=44374 Download Glossword WAMP]
+
