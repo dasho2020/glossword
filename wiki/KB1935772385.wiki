@@ -5,8 +5,8 @@
 
 The number of terms is automatically updated on these events:
 
- * _Since 1.8.10_ After adding a term
- * _Since 1.8.10_ After importing terms
+ * _Since 1.8.10_ After adding a term.
+ * _Since 1.8.10_ After importing terms.
  * After editing dictionary settings.
  * After removing a term.
  * After adding a term with selected option "After posting… Update dictionary statistics".
