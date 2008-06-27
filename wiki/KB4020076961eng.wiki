@@ -26,6 +26,7 @@ updates
 bug fixes
     * fixed session issue with "ua".
     * fixed HTML-markup for Menu manager.
+    * fixed the link to viewing a term after editing.
     * fixed the link to visual themes in admin interface.
     * fixed issue with saving settings when importing terms.
     * fixed PHP-warning on activating or deactivating a topic. (John Fox)
