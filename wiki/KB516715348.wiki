@@ -5,4 +5,4 @@
 
 Glossword is PHP-script and it runs under any operating system supported by PHP. Yes, Glossword runs under Windows 2000, Windows XP and Windows Vista also.
 
-To run PHP-scripts on Windows, use [http://glossword.info/ Glossword WAMP].
+To run PHP-scripts on Windows, use [http://glossword.biz/glosswordwamp/ Glossword WAMP].
