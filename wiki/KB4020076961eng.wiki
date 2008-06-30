@@ -11,7 +11,6 @@ new features or major changes
     * added the possibility to select all terms in a dictionary. ([http://glossword.googlecode.com/svn/wiki/adm_select_all_terms.png img]) (José Marcos)
     * added the ability to set maximum execution time for import. ([http://glossword.googlecode.com/svn/wiki/xml_import-maximum_execution_time_eng.png img])
     * extended the number of terms: published / unapproved / total. ([http://glossword.googlecode.com/svn/wiki/published_unapproved_total_eng.png img]) (Oleg Boldenkov)
-
     * added option "Save in the history of changes" on removing terms. ([http://glossword.googlecode.com/svn/wiki/adm_term_remove.png img])
     * reduced memory requirements for XML-import (from ~9 MB to ~5 MB for 500 terms).
     * added the ability to search in published terms only, unapproved terms only or both. ([http://glossword.googlecode.com/svn/wiki/search_6_options_eng.png img])
