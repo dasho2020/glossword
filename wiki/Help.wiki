@@ -40,6 +40,5 @@
       MTCN:
       Amount sent (USD):
 }}}
- * PayPal: paypal at homedns dot com. Payment will be made to "Home Domain Name Services".
 
 Using donation you may order specific options for your Glossword installation like "copyright removal" and more components. Please contact for more details. team at glossword dot biz.
