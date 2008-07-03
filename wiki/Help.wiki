@@ -22,7 +22,7 @@
 
  * Use *[http://money.yandex.ru/ Yandex.Money]*. Wallet: `41001147962081`.
 
- * Use *Western Union*. To send money, [https://www.westernunion.de/info/agentLocator.asp find the nearest Western Union department] located in your city.
+ * Use *Western Union*. To send money, [http://www.westernunion.com/info/agentLocator.asp find the nearest Western Union department] located in your city.
  {{{
       Receiver
       First name: Nickolay
