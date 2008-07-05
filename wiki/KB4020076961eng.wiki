@@ -21,6 +21,7 @@ updates
     * added more statistics during XML-importing. ([http://glossword.googlecode.com/svn/wiki/import_statistics_eng.png img])
     * the link Powered by Glossword opens in a new window.
     * reduced file size of CAPTCHA image (from 15 KB to 2.5 KB).
+    * added prefix `visual-name` for exported files with visual themes.
     * added more steps for Backup for higher reliability and for lower server load.
     * settings for SEF-mode "filename extension" and "default filename" were moved to configuration file (/inc/config.inc.php). Default settings are ".xhtml" and "index.xhtml".
 
