@@ -6,6 +6,7 @@
 === Changes in 1.8.10 (not released yet) ===
 
 new features or major changes
+    * new installation procedure.
     * new design for administrative interface. ([http://glossword.googlecode.com/svn/wiki/1.8.10-sf_cp_home.jpg img])
     * added new maintenance task - change Dictionary ID. ([http://glossword.googlecode.com/svn/wiki/change_dictionary_id_eng.png img])
     * added the possibility to select all terms in a dictionary. ([http://glossword.googlecode.com/svn/wiki/adm_select_all_terms.png img]) (José Marcos)
