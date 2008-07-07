@@ -14,7 +14,7 @@ new features or major changes
     * added option "Save in the history of changes" on removing terms. ([http://glossword.googlecode.com/svn/wiki/adm_term_remove.png img])
     * reduced memory requirements for XML-import (from ~9 MB to ~5 MB for 500 terms).
     * added the ability to search in published terms only, unapproved terms only or both. ([http://glossword.googlecode.com/svn/wiki/search_6_options_eng.png img])
-    * the number of database requests for installation has been reduced in more than 11 times (from 1819 to 161).
+    * the number of database requests for installation has been reduced in more than 11 times (from 1819 to 169).
 
 updates
     * added more usability improvements.
