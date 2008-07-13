@@ -58,7 +58,7 @@
 
 Установка Glossword на локальный компьютер с операционными системами MS Windows 2000/XP/2003:
 
- * Установите [http://sourceforge.net/project/showfiles.php?group_id=44374 Glossword-WAMP].
+ * Установите [KB2845625433rus Glossword-WAMP].
  * Распакуйте содержимое файла `glossword-1.x.x.zip` в папку `С:\Program Files\Glossword-WAMP\htdocs`.
  * Откройте в браузере ссылку http://localhost:81/glossword/gw_install/.
 
