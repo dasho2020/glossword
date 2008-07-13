@@ -11,6 +11,7 @@
 # chmod 0777 gw_temp/t
 # chmod 0777 gw_temp/a
 # chmod 0777 gw_temp/gw_cache_sql
+# chmod 0777 gw_temp/gw_logs
 # chmod 0777 gw_temp/gw_export
 }}}
 
@@ -22,7 +23,6 @@
 Index of /usr/local/apache/htdocs/glossword
 File/Folder  Name            chmod value  Permissions
 *      [DIR] gw_addon        -
-*      [DIR] gw_admin        -
 *      [DIR] gw_install      -
 *      [DIR] gw_locale       -
 *      [DIR] gw_temp         0777         drwxrwxrwx
@@ -42,7 +42,7 @@ File/Folder  Name            chmod value  Permissions
 *            robots.txt      -
 }}}
 
- * Now, if your site is `www.domain.tld` and Glossword is installing into root directory then the link to installation will be `http://www.domain.tld/gw_install/`.
+ * Now, if your site is `domain.tld` and Glossword is installing into root directory then the link to installation will be `http://domain.tld/gw_install/`.
 
 Notes:
 
@@ -50,6 +50,7 @@ Notes:
 
  * chmod levels 0666 and 0777 are required unless your system uses another permissions. For example, if you are using CGIWrap that runs PHP scripts under the UID of the owner of the file, rather than under the UID of the web server, then chmod to 0644 and 0755.
 
+ * Turn off PHP Safe mode if possible. Glossword needs a temporary directory to manage visual themes, avatars, cached database requests, log-files, and exported files.
 
 == From the local computer to the local computer ==
 
