@@ -3,7 +3,7 @@
 
 == The list of changes in Glossword ==
 
-=== Changes in 1.8.10 (not released yet) ===
+=== Changes in 1.8.10 (released on July 13, 2008) ===
 
 new features or major changes
     * new installation procedure.
@@ -41,6 +41,7 @@ bug fixes
     * fixed the "a href" links for terms imported by using CSV-format.
     * fixed error with comma (,) in a dictionary name when SEF-mode is on. (John Fox)
     * fixed issue with the selection of topic on adding or editing topics.
+    * fixed error with linking terms when anti-leecher and SEF are enabled. (Issue #69)
     * fixed a minor issue with highlighting the current term in the history of changes.
     * fixed error on editing multiply values for fields like See also, Synonym, Antonym. (Marc).
     * fixed issue with the selection of previously selected option in a search HTML-form.
