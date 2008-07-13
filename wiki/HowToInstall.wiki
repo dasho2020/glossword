@@ -11,8 +11,8 @@
 # chmod 0777 gw_temp/t
 # chmod 0777 gw_temp/a
 # chmod 0777 gw_temp/gw_cache_sql
-# chmod 0777 gw_temp/gw_logs
 # chmod 0777 gw_temp/gw_export
+# chmod 0777 gw_temp/gw_logs
 }}}
 
  * Set writing permissions for file `/db_config.php`:
@@ -56,7 +56,7 @@ Notes:
 
 The installation of Glossword to the local computer with operating systems MS Windows 2000/XP/2003:
 
- * Install [http://sourceforge.net/project/showfiles.php?group_id=44374 Glossword-WAMP].
+ * Install [http://code.google.com/p/glossword/wiki/KB2845625433eng Glossword-WAMP].
  * Unpack the contents of file `glossword-1.x.x.zip` to folder `C:\Program Files\Glossword-WAMP\htdocs`.
  * Open in a browser the link `http://localhost:81/glossword/gw_install/`.
 
