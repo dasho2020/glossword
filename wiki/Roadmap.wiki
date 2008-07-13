@@ -11,7 +11,7 @@ A milestone plan:
 
 || *Version number* || *Release overview* || *Approx. release date* ||
 || 1.8.11 || Bugfixes. || July, 2008 ||
-|| 1.8.10 || Major feature enhancements. New design for administrative interface. Bugfixes. || 6-12 July, 2008 ||
+|| ~~1.8.10~~ || Major feature enhancements. New installation procedure, new design for administrative interface, usability improvements, a lot of bugfixes. || 13 July, 2008 ||
 || ~~1.8.9~~ || Minor feature enhancements. Bugfixes. || Released on May 07, 2008 ||
 
 `*` _The plan can be modified_.
