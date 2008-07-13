@@ -27,5 +27,33 @@ Glossword WAMP has been successfully tested with the following applications:
   # Wordpress
 
 
-[http://sourceforge.net/project/showfiles.php?group_id=44374 Download Glossword WAMP]
+[#summary Что такое Glossword WAMP?
 
+=== Что такое Glossword WAMP? ===
+
+Glossword WAMP - это набор из наиболее популярных программ, который превращает ваш настольный компьютер в веб-сервер. Вам это нужно, если вы хотите установить Glossword
+или другие PHP-скрипты на системы MS Windows.
+
+WAMP означает for Windows, Apache, MySQL, PHP.
+
+В состав Glossword WAMP входит phpMyAdmin, PHP-расширения из PECL: php_memcache.dll, php_id3.dll, php_uploadprogress.dll.
+
+Другие PHP-расширения: curl, gd2, json, mbstring, mysql, mysqli (mysqlnd), openssl, xmlrpc.
+
+PHP-потоки: php, file, glob, data, http, ftp, compress.zlib, https, ftps, zip.
+
+Glossword WAMP успешно протестирован со следующими приложениями:
+
+  # Bitrix 5.9, 6.x
+  # Drupal 5, 6
+  # Eventum
+  # Invistion Power Board
+  # Joomla 1.x, 1.5.x
+  # mediawiki
+  # Moodle
+  # phpBB 2.x, 3.x
+  # VBulletin Board
+  # Wordpress
+
+
+[http://code.google.com/p/glossword/downloads/list Download Glossword WAMP]
