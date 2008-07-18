@@ -6,7 +6,7 @@
 === Changes in 1.8.11 (not released yet) ===
 
 bug fixes
-    * fixes error with indexing terms (Issue 79) (Alexander).
+    * fixes error with indexing terms (Issue #73) (Alexander).
 
 
 === Changes in 1.8.10 (released on July 13, 2008) ===
