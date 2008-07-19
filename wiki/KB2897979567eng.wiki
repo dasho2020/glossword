@@ -21,14 +21,14 @@ _However, it is possible to avoid some errors by using Unicode-compatible text e
 
 
 Instead of editing PHP-files, download archive with source phrases in MS Excel format:
- * http://sourceforge.net/project/showfiles.php?group_id=44374
  * http://code.google.com/p/glossword/downloads/list
 
 
 It is easy to edit. You have two columns - "Source" and "Target".  
 Write your translation variant into the "Target". 
-Save and send MS Excel file to my email dev at glossword dot info.
-Later than I will send you working PHP-files with translation.
+
+Save and send MS Excel files to email team at glossword dot biz.
+Later than I'll send you working PHP-files with translation.
 If you will have a questions during translation process, please ask them to me. 
 
 If you are using *OpenOffice* (Calc), open MS Excel files as *Microsoft Excel 2003 XML*. Save edited files in this file format.
