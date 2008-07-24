@@ -8,7 +8,7 @@
 bug fixes
     * fixed the link to clear cached files.
     * fixed error with indexing terms (Issue #73) (Alexander).
-    * fixed error with accessing site SEF-mode is turnend on and when Glossword is installed into root directory (Issue #76) (Dohuutuan).
+    * fixed error with accessing site SEF-mode is turned on and when Glossword is installed into root directory (Issue #76) (Dohuutuan).
 
 
 === Changes in 1.8.10 (released on July 13, 2008) ===
