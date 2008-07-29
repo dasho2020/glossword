@@ -9,7 +9,7 @@ Commercial Licenses offer a flexible way to use Glossword in commercial purposes
 
   * One License = One Domain. You may install and use ONE copy of Glossword for any given .com, .net, .org etc. domain.
 
-  * You may change the style of the layout including the replacement of any Glossword logos and images with you or your company's own.
+  * You may change the style of the layout including the replacement of any Glossword logos and images with your or your company's own.
 
   * You may remove any or all browser-visible references to Glossword in the source code. 
 
@@ -36,7 +36,7 @@ Price: *300 Euro*
 
   * One License = Unlimited Domains. You may install and use UNLIMITED copies of Glossword for any given .com, .net, .org etc. domain.
 
-  * You may change the style of the layout including the replacement of any Glossword logos and images with you or your company's own.
+  * You may change the style of the layout including the replacement of any Glossword logos and images with your or your company's own.
 
   * You may remove any or all browser-visible references to Glossword in the source code. 
 
