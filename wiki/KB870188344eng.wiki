@@ -17,9 +17,7 @@ Commercial Licenses offer a flexible way to use Glossword in commercial purposes
 
   * You may not re-distribute, re-sell, or take credit for any of the Glossword source code under any circumstances.
 
- * With the CDL, you have also Standard Support (See [http://code.google.com/p/glossword/wiki/KB3152042159eng Standard Support Lifecycle Policy]).
-
- * You will need to have for each installation a modified source code (provided by developer).
+  * You will need to have for each installation a modified source code (provided by developer).
 
 Price: *300 Euro*
 
@@ -46,9 +44,7 @@ Price: *300 Euro*
 
   * You may distribute Glossword as integrating part of your software product.
 
- * With the CDL, you have also Enhanced Support (See [http://code.google.com/p/glossword/wiki/KB3152042159eng Enhanced Support Lifecycle Policy]).
-
- * You will need to have for each installation a modified source code (provided by developer).
+  * You will need to have for each installation a modified source code (provided by developer).
 
 Price: *2,000 Euro*
 
