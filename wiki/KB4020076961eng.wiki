@@ -7,6 +7,7 @@
 
 updates
     * added the number of terms to HTML-title of page with search results.
+    * added more informative titles for pages when editing a visual theme.
 
 bug fixes
     * fixed error on merging dictionaries (Issue #78) (gtranslator).
