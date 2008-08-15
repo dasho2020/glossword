@@ -9,6 +9,7 @@ updates
     * added the number of terms to HTML-title of page with search results.
 
 bug fixes
+    * fixeв error on merging dictionaries (Issue #78) (gtranslator).
     * fixed the link to clear cached files.
     * fixed error with indexing terms (Issue #73) (Alexander).
     * fixed PHP-warning on ordering a custom pages (Maarten).
