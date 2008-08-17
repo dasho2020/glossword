@@ -10,7 +10,7 @@ HTML-code for a visual theme is available to edit using administrative interface
 <img alt="{%l:main_page%}" height="48" src="{%v:path_css%}/logo.png" width="48" />
 }}}
 
-`Dictionary`, template `tpl_search_form` and `Custom pages`, template `tpl_search_form_custom`:
+See also `Dictionary`, template `tpl_search_form` and `Custom pages`, template `tpl_search_form_custom`:
 
 {{{
 <a class="plain" href="{%href:home%}" id="gw-logo">
