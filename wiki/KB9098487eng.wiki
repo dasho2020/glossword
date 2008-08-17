@@ -20,4 +20,4 @@ HTML-code for a visual theme is available to edit using administrative interface
 
 Replace `logo.png` with your own file and define width and height in HTML-code to remove the Glossword logo.
 
-To remove a copyright notice "Powered by Glossword" at the bottom of pages, you need to purchase "Commercial license with copyright removal". See [Commercial licenses http://code.google.com/p/glossword/wiki/KB870188344eng]
+To remove a copyright notice "Powered by Glossword" at the bottom of pages, you need to purchase "Commercial license with copyright removal". See [KB870188344eng Commercial licenses]
