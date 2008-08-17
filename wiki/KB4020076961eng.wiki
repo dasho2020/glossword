@@ -3,7 +3,7 @@
 
 == The list of changes in Glossword ==
 
-=== Changes in 1.8.11 (not released yet) ===
+=== Changes in 1.8.11 (released on August 18, 2008) ===
 
 updates
     * changed the print version for all visual themes.
