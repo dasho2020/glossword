@@ -10,8 +10,9 @@ Purpose: To owners of small sites which would like to add a dictionary or to con
 A milestone plan:
 
 || *Version number* || *Release overview* || *Approx. release date* ||
-|| 1.8.11 || Bugfixes. || July-August, 2008 ||
-|| ~~1.8.10~~ || Major feature enhancements. New installation procedure, new design for administrative interface, usability improvements, a lot of bugfixes. || ~~6-12 July, 2008~~ Released on 13 July, 2008 ||
+|| 1.8.12 || Bugfixes. || September, 2008 ||
+|| ~~1.8.11~~ || Minor feature enhancements. Updated print version for terms. Bugfixes. || ~~July-August, 2008~~ Released on August 18, 2008 ||
+|| ~~1.8.10~~ || Major feature enhancements. New installation procedure, new design for administrative interface, usability improvements, a lot of bugfixes. || ~~6-12 July, 2008~~ Released on July 13, 2008 ||
 || ~~1.8.9~~ || Minor feature enhancements. Bugfixes. || Released on May 07, 2008 ||
 
 `*` _The plan can be modified_.
