@@ -13,7 +13,6 @@ updates
 bug fixes
 
     * fixed PHP-warning on rollback (José Marcos).
-    * fixed the link to clear cached files.
     * fixed error on merging dictionaries (Issue #78) (gtranslator).
     * fixed the link to clear cached files.
     * fixed error with indexing terms (Issue #73) (Alexander).
