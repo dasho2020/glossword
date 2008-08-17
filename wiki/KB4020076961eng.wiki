@@ -11,12 +11,14 @@ updates
     * added more informative titles for pages when editing a visual theme.
 
 bug fixes
+
     * fixed PHP-warning on rollback (José Marcos).
     * fixed the link to clear cached files.
     * fixed error on merging dictionaries (Issue #78) (gtranslator).
     * fixed the link to clear cached files.
     * fixed error with indexing terms (Issue #73) (Alexander).
     * fixed PHP-warning on ordering a custom pages (Maarten).
+    * fixed the usage of ambersand (&) in See Also, Synonym and Antonym fields (José Marcos).
     * fixed error with accessing site when SEF-mode is turned on and when Glossword is installed into root directory (Issue #76) (Dohuutuan).
 
 
