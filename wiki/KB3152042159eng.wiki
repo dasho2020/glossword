@@ -39,6 +39,8 @@ Customers with support needs beyond the Enhanced Lifecycle timeframe can negotia
 
 `*` _All dates are in YYYY-MM-DD format._
 
+Example: You have Glossword version 1.8.7. Standard Support is valid since April 4, 2008 till Augist 18, 2008.
+
 ----
 _Notes:_
      * Developer reserves the right to limit or terminate Standard or Enhanced Lifecycle support of its product used on unsupported configurations (where the Platform or Hardware or Operating System has been retired/obsoleted by the vendor).
