@@ -3,7 +3,7 @@
 
 === How to update from 1.7.0 to 1.8.4 ===
 
-Method one: export all terms into XML format in version 1.7.0, make a clean install 1.8.4 and import XML-file into 1.8.4.
+Method one: export all terms into XML format in version 1.7.0, make a clean install of 1.8.4 and import XML-file into 1.8.4.
 
 _Note:_ There is an issue with exporting terms in 1.7.0 - a short date range. This has been fixed, see file [http://groups.google.com/group/glossword/files?hl=en inc-for-exporting-1.7.0.zip]
 
