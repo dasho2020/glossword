@@ -3,6 +3,12 @@
 
 == The list of changes in Glossword ==
 
+=== Changes in 1.8.12 (not yet released) ===
+
+bug fixes
+
+    * fixed error with installation into root (Issue #88) (jeefuu).
+
 === Changes in 1.8.11 (released on August 18, 2008) ===
 
 updates
