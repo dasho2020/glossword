@@ -1,4 +1,5 @@
 #summary Why I'm receiving message "403 Permission Denied"?
+#labels Solution
 
 === Why I'm receiving message "403 Permission Denied"? ===
 
@@ -11,5 +12,3 @@ You do not have permission for this request
 }}}
 
 *A:* Try to rename or remove file `/glossword/.htaccess`.
-
-Also, there is shortcut to installation: `/glossword/install.php`.
