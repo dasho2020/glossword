@@ -7,4 +7,4 @@ Glossword is PHP-script and it runs under any operating system supported by PHP.
 
 To run PHP-scripts on Windows, use [http://glossword.biz/glosswordwamp/ Glossword WAMP].
 
-In other way, you may install PHP as a FastCGI- or ISAPI-module for Microsoft IIS (Internet Information Service) and run Glossword as a usual PHP-script.
+In other way, you may install PHP as a FastCGI- or ISAPI-module for Microsoft IIS (Internet Information Service) and then execute Glossword application.
