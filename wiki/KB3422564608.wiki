@@ -1,7 +1,7 @@
-#summary Troubleshooting "Table '.\glossword\x' is marked as crashed and should be repaired"
+#summary Troubleshooting "Table 'x' is marked as crashed and should be repaired"
 #labels Solution
 
-=== What it means: "Table '.\glossword\x' is marked as crashed and should be repaired"? ===
+=== What it means: "Table 'x' is marked as crashed and should be repaired"? ===
 
 It means there is an error in MySQL server and database needs to be repeared.
 
