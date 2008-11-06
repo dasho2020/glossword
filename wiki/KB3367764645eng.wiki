@@ -1,0 +1,13 @@
+#summary Troubleshooting "HTTP 500.0 - Internal Server Error" under IIS
+#labels Solution,IIS
+
+=== Why I'm receiving message "HTTP 500.0 - Internal Server Error. The FastCGI process exceeded configured activity timeout."? ===
+
+*Q:* I've started Glossword installation, but after setting up database settings I'm receiving the following:
+{{{
+HTTP 500.0 - Internal Server Error
+ 
+Module: FastCgiModule
+}}}
+
+*A:* Use `127.0.0.1` as database host instead of the default 'localhost'.
