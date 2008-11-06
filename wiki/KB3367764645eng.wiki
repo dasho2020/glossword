@@ -3,7 +3,7 @@
 
 === Why I'm receiving message "HTTP 500.0 - Internal Server Error. The FastCGI process exceeded configured activity timeout."? ===
 
-*Q:* I've started Glossword installation, but after setting up database settings I'm receiving the following:
+*Q:* I've started Glossword installation, but after setting up database connection properties I'm receiving the following:
 {{{
 HTTP 500.0 - Internal Server Error
 The FastCGI process exceeded configured activity timeout.
