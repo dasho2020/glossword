@@ -1,4 +1,5 @@
 #summary How to install a translation
+#labels FAQ,eng
 
 === How to install a translation ===
 
@@ -10,4 +11,4 @@ and place all files from archive to `/gw_locale/es-utf8'.
 
 The translation will appear the list of interface languages.
 
-: [KB2897979567eng How to create a translation?]
+: [KB3182930848eng How to remove a translation?] [KB2897979567eng How to create a translation?]
