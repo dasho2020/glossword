@@ -3,7 +3,7 @@
 
 === Why I'm receiving message "HTTP 404.11 - Not Found. The request filtering module is configured to deny a request that contains a double escape sequence"? ===
 
-*Q:* When I start with `http://127.0.0.1/glossword/1.8/index.php/index/Example+dictionary.xhtml`, 
+*Q:* When I start with `http://127.0.0.1/glossword/1.8/index.php/list/Example+dictionary.xhtml`, 
 I have the following message:
 
 {{{
@@ -17,7 +17,7 @@ Module: RequestFilteringModule
 <system.webServer>
     ...
     <security>
-        <requestFiltering allowDoubleEscaping="True"/>
+        <requestFiltering allowDoubleEscaping="true"/>
     </security>
     ...
 </system.webServer>
