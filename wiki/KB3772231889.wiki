@@ -1,4 +1,4 @@
-#summary Why I'm receiving message "403 Permission Denied"?
+#summary Troubleshooting "403 Permission Denied"
 #labels Solution
 
 === Why I'm receiving message "403 Permission Denied"? ===
