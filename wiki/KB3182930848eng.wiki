@@ -1,0 +1,8 @@
+#summary How to remove a translation?
+#labels FAQ,eng
+
+=== How to remove a translation? ===
+
+Remove folder with a translation files inside `/gw_locale'. For example, `/gw_locale/es-utf8'.
+
+: [KB2558745973eng How to install a translation?]
