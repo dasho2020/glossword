@@ -1,4 +1,4 @@
-#summary Why I'm receiving message "HTTP 404.11 - Not Found" using IIS?
+#summary Troubleshooting "HTTP 404.11 - Not Found" under IIS
 #labels Solution,IIS
 
 === Why I'm receiving message "HTTP 404.11 - Not Found. The request filtering module is configured to deny a request that contains a double escape sequence"? ===
