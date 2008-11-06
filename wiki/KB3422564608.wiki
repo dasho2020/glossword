@@ -1,4 +1,5 @@
-#summary Table '.\glossword\x' is marked as crashed and should be repaired
+#summary Troubleshooting "Table '.\glossword\x' is marked as crashed and should be repaired"
+#labels Solution
 
 === What it means: "Table '.\glossword\x' is marked as crashed and should be repaired"? ===
 
