@@ -1,14 +1,15 @@
-#summary Troubleshooting "403 Permission Denied"
+#summary Troubleshooting "Allowed memory size of n bytes exhausted"
 #labels Solution
 
-=== Why I'm receiving message "403 Permission Denied"? ===
+=== Troubleshooting "Allowed memory size of n bytes exhausted" ===
 
-*Q:* When I start with `http://mydomain/glossword/gw_install`, 
-I have the following message:
+*Q:* When I'm trying to import or export or backup dictionary data, I'm receiving the following message:
 
 {{{
-403 Permission Denied
-You do not have permission for this request
+Fatal error: Allowed memory size of _n_ bytes exhausted (tried to allocate _n_ bytes) in _file_name_ on line _ n_
 }}}
 
-*A:* Try to rename or remove file `/glossword/.htaccess`.
+*A:* For Import and Export: try to reduce the number of terms you are trying to import or export.
+*A:* For Backup: Try to clear the history of changes before making a backup.
+Follow "System settings" -> "Maintenance" -> "Clear the history of changes".
+*A:* Your hosting service does not allow to use more memory. You can backup dictionary data manually using database administration tool like phpMyAdmin.
