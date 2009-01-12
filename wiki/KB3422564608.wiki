@@ -8,7 +8,9 @@ It means there is an error in MySQL server and database needs to be repaired. It
 *Quick solution*
 
 Try to tun this query, using a database administration tool, like phpMyAdmin:
+{{{
 REPAIR TABLE `table_name`;
+}}}
 
 *Detailed solution*
 
