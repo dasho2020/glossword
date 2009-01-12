@@ -3,7 +3,14 @@
 
 === What it means: "Table 'x' is marked as crashed and should be repaired"? ===
 
-It means there is an error in MySQL server and database needs to be repeared.
+It means there is an error in MySQL server and database needs to be repaired. It could happen with MyISAM type of tables. 
+
+*Quick solution*
+
+Try to tun this query, using a database administration tool, like phpMyAdmin:
+REPAIR TABLE `table_name`;
+
+*Detailed solution*
 
 There is a long way to fix this. But you can receive a detailed
 instructions in MySQL documentation, 
@@ -28,5 +35,6 @@ myisamchk.exe -e "e:/usr/bin/mysql5/data/glossword1_8/gw_xdtsffjq"
 }}}
 
 Next steps are covered in MySQL documentation quite well. 
+
 
 :[http://dev.mysql.com/doc/refman/5.0/en/repair-table.html]
