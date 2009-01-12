@@ -22,8 +22,8 @@ see 5.10.4.3. How to Repair Tables
  # Start -> Run -> type `cmd`, hit `[Enter]`
  # Go to directory `mysql/bin`:
 {{{
-c:\> e:
-e:\> cd "e:\usr\bin\mysql5\bin"
+c:\> d:
+d:\> cd "d:\wamp\mysql5\bin"
 }}}
 _this is example for my computer, directory names can be different_
 
