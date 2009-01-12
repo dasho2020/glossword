@@ -33,7 +33,7 @@ Now open MySQL documentation
 > Stage 1: Checking your tables
 
 {{{
-myisamchk.exe -e "e:/usr/bin/mysql5/data/glossword1_8/gw_xdtsffjq"
+myisamchk.exe -e "d:/wamp/mysql5/data/glossword1_8/gw_xdtsffjq"
 }}}
 
 Next steps are covered in MySQL documentation quite well. 
