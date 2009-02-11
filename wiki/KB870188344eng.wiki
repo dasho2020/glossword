@@ -17,8 +17,6 @@ Commercial Licenses offer a flexible way to use Glossword in commercial purposes
 
   * You may not re-distribute, re-sell, or take credit for any of the Glossword source code under any circumstances.
 
-  * You will need to have for each installation a modified source code (provided by developer).
-
 Price: *300 Euro*
 
 *Volume discounts:*
@@ -27,27 +25,4 @@ Price: *300 Euro*
  * 10 sites licenses 1,500 Euro (€150/each)
  * 50 sites licenses 4,000 Euro (€80/each)
 
-
-=== Commercial License - Closed Distribution License - CDL, Unlimited Sites ===
-
-*License Terms:*
-
-  * One License = Unlimited Domains. You may install and use UNLIMITED copies of Glossword for any given .com, .net, .org etc. domain.
-
-  * You may change the style of the layout including the replacement of any Glossword logos and images with your or your company's own.
-
-  * You may remove any or all browser-visible references to Glossword in the source code. 
-
-  * You may edit and modify the source code to suit your needs without written permission from the authors of Glossword.
-
-  * You may use Glossword, stripped of its branding, within your own distributable product or on multiple domains (including sub domains) or as a service to your users if you are a web hosting company.
-
-  * You may distribute Glossword as integrating part of your software product.
-
-  * You will need to have for each installation a modified source code (provided by developer).
-
-Price: *2,000 Euro*
-
 A custom agreements are possible.
-
-You can update the Single Site License to Unlimited Sites License for *1,700 Euro*.
