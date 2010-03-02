@@ -16,6 +16,8 @@
 || Wiki-code || - || ++ ||
 || HTML-code || + || + ||
 || Multilingual variants for definitions || - || ++ ||
+|| Next/previous term || - || + ||
+|| Adjacent terms || - || - ||
 || || || ||
 || * Dictionaries * || || (replaced by Tags) ||
 || Creating, editing || + || - ||
@@ -29,6 +31,7 @@
 || * Tags * || || ||
 || Creating, editing || - || - ||
 || Tags-based navigation || - || - ||
+|| || || ||
 || * Infoblocks * || || ||
 || Creating, editing || - || ++ ||
 || Import || - || ++ ||
@@ -37,6 +40,36 @@
 || Support for executable php || - || ++ ||
 || Customizable placement || - || top/button ||
 || Customizable sorting order || - || - ||
+|| || || ||
+|| * Fields* || || ||
+|| Creating, editing || - || - ||
+|| Customizable sorting order || + || - ||
+|| Alphabetic order 1/2/3 || +/+/+ || auto/auto/- ||
+|| Translation variant || visual only || - ||
+|| A sound file || - || - ||
+|| Attached images || - || - ||
+|| Creation date || + || auto ||
+|| Modification date || + || auto ||
+|| Derivatives || - || - ||
+|| Transcription || + || - ||
+|| Pronounce || - || - ||
+|| Gender || + || - ||
+|| Part of speech || + || - ||
+|| Singular/Plural|| + || - ||
+|| Etymology || - || - ||
+|| Term usage || + || - ||
+|| Phone || + || - ||
+|| Address || + || - ||
+|| See also || + || + ||
+|| Synonyms || + || - ||
+|| Antonyms || + || - ||
+|| Source || + || - ||
+|| A custom field || - || - ||
+|| || || ||
+|| * Interface languages * || || ||
+|| Creating, editing || + (PHP) || - ||
+|| Import || - || - ||
+|| Export || - || - ||
 || || || ||
 || * Alphabetic order * || || ||
 || Creating, editing || + || - ||
@@ -70,6 +103,16 @@
 || * Search queries log * || || ||
 || Browse by a category || + || - ||
 || Clean || + || - ||
+|| || || ||
+|| * Sidepanel  * || || ||
+|| Customizable placement || - || - ||
+|| Customizable infoblocks || - || - ||
+|| Customizable sorting order || - || - ||
+|| || || ||
+|| * Administrative menu * || || ||
+|| Customizable placement || + || - ||
+|| Customizable menu items || + || - ||
+|| Customizable sorting order || + || - ||
 || || || ||
 || * System settings * || || ||
 || Editing || + || + ||
