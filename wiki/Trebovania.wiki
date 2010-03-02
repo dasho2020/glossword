@@ -1,5 +1,5 @@
 #summary Что необходимо для запуска Glossword?
-#labels вопрос.ответ,rus,Featured
+#labels вопрос.ответ,rus
 
 === Что необходимо для запуска Glossword? ===
 
