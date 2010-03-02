@@ -9,7 +9,7 @@
 || Export XML / CSV / TSV / SQL || +/+/+/+ || +/+/+/- ||
 || History of changes || + || - ||
 || Pagination || + || + ||
-|| Customizable number of terms per page || + || + ||
+|| Customizable number of terms per page (backend/frontend) || +/- || +/+ ||
 || Definition text preview || + || + ||
 || Complete text of the definitions || + || + ||
 || Customizable definition preview || - || ++ ||
