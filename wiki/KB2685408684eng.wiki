@@ -17,6 +17,18 @@
 || HTML-code || + || + ||
 || Multilingual variants for definitions || - || ++ ||
 || || || ||
+|| * Dictionaries * || || (replaced by Tags) ||
+|| Creating, editing || + || - ||
+|| || || ||
+|| * Topics * || || (replaced by Tags) ||
+|| Creating, editing || + || - ||
+|| Import || + || - ||
+|| Export || + || - ||
+|| Customizable sorting order || + || - ||
+|| || || ||
+|| * Tags * || || ||
+|| Creating, editing || - || - ||
+|| Tags-based navigation || - || - ||
 || * Infoblocks * || || ||
 || Creating, editing || - || ++ ||
 || Import || - || ++ ||
@@ -50,6 +62,20 @@
 || Creating, editing || + || -- ||
 || Import || + || -- ||
 || Export || + || -- ||
+|| || || ||
+|| * User management* || || ||
+|| Personal profile || + || + ||
+|| Registering, editing || + || -- ||
+|| || || ||
+|| * Search queries log * || || ||
+|| Browse by a category || + || - ||
+|| Clean || + || - ||
+|| || || ||
+|| * System settings * || || ||
+|| Editing || + || + ||
+|| Grouping || + || + ||
+|| Import || - || - ||
+|| Export || - || - ||
 || || || ||
 || * Maintenance * || || ||
 || Update || - || - ||
