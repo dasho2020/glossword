@@ -1,0 +1,17 @@
+#summary Compare versions
+#labels 1.9
+
+|| *Feature* || *1.8.11* || *1.9 ||
+|| *Terms* || || ||
+|| Creating, editing || + || + ||
+|| Import, XML || + || + ||
+|| Import, CSV / TSV || -/+ || +/+ ||
+|| History of changes || + || - ||
+|| Pagination || + || + ||
+|| Customizable number of terms per page || + || + ||
+|| Definition text preview || + || + ||
+|| Complete text of the definitions || + || + ||
+|| Wiki-code || - || + ||
+|| HTML-code || + || + ||
+|| HTML-code || + || + ||
+|| Multilingual variants for definitions || - || + ||
