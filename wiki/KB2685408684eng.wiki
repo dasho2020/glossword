@@ -76,6 +76,7 @@
 || Import || + || - ||
 || Export || + || - ||
 || Customizable placement || + (HTML) || - (GUI) ||
+|| Customizable sorting order || + || - ||
 || Caching || + (DB) || + (DB, HTML) ||
 || || || ||
 || * A custom pages * || || ||
