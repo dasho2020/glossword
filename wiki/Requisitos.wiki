@@ -1,5 +1,5 @@
 #summary ¿Qué se requiere para ejecutar Glossword?
-#labels FAQ,spa,Featured
+#labels FAQ,spa
 
 === ¿Qué se requiere para ejecutar Glossword? ===
 
