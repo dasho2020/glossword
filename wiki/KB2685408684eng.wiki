@@ -2,7 +2,7 @@
 #labels 1.9
 
 || *Feature* || *1.8.11* || *1.9* ||
-
+|| || || ||
 || *Terms and definitions* || || ||
 || Creating, editing || + || + ||
 || Import XML / CSV / TSV || +/+/+ || +/+/+ ||
@@ -16,22 +16,21 @@
 || Wiki-code || - || ++ ||
 || HTML-code || + || + ||
 || Multilingual variants for definitions || - || ++ ||
-
-
+|| || || ||
 || * Infoblocks * || || ||
 || Creating, editing || - || ++ ||
 || Support for a plain text || - || ++ ||
 || Support for executable php || - || ++ ||
 || Customizable placement || - || top | button ||
 || Customizable sorting order || - || - ||
-
+|| || || ||
 || * Alphabetic order * || || ||
 || Creating, editing || + || - ||
 || Import || + || - ||
 || Export || + || - ||
 || Customizable placement || + (HTML) || - (GUI) ||
 || Caching || - || + ||
-
+|| || || ||
 || * Maintenance * || || ||
 || Update || - || - ||
 || Recount the number of terms || + || - ||
@@ -43,7 +42,7 @@
 || Repair / optimize tables || - || ++ ||
 || Search and replace || - || - ||
 
-to be continued
+to be continued...
 
 Legend:
  * - not implemented (but planned in 1.9)
