@@ -1,5 +1,5 @@
 #summary How to install Glossword 1.9?
-#labels 1.9,FAQ
+#labels 1.9,FAQ,Featured
 = How to install =
 
  # Log in to Joomla as Administrator and install the component. Follow Extensions -> Install/Uninstall. Select file `glossword-1.9.x--component--joomla-1.5.zip`.
