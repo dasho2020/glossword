@@ -18,8 +18,6 @@
 
 === How to donate ===
 
- * Use *[http://www.wmtransfer.com/ WebMoney]* Transfer. WMZ: `Z241028126563`.
-
  * Use *[http://money.yandex.ru/ Yandex.Money]*. Wallet: `41001147962081`.
 
  * Use *Western Union*. To send money, [http://www.westernunion.com/info/agentLocator.asp find the nearest Western Union department] located in your city.
