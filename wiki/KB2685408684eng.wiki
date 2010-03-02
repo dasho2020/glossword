@@ -2,7 +2,8 @@
 #labels 1.9
 
 || *Feature* || *1.8.11* || *1.9* ||
-|| *Terms* || || ||
+
+|| *Terms and definitions* || || ||
 || Creating, editing || + || + ||
 || Import XML / CSV / TSV || +/+/+ || +/+/+ ||
 || Export XML / CSV / TSV / SQL || +/+/+/+ || +/+/+/- ||
@@ -11,25 +12,41 @@
 || Customizable number of terms per page || + || + ||
 || Definition text preview || + || + ||
 || Complete text of the definitions || + || + ||
-|| Wiki-code || - || + ||
+|| Customizable definition preview || - || ++ ||
+|| Wiki-code || - || ++ ||
 || HTML-code || + || + ||
-|| Multilingual variants for definitions || - || + ||
+|| Multilingual variants for definitions || - || ++ ||
+
+
+|| * Infoblocks * || || ||
+|| Creating, editing || - || ++ ||
+|| Support for a plain text || - || ++ ||
+|| Support for executable php || - || ++ ||
+|| Customizable placement || - || top | button ||
+|| Customizable sorting order || - || - ||
+
+|| * Alphabetic order * || || ||
+|| Creating, editing || + || - ||
+|| Import || + || - ||
+|| Export || + || - ||
+|| Customizable placement || + (HTML) || - (GUI) ||
+|| Caching || - || + ||
+
 || * Maintenance * || || ||
-|| Update || - || . ||
-|| Recount the number of terms || + || . ||
+|| Update || - || - ||
+|| Recount the number of terms || + || - ||
 || Clean the dictionary || + || + ||
 || Clean the cache || + || + ||
-|| Clean history of changes || + || . ||
+|| Clean history of changes || + || - ||
 || Merge dictionaries || + || -- ||
 || Backup || + || . ||
 || Repair / optimize tables || - || ++ ||
-|| Search and replace || - || . ||
+|| Search and replace || - || - ||
 
 to be continued
 
 Legend:
-- not implemented
-+ implemented
-. not implemented but planned
--- not implemented and no planned
-++ unique implemented
+ * - not implemented (but planned in 1.9)
+ * + implemented
+ * -- not implemented and no planned
+ * ++ unique implemented
