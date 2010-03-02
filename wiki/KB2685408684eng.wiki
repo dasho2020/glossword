@@ -33,6 +33,24 @@
 || Customizable placement || + (HTML) || - (GUI) ||
 || Caching || + (DB) || + (DB, HTML) ||
 || || || ||
+|| * A custom pages * || || ||
+|| Creating, editing || + || -- ||
+|| Import || + || -- ||
+|| Export || + || -- ||
+|| * Abbreviations * || || ||
+|| Creating, editing || + || - ||
+|| Import || - || - ||
+|| Export || - || - ||
+|| * Virtual keyboards * || || ||
+|| Creating, editing || + || - ||
+|| Import || + || - ||
+|| Export || + || - ||
+|| || || ||
+|| * Visual themes * || || ||
+|| Creating, editing || + || -- ||
+|| Import || + || -- ||
+|| Export || + || -- ||
+|| || || ||
 || * Maintenance * || || ||
 || Update || - || - ||
 || Recount the number of terms || + || - ||
@@ -40,7 +58,7 @@
 || Clean the cache || + || + ||
 || Clean history of changes || + || - ||
 || Merge dictionaries || + || -- ||
-|| Backup || + || . ||
+|| Backup || + || - ||
 || Repair / optimize tables || - || ++ ||
 || Search and replace || - || - ||
 
