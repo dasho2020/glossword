@@ -14,5 +14,22 @@
 || Wiki-code || - || + ||
 || HTML-code || + || + ||
 || Multilingual variants for definitions || - || + ||
+|| * Maintenance * || || ||
+|| Update || - || . ||
+|| Recount the number of terms || + || . ||
+|| Clean the dictionary || + || + ||
+|| Clean the cache || + || + ||
+|| Clean history of changes || + || . ||
+|| Merge dictionaries || + || -- ||
+|| Backup || + || . ||
+|| Repair / optimize tables || - || ++ ||
+|| Search and replace || - || . ||
 
-...
+to be continued
+
+Legend:
+- not implemented
++ implemented
+. not implemented but planned
+-- not implemented and no planned
+++ unique implemented
