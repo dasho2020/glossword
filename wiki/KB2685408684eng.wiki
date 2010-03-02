@@ -4,8 +4,8 @@
 || *Feature* || *1.8.11* || *1.9* ||
 || *Terms* || || ||
 || Creating, editing || + || + ||
-|| Import, XML || + || + ||
-|| Import, CSV / TSV || -/+ || +/+ ||
+|| Import XML / CSV / TSV || +/-/+ || +/+/+ ||
+|| Export XML / CSV / TSV / SQL || +/-/+/+ || +/+/+/- ||
 || History of changes || + || - ||
 || Pagination || + || + ||
 || Customizable number of terms per page || + || + ||
