@@ -19,6 +19,8 @@
 || || || ||
 || * Infoblocks * || || ||
 || Creating, editing || - || ++ ||
+|| Import || - || ++ ||
+|| Export || - || ++ ||
 || Support for a plain text || - || ++ ||
 || Support for executable php || - || ++ ||
 || Customizable placement || - || top | button ||
