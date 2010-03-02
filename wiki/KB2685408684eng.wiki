@@ -23,7 +23,7 @@
 || Export || - || ++ ||
 || Support for a plain text || - || ++ ||
 || Support for executable php || - || ++ ||
-|| Customizable placement || - || top | button ||
+|| Customizable placement || - || top/button ||
 || Customizable sorting order || - || - ||
 || || || ||
 || * Alphabetic order * || || ||
@@ -31,7 +31,7 @@
 || Import || + || - ||
 || Export || + || - ||
 || Customizable placement || + (HTML) || - (GUI) ||
-|| Caching || - || + ||
+|| Caching || + (DB) || + (DB, HTML) ||
 || || || ||
 || * Maintenance * || || ||
 || Update || - || - ||
