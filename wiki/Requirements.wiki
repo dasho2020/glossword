@@ -1,5 +1,5 @@
 #summary What is required to run Glossword?
-#labels FAQ,eng,Featured
+#labels FAQ,eng
 
 === What is required to run Glossword? ===
 
