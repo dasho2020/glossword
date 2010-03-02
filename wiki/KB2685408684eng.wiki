@@ -1,5 +1,5 @@
 #summary Compare versions
-#labels 1.9
+#labels 1.9,1.8,eng,Featured
 
 || *Feature* || *1.8.11* || *1.9* ||
 || || || ||
