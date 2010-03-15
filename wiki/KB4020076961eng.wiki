@@ -5,19 +5,19 @@
 
 === Changes in 1.9.1 (released on March 15, 2010) ===
 
-- Added Russian translation
-- Added Other XML-format to Import. You may import RSS, Atom, whatever. http://twitpic.com/18mfsq http://twitpic.com/18mfyc
-- Added a search form to dictionary pages (José Marcos)
-- Added sorting order when managing terms http://tinypic.com/r/2rqk0eb/5
-- Updated System settings page - more phrases, more settings. http://tinypic.com/r/174v83/5
-- Added sef-modes for links creation. http://bit.ly/dl10Eh http://bit.ly/d7h6HU
-- Added caching for the list of terms, for block with prev/next terms, and for all html-output in general.
-- Added groups for alphabetic order.
-- Fixed issues with displaying Recently updated terms.
-- A quick form to add a term placed to Control panel home
-- Fixes for unexpected input for XML-import.
-- Fixed incorrect column ordering for CSV-import when a custom column number has been used.
-- A transitional redirect removed for User settings, System settings, Repair / optimize. Less redirects is better.
+ * Added Russian translation
+ * Added Other XML-format to Import. You may import RSS, Atom, whatever. http://twitpic.com/18mfsq http://twitpic.com/18mfyc
+ * Added a search form to dictionary pages (José Marcos)
+ * Added sorting order when managing terms http://tinypic.com/r/2rqk0eb/5
+ * Updated System settings page - more phrases, more settings. http://tinypic.com/r/174v83/5
+ * Added sef-modes for links creation. http://bit.ly/dl10Eh http://bit.ly/d7h6HU
+ * Added caching for the list of terms, for block with prev/next terms, and for all html-output in general.
+ * Added groups for alphabetic order.
+ * Fixed issues with displaying Recently updated terms.
+ * A quick form to add a term placed to Control panel home
+ * Fixes for unexpected input for XML-import.
+ * Fixed incorrect column ordering for CSV-import when a custom column number has been used.
+ * A transitional redirect removed for User settings, System settings, Repair / optimize. Less redirects is better.
 
 === Changes in 1.8.12 (not yet released) ===
 
