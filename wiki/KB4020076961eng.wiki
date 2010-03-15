@@ -3,123 +3,27 @@
 
 == The list of changes in Glossword ==
 
+=== Changes in 1.9.1 (released on March 15, 2010) ===
+
+- Added Russian translation
+- Added Other XML-format to Import. You may import RSS, Atom, whatever. http://twitpic.com/18mfsq http://twitpic.com/18mfyc
+- Added a search form to dictionary pages (José Marcos)
+- Added sorting order when managing terms http://tinypic.com/r/2rqk0eb/5
+- Updated System settings page - more phrases, more settings. http://tinypic.com/r/174v83/5
+- Added sef-modes for links creation. http://bit.ly/dl10Eh http://bit.ly/d7h6HU
+- Added caching for the list of terms, for block with prev/next terms, and for all html-output in general.
+- Added groups for alphabetic order.
+- Fixed issues with displaying Recently updated terms.
+- A quick form to add a term placed to Control panel home
+- Fixes for unexpected input for XML-import.
+- Fixed incorrect column ordering for CSV-import when a custom column number has been used.
+- A transitional redirect removed for User settings, System settings, Repair / optimize. Less redirects is better.
+
 === Changes in 1.8.12 (not yet released) ===
 
 bug fixes
 
     * fixed error with installation into root (Issue #88) (jeefuu).
-
-=== Changes in 1.8.11 (released on August 18, 2008) ===
-
-updates
-    * changed the print version for all visual themes.
-    * added the number of terms to HTML-title of page with search results.
-    * added more informative titles for pages when editing a visual theme.
-
-bug fixes
-
-    * fixed PHP-warning on rollback (José Marcos).
-    * fixed error on merging dictionaries (Issue #78) (gtranslator).
-    * fixed the link to clear cached files.
-    * fixed error with indexing terms (Issue #73) (Alexander).
-    * fixed PHP-warning on ordering a custom pages (Maarten).
-    * fixed the usage of ampersand (&) in See Also, Synonym and Antonym fields (José Marcos).
-    * fixed error with accessing site when SEF-mode is turned on and when Glossword is installed into root directory (Issue #76) (Dohuutuan).
-
-
-=== Changes in 1.8.10 (released on July 13, 2008) ===
-
-new features or major changes
-    * new installation procedure.
-    * new design for administrative interface. ([http://glossword.googlecode.com/svn/wiki/1.8.10-sf_cp_home.jpg img])
-    * added new maintenance task - change Dictionary ID. ([http://glossword.googlecode.com/svn/wiki/change_dictionary_id_eng.png img])
-    * added the possibility to select all terms in a dictionary. ([http://glossword.googlecode.com/svn/wiki/adm_select_all_terms.png img]) (José Marcos)
-    * added the ability to set maximum execution time for import. ([http://glossword.googlecode.com/svn/wiki/xml_import-maximum_execution_time_eng.png img])
-    * extended the number of terms: published / unapproved / total. ([http://glossword.googlecode.com/svn/wiki/published_unapproved_total_eng.png img]) (Oleg Boldenkov)
-    * added option "Save in the history of changes" on removing terms. ([http://glossword.googlecode.com/svn/wiki/adm_term_remove.png img])
-    * reduced memory requirements for XML-import (from ~9 MB to ~5 MB for 500 terms).
-    * added the ability to search in published terms only, unapproved terms only or both. ([http://glossword.googlecode.com/svn/wiki/search_6_options_eng.png img])
-    * the number of database requests for installation has been reduced in more than 11 times (from 1819 to 169).
-
-updates
-    * added more usability improvements.
-    * added more statistics during XML-importing. ([http://glossword.googlecode.com/svn/wiki/import_statistics_eng.png img])
-    * the link Powered by Glossword opens in a new window.
-    * reduced file size of CAPTCHA image (from 15 KB to 2.5 KB).
-    * added prefix `visual-name` for exported files with a visual themes.
-    * added more steps for Backup for higher reliability and for lower server load.
-    * settings for SEF-mode "filename extension" and "default filename" were moved to configuration file (/inc/config.inc.php). Default settings are ".xhtml" and "index.xhtml".
-
-bug fixes
-    * fixed session issue with "ua".
-    * fixed HTML-markup for Menu manager.
-    * fixed the link to viewing a term after editing.
-    * fixed the link to visual themes in admin interface.
-    * fixed issue with saving settings when importing terms.
-    * fixed PHP-warning on activating or deactivating a topic. (John Fox)
-    * fixed issue with editing the list of assigned dictionaries.
-    * fixed the link to dictionary from editing the user profile.
-    * fixed PHP-warning on activating or deactivating a dictionary. (Juergen Bartsch)
-    * fixed the link to "My settings" from editing the user profile.
-    * fixed issue with indexing definition text on importing CSV/XML.
-    * fixed the "a href" links for terms imported by using CSV-format.
-    * fixed error with comma (,) in a dictionary name when SEF-mode is on. (John Fox)
-    * fixed issue with the selection of topic on adding or editing topics.
-    * fixed error with linking terms when anti-leecher and SEF are enabled. (Issue #69)
-    * fixed a minor issue with highlighting the current term in the history of changes.
-    * fixed error on editing multiply values for fields like See also, Synonym, Antonym. (Marc).
-    * fixed issue with the selection of previously selected option in a search HTML-form.
-
-
-=== Changes in 1.8.9 (released on May 07, 2008) ===
-
-new features or major changes
-    * changed Backup to make backup per dictionary.
-    * added auto-asterisks for searching Japanese and Korean characters, i.e. `*`あ`*`, `*`걙`*` (poophnom).
-
-updates
-    * added progress bar to Backup.
-    * added page auto-refresh to Backup.
-    * added progress bar to Terms - Import.
-
-bug fixes
-    * fixes the update from 1.8.7 to 1.8.8 for virtual keyboards (Zdenko).
-    * fixed PHP-warning on editing a dictionary when SEF is turned off (Zdenko)
-    * fixed one side effect of several "updates" - corrupted custom alphabetic order (Zdenko).
-
-=== Changes in 1.8.8 (released on April 30, 2008) ===
-
-new features or major changes
-    * added two reports for the log of search queries.
-    * added new option "Publish imported terms" for importing terms (d.priskorn).
-    * added new option "Merge identical terms" for merging dictionaries (d.priskorn).
-    * added the ability to continue editing from where the user left (d.priskorn).
-    * added new option "Allow simultaneous access" for the user account.
-    * added multilingual transliteration (!) for creating a link to term when SEF mode is on.
-
-updates
-    * added more queries to sql-cache.
-    * added icon for virtual keyboard.
-    * added easier removing of a virtual keyboard.
-    * added `intransitive verb` into abbreviations.
-    * added column "Last logged date" to the list of users.
-    * added link to add a term from editing dictionary setting.
-    * added link to edit dictionary setting from term editing page.
-    * added the ability to switch interface language at log-in page (Zdenko).
-    * added link "My account" to access user settings instead of the link "Edit".
-    * better automated generation for Term URI and Dictionary URI for better SEO.
-    * added Rwanda (Kinyarwanda) to the list of supported languages of interface.
-    * added automatic ignoring of circumflex on the âÂ / îÎ / ûÛ for Turkish custom alphabetic order.
-
-bug fixes
-    * fixed error when importing terms (#53, d.priskorn).
-    * fixed a minor issue on sending feedback.
-    * fixed issue on retrieving a new password.
-    * fixed issue on removing a virtual keyboard.
-    * fixed issue on switching interface language.
-    * fixed link to the list of maintenance tasks.
-    * fixed a minor issue on viewing the user profile.
-    * fixed issue on browsing dictionaries from admin panel.
 
 
 :[KB1642090376 Release dates] [KB897558307eng The list of changes, archive] [KB3152042159eng Glossword Lifecycle Policy] [TODO Things to do]
