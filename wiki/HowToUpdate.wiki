@@ -1,6 +1,14 @@
 #summary How to update Glossword?
 
-=== How to update Glossword? ===
+=== How to update Glossword 1.9? ===
+
+A common way to update:
+ # Export dictionaries into Glossword XML.
+ # Uninstall Glossword component.
+ # Download and install a new Glossword version.
+ # Import data from XML-file.
+
+=== How to update Glossword 1.8? ===
 
 _Note:_ Be sure you have a backup copy of your database tables before running update. Follow "System -> System maintenance -> Backup". Complete all steps.
 
