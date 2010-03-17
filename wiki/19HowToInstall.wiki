@@ -4,6 +4,6 @@
 
  # Log in to Joomla as Administrator and install the component. Follow Extensions -> Install/Uninstall. Select file `glossword-1.9.x--component--joomla-1.5.zip`.
  # After installation, configure Glossword component. Follow Components -> Glossword -> Configure component. Review the values and SAVE the configuration.
- # Add component to any of Joomla menus (for eample Top menu, Main menu).
+ # Add component to any of Joomla menus (for example Top menu, Main menu).
 
 Now you should be able to use Glossword component.
