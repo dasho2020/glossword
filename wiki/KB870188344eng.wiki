@@ -1,6 +1,8 @@
 #summary Commercial Licenses
 #labels eng
 
+*Glossword 1.8*
+
 Commercial Licenses offer a flexible way to use Glossword in commercial purposes. Commercial Licenses are not required for personal or commercial use if you wish to use Glossword in a standard manner and will be leaving the copyright notices and links visible on all pages of your glossary. Any non-standard use, including removal of the copyrights, requires a license.
 
 === Commercial License - Closed Distribution License - CDL, Single Site ===
