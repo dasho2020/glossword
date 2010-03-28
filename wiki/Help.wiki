@@ -23,7 +23,7 @@
  * Use *Western Union*. To send money, [http://www.westernunion.com/info/agentLocator.asp find the nearest Western Union department] located in your city.
  {{{
       Receiver
-      First name: Nickolay
+      First name: Dmitry
       Last name: Shilnikov
       Town/City: Moscow
       Country: Russian Federation
