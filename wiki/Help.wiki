@@ -25,7 +25,7 @@
       Receiver
       First name: Dmitry
       Last name: Shilnikov
-      Town/City: Moscow
+      Town/City: Noginsk, Moscow Region
       Country: Russian Federation
 }}}
  To get the money, I need to know from you:
