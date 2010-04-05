@@ -5,30 +5,31 @@
 
 === Changes in 1.9.3  ===
 
- * Added configurable placement for alphabetic toolbar http://twitpic.com/1dd26m
- * Fixes for Editing system settings HTML-form.
- * Added a new column "Locale" to the list of languages to manage.
- * Fixes for the list of languages in Localization.
- * Added the selection of languages to a quick HTML-form.
- * Added Import/Export for a custom alphabetic orders
  * Added a custom alphabetic orders http://twitpic.com/1cgimz
- * Fixes for complete/incomplete Term mark.
+ * Added a new column "Locale" to the list of languages to manage.
+ * Added configurable placement for alphabetic toolbar http://twitpic.com/1dd26m
+ * Added Import/Export for a custom alphabetic orders
+ * Added more options to Import Terms http://twitpic.com/1bel6j
+ * Added the ability to import from a remote source http://twitpic.com/1ap1gp
+ * Added the selection of languages to a quick HTML-form.
  * Better animation for unfolding elements of html-forms
  * Fixed a visual bug for unfolding elements of html-forms
- * Added more options to Import Terms http://twitpic.com/1bel6j
  * Fixed PHP-warning for class.template3.ext.php
- * Added the ability to import from a remote source http://twitpic.com/1ap1gp
+ * Fixes for complete/incomplete Term mark.
+ * Fixes for Editing system settings HTML-form.
+ * Fixes for the list of languages in Localization.
+
 
 === Changes in 1.9.2 (released on March 23, 2010) ===
 
  * A special characters joined with an alphabetic toolbar
- * Added option "Place the link to term" http://twitpic.com/1acnca 
  * Added Import/Export for a Translation Variants 
- * Added Localization Tool (Languages, Translation variants, Installed translations) http://twitpic.com/1a8ju5 http://twitpic.com/1a8jyl
- * Fixed bug with displaying a few special characters in html-tag title. 
  * Added Interface Languages Manager with Import/Export support. http://twitpic.com/19eqt2 http://twitpic.com/19er9a 
+ * Added Localization Tool (Languages, Translation variants, Installed translations) http://twitpic.com/1a8ju5 http://twitpic.com/1a8jyl
+ * Added option "Place the link to term" http://twitpic.com/1acnca 
  * Fixed a bug in the CSV-import (`Read the first line` enabled) 
  * Fixed a bug in the navigation of sorted terms. 
+ * Fixed bug with displaying a few special characters in html-tag title. 
  * Solution to bypass MySQL stopwords (without editing `ft_stopword_file`) were found. 
 
 === Changes in 1.9.1 (released on March 15, 2010) ===
