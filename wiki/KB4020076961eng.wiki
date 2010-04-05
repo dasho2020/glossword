@@ -6,7 +6,7 @@
 === Changes in 1.9.3  ===
 
  * Added a custom alphabetic orders http://twitpic.com/1cgimz
- * Added a new column "Locale" to the list of languages to manage.
+ * Added a new column "Locale" on the Management interface languages page.
  * Added configurable placement for alphabetic toolbar http://twitpic.com/1dd26m
  * Added Import/Export for a custom alphabetic orders
  * Added more options to Import Terms http://twitpic.com/1bel6j
