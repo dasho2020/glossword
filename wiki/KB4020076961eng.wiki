@@ -17,6 +17,7 @@
  * Fixed PHP-warning for class.template3.ext.php
  * Fixes for complete/incomplete Term mark.
  * Fixes for Editing system settings HTML-form.
+ * Fixes for the links with the selection of sorting order.
  * Fixes for the list of languages in Localization.
 
 
