@@ -3,7 +3,7 @@
 
 == The list of changes in Glossword ==
 
-=== Changes in 1.9.3  ===
+=== Changes in 1.9.3 (released on April 6, 2010) ===
 
  * Added a custom alphabetic orders http://twitpic.com/1cgimz
  * Added a new column "Locale" on the Management interface languages page.
