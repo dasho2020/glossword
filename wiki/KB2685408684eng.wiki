@@ -67,16 +67,16 @@
 || A custom field || - || - ||
 || || || ||
 || * Interface languages * || || ||
-|| Creating, editing || + (PHP) || - ||
-|| Import || - || - ||
-|| Export || - || - ||
+|| Creating, editing || + (PHP) || + (1.9.2) ||
+|| Import || - || + (1.9.2) ||
+|| Export || - || + (1.9.2) ||
 || || || ||
 || * Alphabetic order * || || ||
-|| Creating, editing || + || - ||
-|| Import || + || - ||
-|| Export || + || - ||
-|| Customizable placement || + (HTML) || - (GUI) ||
-|| Customizable sorting order || + || - ||
+|| Creating, editing || + ||  + (1.9.3) ||
+|| Import || + || + (1.9.3) ||
+|| Export || + || + (1.9.3) ||
+|| Customizable placement || + (HTML) || + 1.9.3 (GUI) ||
+|| Customizable sorting order || + || + 1.9.3 ||
 || Caching || + (DB) || + (DB, HTML) ||
 || || || ||
 || * A custom pages * || || ||
