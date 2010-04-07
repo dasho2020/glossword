@@ -131,6 +131,13 @@
 || Backup || + || - ||
 || Repair / optimize tables || - || ++ ||
 || Search and replace || - || - ||
+|| * Standalone version * || || ||
+|| Index page || + || - ||
+|| User management (Editing, Registration) || + || - ||
+|| Authorization || + || - ||
+|| Search || + || - ||
+|| Installation/Uninstallation || + || - ||
+
 
 to be continued...
 
