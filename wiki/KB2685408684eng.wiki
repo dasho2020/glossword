@@ -134,9 +134,10 @@
 || * Standalone version * || || ||
 || Index page || + || - ||
 || User management (Editing, Registration) || + || - ||
-|| Authorization || + || - ||
+|| Authorization (Password reminder) || + || - ||
 || Search || + || - ||
 || Installation/Uninstallation || + || - ||
+|| Update || + || - ||
 
 
 to be continued...
