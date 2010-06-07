@@ -1,5 +1,5 @@
 #summary The list of changes
-#labels eng,Featured
+#labels eng
 
 == The list of changes in Glossword ==
 
