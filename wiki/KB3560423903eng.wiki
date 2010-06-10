@@ -1,8 +1,4 @@
 #summary How to create a new translation?
 #labels FAQ,eng,1.9.x
 
-=== How to create a new translation? ===
-
- # If interface language does not exist, add language and fill all fields correctly: Service -> Localization -> Languages -> Add 
- # Translate phrases: Service -> Localization -> Translation variants
- # Make sure that the language has appear in the list of available translations: Service -> Localization -> Translations
+[http://glossword.biz/kb-l]
