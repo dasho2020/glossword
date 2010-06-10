@@ -1,4 +1,0 @@
-#summary How settings for visual theme and interface language work?
-#labels FAQ,eng
-
-[http://glossword.biz/kb-k]
