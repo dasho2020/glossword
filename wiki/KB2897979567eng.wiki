@@ -3,6 +3,12 @@
 
 === How to create a translation? ===
 
+=== 1.9 ===
+
+[http://glossword.biz/kb-l]
+
+=== 1.8 ===
+
 DO NOT EDIT PHP-files manually. Because there are a lot of technical questions you need to resolve. Alteration of the files may cause Glossword to malfunction. 
 
 The most common errors: 
