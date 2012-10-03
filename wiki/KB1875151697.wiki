@@ -54,7 +54,7 @@ Examples for:
  * Inuit-English dictionary
  * TCP-ports
  * Greek-English dictionary
- * English - (Chinese <-> Latvian <-> Russian) dictionary
+ * English - (Chinese `<->` Latvian `<->` Russian) dictionary
 
 || *A*    || *B* 	|| *C* 	|| *D* 	|| *E* 	|| *F* 	|| *G* 	|| *H*	|| *I*	|| *J*	|| *K*	|| *L*   ||
 || *0*    || *1* 	|| *2* 	|| *3* 	|| *4* 	|| *5* 	|| *6* 	|| *7*	|| *8*	|| *9*	|| *10*	|| *11*  ||
